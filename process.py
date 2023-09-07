@@ -19,7 +19,7 @@ def handler():
             "part": "snippet",
             "channelId": channel_id,
             "key": api_key,
-            "maxResults": 50
+            "maxResults": 50,
         },
     )
     playlists = playlists.json()

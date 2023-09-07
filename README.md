@@ -2,12 +2,14 @@
 
 ![Mexico is fine](./thij_ij_fine.png)
 
-A corpus of publicly available speeches for Mexican president Andres Manuel Lopez Obrador. 
+A corpus of publicly available speeches from Mexican president Andres Manuel Lopez Obrador. 
 Currently data is sourced exclusively from YouTube. For some videos it was not possible to get the automatically generated subtitles to source the transcriptions, in future iterations a mechanism will be added to translate them into text.
 
 *Image source: https://twitter.com/marianojuarez/status/1148739501604450304*
 
 ## Data
+
+Individual files in JSON format are provided under the `data` folder. Additionally, a script is provided to generate a file in CSV format with all records. Sample record:
 
 ```json
 {
