@@ -9,85 +9,57 @@ Currently data is sourced exclusively from YouTube. For some videos it was not p
 
 ## Data
 
-### `data/videos`
-
-Contains metadata for videos, example:
 ```json
 {
-  "videoId": "0FC2hPICv_I",
-  "thumbnail": {
-    "thumbnails": [
-      {
-        "url": "https://i.ytimg.com/vi/0FC2hPICv_I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDK79ljIlhRvG3rQFqewL1AKzIuBw",
-        "width": 168,
-        "height": 94
-      },
-      {
-        "url": "https://i.ytimg.com/vi/0FC2hPICv_I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBKCkdK_f6bUJiITyk7kKIFpJ8XTA",
-        "width": 196,
-        "height": 110
-      },
-      {
-        "url": "https://i.ytimg.com/vi/0FC2hPICv_I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmZy5ycp9vPqvw9gFfPG_TBc97iQ",
-        "width": 246,
-        "height": 138
-      },
-      {
-        "url": "https://i.ytimg.com/vi/0FC2hPICv_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC07voSlTHWDbnvsgZI6mrje6o3ew",
-        "width": 336,
-        "height": 188
-      }
-    ]
-  },
-  "title": {
-    "runs": [
-      {
-        "text": "Regreso voluntario y seguro a clases presenciales. Ciclo 2021-2022. Conferencia presidente AMLO"
-      }
+    "video_id": "_uNpYoBHukM",
+    "video_thumbnail_url": "https://i.ytimg.com/vi/_uNpYoBHukM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiA5GPXPQfIJ7UxkMLQKQY9gKhhQ",
+    "video_url": "https://www.youtube.com/watch?v=_uNpYoBHukM",
+    "video_title": "M\u00e9xico garantiza derecho de asilo a solicitantes de Nicaragua. Conferencia presidente AMLO",
+    "video_length_seconds": 10097,
+    "transcription_with_timestamps": [
+        {
+            "text": "el INE no se toca",
+            "start": 1803.179,
+            "duration": 5.761
+        },
+        {
+            "text": "pero tambi\u00e9n",
+            "start": 1806.6,
+            "duration": 5.959
+        },
+        {
+            "text": "Garc\u00eda Luna no se toca",
+            "start": 1808.94,
+            "duration": 3.619
+        },
+        {
+            "text": "y en el fondo es",
+            "start": 1812.779,
+            "duration": 3.081
+        },
+        {
+            "text": "el r\u00e9gimen",
+            "start": 1816.159,
+            "duration": 6.781
+        },
+        {
+            "text": "corrupto y conservador no se toca",
+            "start": 1818.26,
+            "duration": 4.68
+        },
+        {
+            "text": "para eso es pero es bueno",
+            "start": 1826.039,
+            "duration": 4.941
+        }
     ],
-    "accessibility": {
-      "accessibilityData": {
-        "label": "Regreso voluntario y seguro a clases presenciales. Ciclo 2021-2022. Conferencia presidente AMLO by Andr\u00e9s Manuel L\u00f3pez Obrador Streamed 2 years ago 2 hours, 5 minutes 726,953 views"
-      }
-    }
-  },
-  "lengthSeconds": "7558"
+    "transcription_text": " el INE no se toca pero tambi\u00e9n Garc\u00eda Luna no se toca y en el fondo es el r\u00e9gimen corrupto y conservador no se toca para eso es pero es bueno",
+    "transcription_source": "YouTube auto-generated captions",
+    "playlist_id": "PLRnlRGar-_296KTsVL0R6MEbpwJzD8ppA",
+    "playlist_title": "Conferencias de prensa matutinas",
+    "published_time_text": "Streamed 6 months ago",
+    "retrieved_time": "2023-09-07 20:16:50.123990"
 }
-```
-
-### `data/transcriptions_raw`
-
-Contains transcriptions with timestamps and duration, example:
-```json
-[
-  {
-    "text": "a los conservadores corruptos",
-    "start": 8210.7,
-    "duration": 7.979
-  },
-  {
-    "text": "es la estrategia m\u00e1s usual",
-    "start": 8214.479,
-    "duration": 7.801
-  },
-  {
-    "text": "para socavar para destruir Un gobierno",
-    "start": 8218.679,
-    "duration": 6.601
-  },
-  {
-    "text": "popular",
-    "start": 8222.28,
-    "duration": 3.0
-  }
-]
-```
-
-### `data/merged_transcriptions_flattened`
-
-Contains flattened text with transcriptions, example:
-```
-todo este fruto podrido todo esto se heredó de la aplicación de una política económica antipopular y entreguista donde lo único que les importaba saquear robar el gobierno no estaba hecho para servir al pueblo estaba convertido en un facilitador para la corrupción todavía tenemos y enfrentar esa inercia esa la herencia ese fruto podrido ese cochinero que nos dejaron pero vamos a limpiar al país se va a acabar la corrupción se va a acabar la impunidad y va a haber justicia me canso ganso y estoy optimista porque cuento con el apoyo de las fuerzas armadas
 ```
 
 ## How to run?
@@ -100,17 +72,9 @@ pip3 install -r requirements.txt
 ```
 export YOUTUBE_V3_API_KEY={YOUR_TOKEN}
 ```
-3. Run the scraper script which retrieves all videos from the official YouTube channel:
+3. Run:
 ```
-python scrape.py
-```
-4. Run the transcriber script which retrieves transcriptions when available or generates them when they are not:
-```
-python transcribe.py
-```
-5. Run the merger script which removes timestamps, duration and leaves only flattened text:
-```
-python flatten.py
+python process.py
 ```
 
 ## Future work
