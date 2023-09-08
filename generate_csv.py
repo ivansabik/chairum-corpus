@@ -1,10 +1,9 @@
 import json
-from os import listdir
-from os.path import isfile, join
+import os
 
 import pandas as pd
 
-videos = [f for f in listdir("data") if isfile(join("data", f))]
+videos = [f for f in os.listdir("data") if os.path.isfile(os.path.join("data", f))]
 
 all_data = []
 for video in videos:

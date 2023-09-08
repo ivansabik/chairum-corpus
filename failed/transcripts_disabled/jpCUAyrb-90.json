@@ -1,0 +1,272 @@
+{
+    "videoId": "jpCUAyrb-90",
+    "thumbnail": {
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/jpCUAyrb-90/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBeqqGotK_y9sxr9CM_jkOdAnd2tg",
+                "width": 168,
+                "height": 94
+            },
+            {
+                "url": "https://i.ytimg.com/vi/jpCUAyrb-90/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdCm1Jzh-pF49Sfyxam8QoXJsYMQ",
+                "width": 196,
+                "height": 110
+            },
+            {
+                "url": "https://i.ytimg.com/vi/jpCUAyrb-90/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVUb5ElbBjZrSMJVgoJqE1_L0Kyw",
+                "width": 246,
+                "height": 138
+            },
+            {
+                "url": "https://i.ytimg.com/vi/jpCUAyrb-90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0z0oAXuUU1HpqjdVgyy0MdcaJcA",
+                "width": 336,
+                "height": 188
+            }
+        ]
+    },
+    "title": {
+        "runs": [
+            {
+                "text": "Supervisi\u00f3n de obra del Tren Maya, desde Palenque, Chiapas"
+            }
+        ],
+        "accessibility": {
+            "accessibilityData": {
+                "label": "Supervisi\u00f3n de obra del Tren Maya, desde Palenque, Chiapas by Andr\u00e9s Manuel L\u00f3pez Obrador Streamed 2 years ago 45 minutes 885,125 views"
+            }
+        }
+    },
+    "index": {
+        "simpleText": "94"
+    },
+    "shortBylineText": {
+        "runs": [
+            {
+                "text": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "navigationEndpoint": {
+                    "clickTrackingParams": "CEEQxjQYXSITCOuwubS6m4EDFWXLFgkdqOYJCw==",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "url": "/@lopezobrador",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                        }
+                    },
+                    "browseEndpoint": {
+                        "browseId": "UCxEgOKuI-n-WOJaNcisHvSg",
+                        "canonicalBaseUrl": "/@lopezobrador"
+                    }
+                }
+            }
+        ]
+    },
+    "lengthText": {
+        "accessibility": {
+            "accessibilityData": {
+                "label": "45 minutes, 30 seconds"
+            }
+        },
+        "simpleText": "45:30"
+    },
+    "navigationEndpoint": {
+        "clickTrackingParams": "CEEQxjQYXSITCOuwubS6m4EDFWXLFgkdqOYJCzIKcGxwcF92aWRlb1okVkxQTFJubFJHYXItXzI5LTFwSHRPNWFWU2NSSnRuWDF0UWJTmgEDEPos",
+        "commandMetadata": {
+            "webCommandMetadata": {
+                "url": "/watch?v=jpCUAyrb-90&list=PLRnlRGar-_29-1pHtO5aVScRJtnX1tQbS&index=94&pp=iAQB",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+            }
+        },
+        "watchEndpoint": {
+            "videoId": "jpCUAyrb-90",
+            "playlistId": "PLRnlRGar-_29-1pHtO5aVScRJtnX1tQbS",
+            "index": 93,
+            "params": "OAI%3D",
+            "playerParams": "iAQB",
+            "loggingContext": {
+                "vssLoggingContext": {
+                    "serializedContextData": "GiJQTFJubFJHYXItXzI5LTFwSHRPNWFWU2NSSnRuWDF0UWJT"
+                }
+            },
+            "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                        "url": "https://rr4---sn-q4fl6ndl.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=8e9094032adbfbdd&ip=104.179.42.180&initcwndbps=585000&mt=1694190790&oweuc="
+                    }
+                }
+            }
+        }
+    },
+    "lengthSeconds": "2730",
+    "trackingParams": "CEEQxjQYXSITCOuwubS6m4EDFWXLFgkdqOYJCw==",
+    "isPlayable": true,
+    "menu": {
+        "menuRenderer": {
+            "items": [
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Add to queue"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CEQQ_pgEGAYiEwjrsLm0upuBAxVlyxYJHajmCQs=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true
+                                }
+                            },
+                            "signalServiceEndpoint": {
+                                "signal": "CLIENT_SIGNAL",
+                                "actions": [
+                                    {
+                                        "clickTrackingParams": "CEQQ_pgEGAYiEwjrsLm0upuBAxVlyxYJHajmCQs=",
+                                        "addToPlaylistCommand": {
+                                            "openMiniplayer": true,
+                                            "videoId": "jpCUAyrb-90",
+                                            "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                            "onCreateListCommand": {
+                                                "clickTrackingParams": "CEQQ_pgEGAYiEwjrsLm0upuBAxVlyxYJHajmCQs=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "sendPost": true,
+                                                        "apiUrl": "/youtubei/v1/playlist/create"
+                                                    }
+                                                },
+                                                "createPlaylistServiceEndpoint": {
+                                                    "videoIds": [
+                                                        "jpCUAyrb-90"
+                                                    ],
+                                                    "params": "CAQ%3D"
+                                                }
+                                            },
+                                            "videoIds": [
+                                                "jpCUAyrb-90"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CEQQ_pgEGAYiEwjrsLm0upuBAxVlyxYJHajmCQs="
+                    }
+                },
+                {
+                    "menuServiceItemDownloadRenderer": {
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CEMQ0aoFGAciEwjrsLm0upuBAxVlyxYJHajmCQs=",
+                            "offlineVideoEndpoint": {
+                                "videoId": "jpCUAyrb-90",
+                                "onAddCommand": {
+                                    "clickTrackingParams": "CEMQ0aoFGAciEwjrsLm0upuBAxVlyxYJHajmCQs=",
+                                    "getDownloadActionCommand": {
+                                        "videoId": "jpCUAyrb-90",
+                                        "params": "CAI%3D"
+                                    }
+                                }
+                            }
+                        },
+                        "trackingParams": "CEMQ0aoFGAciEwjrsLm0upuBAxVlyxYJHajmCQs="
+                    }
+                },
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Share"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "SHARE"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CEEQxjQYXSITCOuwubS6m4EDFWXLFgkdqOYJCw==",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/share/get_share_panel"
+                                }
+                            },
+                            "shareEntityServiceEndpoint": {
+                                "serializedShareEntity": "CgtqcENVQXlyYi05MA%3D%3D",
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CEEQxjQYXSITCOuwubS6m4EDFWXLFgkdqOYJCw==",
+                                        "openPopupAction": {
+                                            "popup": {
+                                                "unifiedSharePanelRenderer": {
+                                                    "trackingParams": "CEIQjmIiEwjrsLm0upuBAxVlyxYJHajmCQs=",
+                                                    "showLoadingSpinner": true
+                                                }
+                                            },
+                                            "popupType": "DIALOG",
+                                            "beReused": true
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CEEQxjQYXSITCOuwubS6m4EDFWXLFgkdqOYJCw==",
+                        "hasSeparator": true
+                    }
+                }
+            ],
+            "trackingParams": "CEEQxjQYXSITCOuwubS6m4EDFWXLFgkdqOYJCw==",
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Action menu"
+                }
+            }
+        }
+    },
+    "thumbnailOverlays": [
+        {
+            "thumbnailOverlayTimeStatusRenderer": {
+                "text": {
+                    "accessibility": {
+                        "accessibilityData": {
+                            "label": "45 minutes, 30 seconds"
+                        }
+                    },
+                    "simpleText": "45:30"
+                },
+                "style": "DEFAULT"
+            }
+        },
+        {
+            "thumbnailOverlayNowPlayingRenderer": {
+                "text": {
+                    "runs": [
+                        {
+                            "text": "Now playing"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "videoInfo": {
+        "runs": [
+            {
+                "text": "885K views"
+            },
+            {
+                "text": " \u2022 "
+            },
+            {
+                "text": "Streamed 2 years ago"
+            }
+        ]
+    },
+    "playlist_id": "PLRnlRGar-_29-1pHtO5aVScRJtnX1tQbS",
+    "playlist_title": "Obras de Infraestructura"
+}

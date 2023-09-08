@@ -64,6 +64,8 @@ Individual files in JSON format are provided under the `data` folder. Additional
 }
 ```
 
+Whenever it's not possible to retrieve the transcriptions from YouTube, metadata for the videos is stored under `failed` so that an alternative mechanism for retrieving or generating them can be used in future iterations.
+
 ## How to run?
 
 1. Install requirements:
@@ -78,11 +80,15 @@ export YOUTUBE_V3_API_KEY={YOUR_TOKEN}
 ```
 python process.py
 ```
+4. To generate a single CSV file for the dataset run:
+```
+python generate_csv.py
+```
 
 ## Future work
 
-- Filter out or annotate parts of videos where speaker is not AMLO
-- Exclude videos from speeches where speaker is not AMLO
+- Filter out or annotate parts of videos where speaker is not AMLO. Even better add a new field with the speaker, but this could be quite challenging and would require manual work and curation
+- Exclude videos from speeches where main speaker is not AMLO (or does not include him)
 - Exclude videos which are not from a speech, conference, etc (like ads)
 - Implement speech to text for automated translations not available (notably where not enabled by publisher or where auto-generated subtitles have a different language associated)
 - Add field or a way of identifying transcription method

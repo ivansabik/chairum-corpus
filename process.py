@@ -1,7 +1,6 @@
 import datetime
 import json
 import os
-import os.path
 
 import requests
 import scrapetube
@@ -46,21 +45,34 @@ def handler():
 
 def _process_video(video_metadata):
     video_id = video_metadata["videoId"]
-    local_path = f"data/{video_id}.json"
-    if os.path.isfile(local_path):
+
+    # Check if video has already been processed
+    processed_local_path = f"data/{video_id}.json"
+    if os.path.isfile(processed_local_path):
+        return
+    failed_no_transcript_found_path = f"failed/no_transcript_found/{video_id}.json"
+    if os.path.isfile(failed_no_transcript_found_path):
+        return
+    transcripts_disabled_path = f"failed/transcripts_disabled/{video_id}.json"
+    if os.path.isfile(transcripts_disabled_path):
         return
 
+    # Retrieve or generate transcriptions
     try:
         transcription_with_timestamps = YouTubeTranscriptApi.get_transcript(
             video_id, languages=["es"]
         )
-    except _errors.TranscriptsDisabled as e:
+    except _errors.TranscriptsDisabled:
         print(f"Transcripts are disabled for video {video_id}")
+        with open(transcripts_disabled_path, "w") as _file:
+            json.dump(video_metadata, _file, indent=4)
         return
     # Language for some videos is not Spanish - ES
     # Example: https://www.youtube.com/watch?v=k_rBgKb1y8U
-    except _errors.NoTranscriptFound as e:
+    except _errors.NoTranscriptFound:
         print(f"No transcript available for video {video_id}")
+        with open(failed_no_transcript_found_path, "w") as _file:
+            json.dump(video_metadata, _file, indent=4)
         return
 
     transcription_text = ""
@@ -70,9 +82,7 @@ def _process_video(video_metadata):
 
     if not video_metadata.get("videoInfo"):
         published_time_text = video_metadata["publishedTimeText"]["simpleText"]
-        video_length = video_metadata["lengthText"]["accessibility"][
-            "accessibilityData"
-        ]["label"]
+        video_length = video_metadata["lengthText"]["accessibility"]["accessibilityData"]["label"]
         video_length_seconds = TimeLength(video_length).total_seconds
         video_length_seconds = int(video_length_seconds)
     else:
@@ -93,8 +103,7 @@ def _process_video(video_metadata):
         "published_time_text": published_time_text,
         "retrieved_time": str(datetime.datetime.utcnow()),
     }
-
-    with open(local_path, "w") as _file:
+    with open(processed_local_path, "w") as _file:
         json.dump(video, _file, indent=4)
 
     return video
