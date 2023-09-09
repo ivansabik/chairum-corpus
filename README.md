@@ -7,6 +7,10 @@ Currently data is sourced exclusively from YouTube. For some videos it was not p
 
 *Image source: https://twitter.com/marianojuarez/status/1148739501604450304*
 
+Currently there is no interface or API where the data can be queried (coming in future iterations), but it's really simple to do using a text editor, for example using Visual Studio:
+
+![Search locally](./simple_search.gif)
+
 ## Data
 
 Individual files in JSON format are provided under the `data` folder. Additionally, a script is provided to generate a file in CSV format with all records. Sample record:
