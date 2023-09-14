@@ -1,5 +1,9 @@
 # Chairum Corpus
 
+![flake8](https://github.com/ivansabik/chairum-corpus/actions/workflows/flake8.yml/badge.svg)
+![black](https://github.com/ivansabik/chairum-corpus/actions/workflows/black.yml/badge.svg)
+![isort](https://github.com/ivansabik/chairum-corpus/actions/workflows/isort.yml/badge.svg)
+
 ![Mexico is fine](./thij_ij_fine.png)
 
 A corpus of publicly available speeches from Mexican president Andres Manuel Lopez Obrador. 
