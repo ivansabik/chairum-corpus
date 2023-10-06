@@ -1,0 +1,924 @@
+{
+    "text": "\uc544\ub2c8 \u00c9l 1 6 2 7 dos tres Economatica Y otro Las Hazban as\u00ed o canal y canal con Impossible bola al canal little mas t fakd bienENN i a Andr\u00e9s Manuel L\u00f3pez Obrador, presidente de los Estados Unidos mexicanos, y a su esposa, la doctora Beatriz Guti\u00e9rrez Mueller, as\u00ed como al excelent\u00edsimo se\u00f1or Miguel D\u00edaz Canel Berm\u00fadez, presidente de la Rep\u00fablica de Cuba, y a su esposa, licenciada Lils Cuesta Peraza. Con esta gran de bienvenida, se entonar\u00e1n los himnos nacionales de M\u00e9xico y de Cuba. . Es as\u00ed como finaliza esta ceremonia. Que tengan todos muy buenas tardes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 13.200000000000001,
+            "text": "\uc544\ub2c8",
+            "tokens": [
+                50364,
+                37256,
+                51024
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.352731323242187,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5085475444793701
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 25.2,
+            "end": 25.7,
+            "text": " \u00c9l",
+            "tokens": [
+                51624,
+                34325,
+                51649
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.352731323242187,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5085475444793701
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 29.34,
+            "end": 29.84,
+            "text": " 1",
+            "tokens": [
+                51831,
+                502,
+                51856
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.352731323242187,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5085475444793701
+        },
+        {
+            "id": 3,
+            "seek": 3000,
+            "start": 31.0,
+            "end": 31.74,
+            "text": " 6",
+            "tokens": [
+                50414,
+                1386,
+                50451
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 4,
+            "seek": 3000,
+            "start": 32.74,
+            "end": 33.24,
+            "text": " 2",
+            "tokens": [
+                50501,
+                568,
+                50526
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 5,
+            "seek": 3000,
+            "start": 36.44,
+            "end": 36.94,
+            "text": " 7",
+            "tokens": [
+                50686,
+                1614,
+                50711
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 6,
+            "seek": 3000,
+            "start": 38.6,
+            "end": 39.1,
+            "text": " dos",
+            "tokens": [
+                50794,
+                4491,
+                50819
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 7,
+            "seek": 3000,
+            "start": 39.76,
+            "end": 40.26,
+            "text": " tres",
+            "tokens": [
+                50852,
+                15890,
+                50877
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 8,
+            "seek": 3000,
+            "start": 43.519999999999996,
+            "end": 43.92,
+            "text": " Economatica",
+            "tokens": [
+                51040,
+                462,
+                1671,
+                34295,
+                2262,
+                51060
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 9,
+            "seek": 3000,
+            "start": 48.0,
+            "end": 55.5,
+            "text": " Y",
+            "tokens": [
+                51264,
+                398,
+                51639
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 10,
+            "seek": 3000,
+            "start": 55.68,
+            "end": 55.760000000000005,
+            "text": " otro",
+            "tokens": [
+                51648,
+                11921,
+                51652
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 11,
+            "seek": 3000,
+            "start": 56.94,
+            "end": 57.16,
+            "text": " Las",
+            "tokens": [
+                51711,
+                10663,
+                51722
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 12,
+            "seek": 3000,
+            "start": 58.54,
+            "end": 59.260000000000005,
+            "text": " Haz",
+            "tokens": [
+                51791,
+                15852,
+                51827
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.478876899270451,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.21214939653873444
+        },
+        {
+            "id": 13,
+            "seek": 6000,
+            "start": 60.0,
+            "end": 60.58,
+            "text": "ban",
+            "tokens": [
+                50364,
+                5144,
+                50393
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 14,
+            "seek": 6000,
+            "start": 61.3,
+            "end": 61.88,
+            "text": " as\u00ed",
+            "tokens": [
+                50429,
+                8582,
+                50458
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 15,
+            "seek": 6000,
+            "start": 63.3,
+            "end": 63.56,
+            "text": " o",
+            "tokens": [
+                50529,
+                277,
+                50542
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 16,
+            "seek": 6000,
+            "start": 64.62,
+            "end": 66.44,
+            "text": " canal",
+            "tokens": [
+                50595,
+                9911,
+                50686
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 17,
+            "seek": 6000,
+            "start": 67.6,
+            "end": 68.22,
+            "text": " y",
+            "tokens": [
+                50744,
+                288,
+                50775
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 18,
+            "seek": 6000,
+            "start": 72.3,
+            "end": 73.04,
+            "text": " canal",
+            "tokens": [
+                50979,
+                9911,
+                51016
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 19,
+            "seek": 6000,
+            "start": 73.3,
+            "end": 73.68,
+            "text": " con",
+            "tokens": [
+                51029,
+                416,
+                51048
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 20,
+            "seek": 6000,
+            "start": 75.44,
+            "end": 76.26,
+            "text": " Impossible",
+            "tokens": [
+                51136,
+                36808,
+                51177
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 21,
+            "seek": 6000,
+            "start": 77.64,
+            "end": 77.82,
+            "text": " bola",
+            "tokens": [
+                51246,
+                41110,
+                51255
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 22,
+            "seek": 6000,
+            "start": 78.4,
+            "end": 78.68,
+            "text": " al",
+            "tokens": [
+                51284,
+                419,
+                51298
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 23,
+            "seek": 6000,
+            "start": 79.66,
+            "end": 80.38,
+            "text": " canal",
+            "tokens": [
+                51347,
+                9911,
+                51383
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 24,
+            "seek": 6000,
+            "start": 80.42,
+            "end": 80.42,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296,
+            "words": []
+        },
+        {
+            "id": 25,
+            "seek": 6000,
+            "start": 82.92,
+            "end": 83.53999999999999,
+            "text": " little",
+            "tokens": [
+                51510,
+                707,
+                51541
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 26,
+            "seek": 6000,
+            "start": 85.2,
+            "end": 85.82,
+            "text": " mas",
+            "tokens": [
+                51624,
+                2300,
+                51655
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 27,
+            "seek": 6000,
+            "start": 88.92,
+            "end": 89.52,
+            "text": " t",
+            "tokens": [
+                51810,
+                256,
+                51840
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.001247240149456,
+            "compression_ratio": 1.0615384615384615,
+            "no_speech_prob": 0.0593465119600296
+        },
+        {
+            "id": 28,
+            "seek": 9000,
+            "start": 90.84,
+            "end": 91.72,
+            "text": " fakd",
+            "tokens": [
+                50406,
+                33647,
+                67,
+                50450
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.964422225952148,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.034328822046518326
+        },
+        {
+            "id": 29,
+            "seek": 9000,
+            "start": 107.84,
+            "end": 108.03999999999999,
+            "text": " bien",
+            "tokens": [
+                51256,
+                3610,
+                51266
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.964422225952148,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.034328822046518326
+        },
+        {
+            "id": 30,
+            "seek": 12000,
+            "start": 120.74,
+            "end": 122.58,
+            "text": "ENN",
+            "tokens": [
+                50401,
+                14364,
+                50493
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.021135602678571,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.4285910725593567
+        },
+        {
+            "id": 31,
+            "seek": 12000,
+            "start": 134.74,
+            "end": 134.8,
+            "text": " i",
+            "tokens": [
+                51101,
+                741,
+                51104
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.021135602678571,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.4285910725593567
+        },
+        {
+            "id": 32,
+            "seek": 15000,
+            "start": 150.0,
+            "end": 151.0,
+            "text": " a",
+            "tokens": [
+                50364,
+                257,
+                50414
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 33,
+            "seek": 15000,
+            "start": 160.08,
+            "end": 163.9,
+            "text": " Andr\u00e9s Manuel L\u00f3pez Obrador,",
+            "tokens": [
+                50868,
+                400,
+                18981,
+                34362,
+                441,
+                812,
+                15144,
+                422,
+                1443,
+                5409,
+                11,
+                51059
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 34,
+            "seek": 15000,
+            "start": 164.28,
+            "end": 166.32,
+            "text": " presidente de los Estados Unidos",
+            "tokens": [
+                51078,
+                23852,
+                368,
+                1750,
+                22362,
+                23087,
+                51180
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 35,
+            "seek": 15000,
+            "start": 166.38,
+            "end": 167.94,
+            "text": " mexicanos, y a su esposa, la",
+            "tokens": [
+                51183,
+                28759,
+                8914,
+                329,
+                11,
+                288,
+                257,
+                459,
+                7089,
+                6447,
+                11,
+                635,
+                51261
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 36,
+            "seek": 15000,
+            "start": 168.02,
+            "end": 169.28,
+            "text": " doctora Beatriz Guti\u00e9rrez",
+            "tokens": [
+                51265,
+                4631,
+                64,
+                16031,
+                24959,
+                24481,
+                72,
+                4198,
+                17693,
+                51328
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 37,
+            "seek": 15000,
+            "start": 169.34,
+            "end": 170.38,
+            "text": " Mueller, as\u00ed como al",
+            "tokens": [
+                51331,
+                38152,
+                11,
+                8582,
+                2617,
+                419,
+                51383
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 38,
+            "seek": 15000,
+            "start": 170.44,
+            "end": 171.74,
+            "text": " excelent\u00edsimo se\u00f1or Miguel",
+            "tokens": [
+                51386,
+                24015,
+                317,
+                49889,
+                22188,
+                29150,
+                51451
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 39,
+            "seek": 15000,
+            "start": 171.82,
+            "end": 173.02,
+            "text": " D\u00edaz Canel Berm\u00fadez,",
+            "tokens": [
+                51455,
+                413,
+                870,
+                921,
+                1664,
+                338,
+                363,
+                966,
+                34458,
+                89,
+                11,
+                51515
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 40,
+            "seek": 15000,
+            "start": 173.08,
+            "end": 174.56,
+            "text": " presidente de la Rep\u00fablica de",
+            "tokens": [
+                51518,
+                23852,
+                368,
+                635,
+                45917,
+                368,
+                51592
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 41,
+            "seek": 15000,
+            "start": 174.62,
+            "end": 175.92000000000002,
+            "text": " Cuba, y a su esposa,",
+            "tokens": [
+                51595,
+                20604,
+                11,
+                288,
+                257,
+                459,
+                7089,
+                6447,
+                11,
+                51660
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 42,
+            "seek": 15000,
+            "start": 175.98,
+            "end": 179.46,
+            "text": " licenciada Lils Cuesta Peraza.",
+            "tokens": [
+                51663,
+                6169,
+                30322,
+                1538,
+                441,
+                4174,
+                13205,
+                7841,
+                3026,
+                12257,
+                13,
+                51837
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.6676860136144301,
+            "compression_ratio": 1.3969849246231156,
+            "no_speech_prob": 0.23020392656326294
+        },
+        {
+            "id": 43,
+            "seek": 17946,
+            "start": 179.48000000000002,
+            "end": 181.72,
+            "text": " Con esta gran de bienvenida,",
+            "tokens": [
+                50365,
+                2656,
+                5283,
+                9370,
+                368,
+                3610,
+                553,
+                2887,
+                11,
+                50477
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7636021644838394,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.25310832262039185
+        },
+        {
+            "id": 44,
+            "seek": 17946,
+            "start": 181.78,
+            "end": 182.86,
+            "text": " se entonar\u00e1n los himnos",
+            "tokens": [
+                50480,
+                369,
+                948,
+                266,
+                289,
+                7200,
+                1750,
+                796,
+                16751,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7636021644838394,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.25310832262039185
+        },
+        {
+            "id": 45,
+            "seek": 17946,
+            "start": 182.92000000000002,
+            "end": 186.86,
+            "text": " nacionales de M\u00e9xico y de Cuba.",
+            "tokens": [
+                50537,
+                29836,
+                279,
+                368,
+                28128,
+                288,
+                368,
+                20604,
+                13,
+                50734
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7636021644838394,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.25310832262039185
+        },
+        {
+            "id": 46,
+            "seek": 29946,
+            "start": 299.46,
+            "end": 326.5,
+            "text": " .",
+            "tokens": [
+                50364,
+                2411,
+                51716
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.8876802004300631,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.4375893771648407
+        },
+        {
+            "id": 47,
+            "seek": 29946,
+            "start": 326.56,
+            "end": 328.2,
+            "text": " Es as\u00ed como finaliza esta",
+            "tokens": [
+                51719,
+                2313,
+                8582,
+                2617,
+                2572,
+                13427,
+                5283,
+                51801
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.8876802004300631,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.4375893771648407
+        },
+        {
+            "id": 48,
+            "seek": 32820,
+            "start": 328.21999999999997,
+            "end": 329.12,
+            "text": " ceremonia.",
+            "tokens": [
+                50365,
+                25920,
+                654,
+                13,
+                50410
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9293508529663086,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.7436595559120178
+        },
+        {
+            "id": 49,
+            "seek": 32820,
+            "start": 329.18,
+            "end": 330.68,
+            "text": " Que tengan todos muy buenas",
+            "tokens": [
+                50413,
+                4493,
+                46874,
+                6321,
+                5323,
+                43852,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9293508529663086,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.7436595559120178
+        },
+        {
+            "id": 50,
+            "seek": 32820,
+            "start": 330.74,
+            "end": 331.24,
+            "text": " tardes.",
+            "tokens": [
+                50491,
+                21057,
+                279,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9293508529663086,
+            "compression_ratio": 0.8518518518518519,
+            "no_speech_prob": 0.7436595559120178
+        }
+    ],
+    "language": "es"
+}

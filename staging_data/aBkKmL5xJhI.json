@@ -1,0 +1,23 @@
+{
+    "text": " M\u00fasica",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.32,
+            "text": " M\u00fasica",
+            "tokens": [
+                50364,
+                376,
+                14372,
+                50680
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.014108085632324,
+            "compression_ratio": 0.4666666666666667,
+            "no_speech_prob": 0.5692118406295776
+        }
+    ],
+    "language": "es"
+}

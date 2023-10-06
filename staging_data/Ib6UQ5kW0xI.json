@@ -1,0 +1,306 @@
+{
+    "text": "\ud6fc \ub178\ub798lya baila baila baila baila baila baila baila baila baila baila baila baila \u00a1Buenas tardes! \u00a1Buenas tardes, se\u00f1or presidente!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": "\ud6fc",
+            "tokens": [
+                50364,
+                16760,
+                120,
+                50464
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.0,
+            "end": 4.0,
+            "text": " \ub178\ub798",
+            "tokens": [
+                50464,
+                24678,
+                50564
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.24,
+            "end": 6.24,
+            "text": "lya",
+            "tokens": [
+                50576,
+                45106,
+                50676
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.76,
+            "end": 8.76,
+            "text": " baila",
+            "tokens": [
+                50702,
+                19313,
+                64,
+                50802
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.64,
+            "end": 11.64,
+            "text": " baila",
+            "tokens": [
+                50846,
+                19313,
+                64,
+                50946
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 12.86,
+            "end": 14.86,
+            "text": " baila",
+            "tokens": [
+                51007,
+                19313,
+                64,
+                51107
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 16.06,
+            "end": 17.46,
+            "text": " baila",
+            "tokens": [
+                51167,
+                19313,
+                64,
+                51237
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 18.240000000000002,
+            "end": 19.46,
+            "text": " baila",
+            "tokens": [
+                51276,
+                19313,
+                64,
+                51337
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 19.94,
+            "end": 21.28,
+            "text": " baila",
+            "tokens": [
+                51361,
+                19313,
+                64,
+                51428
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 21.66,
+            "end": 23.1,
+            "text": " baila",
+            "tokens": [
+                51447,
+                19313,
+                64,
+                51519
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 23.32,
+            "end": 24.44,
+            "text": " baila",
+            "tokens": [
+                51530,
+                19313,
+                64,
+                51586
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 25.1,
+            "end": 26.38,
+            "text": " baila",
+            "tokens": [
+                51619,
+                19313,
+                64,
+                51683
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 12,
+            "seek": 0,
+            "start": 26.76,
+            "end": 27.740000000000002,
+            "text": " baila",
+            "tokens": [
+                51702,
+                19313,
+                64,
+                51751
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 13,
+            "seek": 0,
+            "start": 28.34,
+            "end": 29.32,
+            "text": " baila",
+            "tokens": [
+                51781,
+                19313,
+                64,
+                51830
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.4903172084263394,
+            "compression_ratio": 2.7241379310344827,
+            "no_speech_prob": 0.5826425552368164
+        },
+        {
+            "id": 14,
+            "seek": 2932,
+            "start": 29.68,
+            "end": 31.68,
+            "text": " baila",
+            "tokens": [
+                50382,
+                19313,
+                64,
+                50482
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6092804395235502,
+            "compression_ratio": 1.1153846153846154,
+            "no_speech_prob": 0.08814352750778198
+        },
+        {
+            "id": 15,
+            "seek": 2932,
+            "start": 39.480000000000004,
+            "end": 41.480000000000004,
+            "text": " \u00a1Buenas tardes!",
+            "tokens": [
+                50872,
+                6514,
+                33,
+                7801,
+                296,
+                21057,
+                279,
+                0,
+                50972
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6092804395235502,
+            "compression_ratio": 1.1153846153846154,
+            "no_speech_prob": 0.08814352750778198
+        },
+        {
+            "id": 16,
+            "seek": 2932,
+            "start": 42.480000000000004,
+            "end": 45.480000000000004,
+            "text": " \u00a1Buenas tardes, se\u00f1or presidente!",
+            "tokens": [
+                51022,
+                6514,
+                33,
+                7801,
+                296,
+                21057,
+                279,
+                11,
+                22188,
+                23852,
+                0,
+                51172
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6092804395235502,
+            "compression_ratio": 1.1153846153846154,
+            "no_speech_prob": 0.08814352750778198
+        }
+    ],
+    "language": "es"
+}

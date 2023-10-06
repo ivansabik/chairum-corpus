@@ -1,0 +1,272 @@
+{
+    "text": " es que es una exposici\u00f3n que hay ahora... que\u0435\u0437\u0434iente... ah\u00ed hay todo... estarays 400\u0e04m y no hay tema y pues esta es la parte peor Elite all\u00e1 hay como... estar... hay un bar... bailables \u00bfs\u00ed? ya hay muchos bailables ah\u00ed te van a tomar la coche venga la maleta pacing",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " es que es una exposici\u00f3n que hay ahora... que\u0435\u0437\u0434iente...",
+            "tokens": [
+                50364,
+                785,
+                631,
+                785,
+                2002,
+                30076,
+                15534,
+                631,
+                4842,
+                9923,
+                485,
+                631,
+                26510,
+                8413,
+                485,
+                50464
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.306418762207031,
+            "compression_ratio": 1.153225806451613,
+            "no_speech_prob": 0.295402467250824
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.0,
+            "end": 8.0,
+            "text": " ah\u00ed hay todo...",
+            "tokens": [
+                50664,
+                12571,
+                4842,
+                5149,
+                485,
+                50764
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.306418762207031,
+            "compression_ratio": 1.153225806451613,
+            "no_speech_prob": 0.295402467250824
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.0,
+            "end": 11.0,
+            "text": " estarays 400\u0e04m",
+            "tokens": [
+                50814,
+                8755,
+                3772,
+                8423,
+                8163,
+                76,
+                50914
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.306418762207031,
+            "compression_ratio": 1.153225806451613,
+            "no_speech_prob": 0.295402467250824
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.0,
+            "end": 16.0,
+            "text": " y no hay tema y pues",
+            "tokens": [
+                50964,
+                288,
+                572,
+                4842,
+                15854,
+                288,
+                11059,
+                51164
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.306418762207031,
+            "compression_ratio": 1.153225806451613,
+            "no_speech_prob": 0.295402467250824
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 17.0,
+            "end": 19.0,
+            "text": " esta es la parte peor",
+            "tokens": [
+                51214,
+                5283,
+                785,
+                635,
+                6975,
+                520,
+                284,
+                51314
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.306418762207031,
+            "compression_ratio": 1.153225806451613,
+            "no_speech_prob": 0.295402467250824
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 24.0,
+            "end": 26.0,
+            "text": " Elite",
+            "tokens": [
+                51564,
+                34404,
+                51664
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.306418762207031,
+            "compression_ratio": 1.153225806451613,
+            "no_speech_prob": 0.295402467250824
+        },
+        {
+            "id": 6,
+            "seek": 2600,
+            "start": 26.0,
+            "end": 28.0,
+            "text": " all\u00e1 hay como...",
+            "tokens": [
+                50364,
+                30642,
+                4842,
+                2617,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7495277891767785,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.058264654129743576
+        },
+        {
+            "id": 7,
+            "seek": 2600,
+            "start": 29.0,
+            "end": 31.0,
+            "text": " estar... hay un bar... bailables",
+            "tokens": [
+                50514,
+                8755,
+                485,
+                4842,
+                517,
+                2159,
+                485,
+                19313,
+                2965,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7495277891767785,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.058264654129743576
+        },
+        {
+            "id": 8,
+            "seek": 2600,
+            "start": 32.0,
+            "end": 34.0,
+            "text": " \u00bfs\u00ed?",
+            "tokens": [
+                50664,
+                3841,
+                82,
+                870,
+                30,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7495277891767785,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.058264654129743576
+        },
+        {
+            "id": 9,
+            "seek": 2600,
+            "start": 35.0,
+            "end": 37.0,
+            "text": " ya hay muchos bailables",
+            "tokens": [
+                50814,
+                2478,
+                4842,
+                17061,
+                19313,
+                2965,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7495277891767785,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.058264654129743576
+        },
+        {
+            "id": 10,
+            "seek": 2600,
+            "start": 42.0,
+            "end": 44.0,
+            "text": " ah\u00ed te van a tomar la coche",
+            "tokens": [
+                51164,
+                12571,
+                535,
+                3161,
+                257,
+                22048,
+                635,
+                598,
+                1876,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7495277891767785,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.058264654129743576
+        },
+        {
+            "id": 11,
+            "seek": 2600,
+            "start": 49.0,
+            "end": 51.0,
+            "text": " venga la maleta",
+            "tokens": [
+                51514,
+                371,
+                31494,
+                635,
+                2806,
+                7664,
+                51614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7495277891767785,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.058264654129743576
+        },
+        {
+            "id": 12,
+            "seek": 5600,
+            "start": 56.0,
+            "end": 58.0,
+            "text": " pacing",
+            "tokens": [
+                50364,
+                43285,
+                50464
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.7052693367004395,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.20660412311553955
+        }
+    ],
+    "language": "es"
+}

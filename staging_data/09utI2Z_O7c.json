@@ -1,0 +1,2076 @@
+{
+    "text": " la No a continuaci\u00f3n y con los honores no no ah ah no i no no ah no esa no no o no i \u05d0\u05d5\u05ea\u05d5 ah ah no ah ah ah ah ah ah ah i ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah como siguiente punto con los honores correspondientes himno de los estados unidos mexicanos ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah seguidamente el doctor alejandro eduardo yamate y falla presidente de la rep\u00fablica de guatemala presentar\u00e1 su gabinete al gobierno al excelent\u00edsimo se\u00f1or andr\u00e9s manuel l\u00f3pez obrador presidente de los estados unidos mexicanos ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah pues es un gusto volverles a saludar y en este momento pues seguimos con la transmisi\u00f3n en vivo de la visita oficial del presidente de los estados mexicanos precisamente andr\u00e9s manuel l\u00f3pez obrador queremos darle a conocer que en este momento el presidente",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.58,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50493
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.3955026514389934,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.3147810399532318
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.96,
+            "end": 11.66,
+            "text": " No",
+            "tokens": [
+                50812,
+                883,
+                50947
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.3955026514389934,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.3147810399532318
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 17.66,
+            "end": 23.56,
+            "text": " a continuaci\u00f3n y con los honores",
+            "tokens": [
+                51247,
+                257,
+                2993,
+                3482,
+                288,
+                416,
+                1750,
+                2157,
+                2706,
+                51542
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.3955026514389934,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.3147810399532318
+        },
+        {
+            "id": 3,
+            "seek": 3000,
+            "start": 30.0,
+            "end": 33.2,
+            "text": " no",
+            "tokens": [
+                50384,
+                572,
+                50524
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.9798531532287598,
+            "compression_ratio": 0.2,
+            "no_speech_prob": 0.21794943511486053
+        },
+        {
+            "id": 4,
+            "seek": 6000,
+            "start": 60.76,
+            "end": 67.26,
+            "text": " no",
+            "tokens": [
+                50402,
+                572,
+                50727
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.072250072772686,
+            "compression_ratio": 0.6875,
+            "no_speech_prob": 0.5585266947746277
+        },
+        {
+            "id": 5,
+            "seek": 6000,
+            "start": 69.76,
+            "end": 72.0,
+            "text": " ah",
+            "tokens": [
+                50852,
+                3716,
+                50964
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.072250072772686,
+            "compression_ratio": 0.6875,
+            "no_speech_prob": 0.5585266947746277
+        },
+        {
+            "id": 6,
+            "seek": 6000,
+            "start": 77.84,
+            "end": 79.58,
+            "text": " ah",
+            "tokens": [
+                51256,
+                3716,
+                51343
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.072250072772686,
+            "compression_ratio": 0.6875,
+            "no_speech_prob": 0.5585266947746277
+        },
+        {
+            "id": 7,
+            "seek": 6000,
+            "start": 89.03999999999999,
+            "end": 89.72,
+            "text": " no",
+            "tokens": [
+                51816,
+                572,
+                51850
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.072250072772686,
+            "compression_ratio": 0.6875,
+            "no_speech_prob": 0.5585266947746277
+        },
+        {
+            "id": 8,
+            "seek": 9000,
+            "start": 90.28,
+            "end": 91.72,
+            "text": " i",
+            "tokens": [
+                50378,
+                741,
+                50450
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.8310758150540867,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.2272854745388031
+        },
+        {
+            "id": 9,
+            "seek": 9000,
+            "start": 96.6,
+            "end": 97.1,
+            "text": " no",
+            "tokens": [
+                50694,
+                572,
+                50719
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.8310758150540867,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.2272854745388031
+        },
+        {
+            "id": 10,
+            "seek": 9000,
+            "start": 106.24000000000001,
+            "end": 108.24000000000001,
+            "text": " no",
+            "tokens": [
+                51176,
+                572,
+                51276
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.8310758150540867,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.2272854745388031
+        },
+        {
+            "id": 11,
+            "seek": 9000,
+            "start": 116.28,
+            "end": 117.82,
+            "text": " ah",
+            "tokens": [
+                51678,
+                3716,
+                51755
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.8310758150540867,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.2272854745388031
+        },
+        {
+            "id": 12,
+            "seek": 12000,
+            "start": 120.96,
+            "end": 128.46,
+            "text": " no",
+            "tokens": [
+                50412,
+                572,
+                50787
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.094769287109375,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.2676006853580475
+        },
+        {
+            "id": 13,
+            "seek": 12000,
+            "start": 130.6,
+            "end": 136.04,
+            "text": " esa",
+            "tokens": [
+                50894,
+                11342,
+                51166
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.094769287109375,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.2676006853580475
+        },
+        {
+            "id": 14,
+            "seek": 12000,
+            "start": 144.44,
+            "end": 149.82,
+            "text": " no",
+            "tokens": [
+                51586,
+                572,
+                51855
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.094769287109375,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.2676006853580475
+        },
+        {
+            "id": 15,
+            "seek": 15000,
+            "start": 150.64,
+            "end": 163.24,
+            "text": " no",
+            "tokens": [
+                50396,
+                572,
+                51026
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.8677659034729004,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.338019460439682
+        },
+        {
+            "id": 16,
+            "seek": 15000,
+            "start": 170.0,
+            "end": 173.24,
+            "text": " o",
+            "tokens": [
+                51364,
+                277,
+                51526
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.8677659034729004,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.338019460439682
+        },
+        {
+            "id": 17,
+            "seek": 17324,
+            "start": 173.78,
+            "end": 179.74,
+            "text": " no",
+            "tokens": [
+                50391,
+                572,
+                50689
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -Infinity,
+            "compression_ratio": 0.7307692307692307,
+            "no_speech_prob": 0.49583178758621216
+        },
+        {
+            "id": 18,
+            "seek": 17324,
+            "start": 179.78,
+            "end": 187.24,
+            "text": " i \u05d0\u05d5\u05ea\u05d5",
+            "tokens": [
+                50691,
+                741,
+                46725,
+                51064
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -Infinity,
+            "compression_ratio": 0.7307692307692307,
+            "no_speech_prob": 0.49583178758621216
+        },
+        {
+            "id": 19,
+            "seek": 17324,
+            "start": 195.38,
+            "end": 197.38,
+            "text": " ah",
+            "tokens": [
+                51471,
+                3716,
+                51571
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -Infinity,
+            "compression_ratio": 0.7307692307692307,
+            "no_speech_prob": 0.49583178758621216
+        },
+        {
+            "id": 20,
+            "seek": 17324,
+            "start": 200.48000000000002,
+            "end": 202.92000000000002,
+            "text": " ah",
+            "tokens": [
+                51726,
+                3716,
+                51848
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -Infinity,
+            "compression_ratio": 0.7307692307692307,
+            "no_speech_prob": 0.49583178758621216
+        },
+        {
+            "id": 21,
+            "seek": 20324,
+            "start": 203.92000000000002,
+            "end": 205.60000000000002,
+            "text": " no",
+            "tokens": [
+                50398,
+                572,
+                50482
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 22,
+            "seek": 20324,
+            "start": 206.26000000000002,
+            "end": 210.26000000000002,
+            "text": " ah",
+            "tokens": [
+                50515,
+                3716,
+                50715
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 23,
+            "seek": 20324,
+            "start": 211.72,
+            "end": 213.72,
+            "text": " ah",
+            "tokens": [
+                50788,
+                3716,
+                50888
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 24,
+            "seek": 20324,
+            "start": 216.48000000000002,
+            "end": 218.52,
+            "text": " ah",
+            "tokens": [
+                51026,
+                3716,
+                51128
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 25,
+            "seek": 20324,
+            "start": 219.72,
+            "end": 221.72,
+            "text": " ah",
+            "tokens": [
+                51188,
+                3716,
+                51288
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 26,
+            "seek": 20324,
+            "start": 223.52,
+            "end": 224.84,
+            "text": " ah",
+            "tokens": [
+                51378,
+                3716,
+                51444
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 27,
+            "seek": 20324,
+            "start": 224.84,
+            "end": 226.84,
+            "text": " ah",
+            "tokens": [
+                51444,
+                3716,
+                51544
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 28,
+            "seek": 20324,
+            "start": 227.88,
+            "end": 229.52,
+            "text": " ah",
+            "tokens": [
+                51596,
+                3716,
+                51678
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 29,
+            "seek": 20324,
+            "start": 230.72,
+            "end": 232.82000000000002,
+            "text": " i",
+            "tokens": [
+                51738,
+                741,
+                51843
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3281870874865302,
+            "compression_ratio": 1.6666666666666667,
+            "no_speech_prob": 0.19130414724349976
+        },
+        {
+            "id": 30,
+            "seek": 23282,
+            "start": 232.82,
+            "end": 234.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 31,
+            "seek": 23282,
+            "start": 236.82,
+            "end": 238.82,
+            "text": " ah",
+            "tokens": [
+                50564,
+                3716,
+                50664
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 32,
+            "seek": 23282,
+            "start": 239.82,
+            "end": 241.82,
+            "text": " ah",
+            "tokens": [
+                50714,
+                3716,
+                50814
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 33,
+            "seek": 23282,
+            "start": 242.82,
+            "end": 244.82,
+            "text": " ah",
+            "tokens": [
+                50864,
+                3716,
+                50964
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 34,
+            "seek": 23282,
+            "start": 246.82,
+            "end": 248.82,
+            "text": " ah",
+            "tokens": [
+                51064,
+                3716,
+                51164
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 35,
+            "seek": 23282,
+            "start": 249.82,
+            "end": 251.82,
+            "text": " ah",
+            "tokens": [
+                51214,
+                3716,
+                51314
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 36,
+            "seek": 23282,
+            "start": 253.82,
+            "end": 255.82,
+            "text": " ah",
+            "tokens": [
+                51414,
+                3716,
+                51514
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 37,
+            "seek": 23282,
+            "start": 256.82,
+            "end": 258.82,
+            "text": " ah",
+            "tokens": [
+                51564,
+                3716,
+                51664
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 38,
+            "seek": 23282,
+            "start": 259.82,
+            "end": 261.82,
+            "text": " ah",
+            "tokens": [
+                51714,
+                3716,
+                51814
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9230702263968331,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.15652625262737274
+        },
+        {
+            "id": 39,
+            "seek": 26282,
+            "start": 262.82,
+            "end": 264.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 40,
+            "seek": 26282,
+            "start": 265.82,
+            "end": 267.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 41,
+            "seek": 26282,
+            "start": 268.82,
+            "end": 270.82,
+            "text": " ah",
+            "tokens": [
+                50664,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 42,
+            "seek": 26282,
+            "start": 271.82,
+            "end": 273.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 43,
+            "seek": 26282,
+            "start": 274.82,
+            "end": 276.82,
+            "text": " ah",
+            "tokens": [
+                50964,
+                3716,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 44,
+            "seek": 26282,
+            "start": 277.82,
+            "end": 279.82,
+            "text": " ah",
+            "tokens": [
+                51114,
+                3716,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 45,
+            "seek": 26282,
+            "start": 280.82,
+            "end": 282.82,
+            "text": " ah",
+            "tokens": [
+                51264,
+                3716,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 46,
+            "seek": 26282,
+            "start": 283.82,
+            "end": 285.82,
+            "text": " ah",
+            "tokens": [
+                51414,
+                3716,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 47,
+            "seek": 26282,
+            "start": 286.82,
+            "end": 288.82,
+            "text": " ah",
+            "tokens": [
+                51564,
+                3716,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 48,
+            "seek": 26282,
+            "start": 289.82,
+            "end": 291.82,
+            "text": " ah",
+            "tokens": [
+                51714,
+                3716,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3562129543673608,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.0695178285241127
+        },
+        {
+            "id": 49,
+            "seek": 29282,
+            "start": 292.82,
+            "end": 294.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 50,
+            "seek": 29282,
+            "start": 295.82,
+            "end": 297.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 51,
+            "seek": 29282,
+            "start": 298.82,
+            "end": 300.82,
+            "text": " ah",
+            "tokens": [
+                50664,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 52,
+            "seek": 29282,
+            "start": 301.82,
+            "end": 303.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 53,
+            "seek": 29282,
+            "start": 304.82,
+            "end": 306.82,
+            "text": " ah",
+            "tokens": [
+                50964,
+                3716,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 54,
+            "seek": 29282,
+            "start": 307.82,
+            "end": 309.82,
+            "text": " ah",
+            "tokens": [
+                51114,
+                3716,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 55,
+            "seek": 29282,
+            "start": 310.82,
+            "end": 312.82,
+            "text": " ah",
+            "tokens": [
+                51264,
+                3716,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 56,
+            "seek": 29282,
+            "start": 313.82,
+            "end": 315.82,
+            "text": " ah",
+            "tokens": [
+                51414,
+                3716,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 57,
+            "seek": 29282,
+            "start": 316.82,
+            "end": 318.82,
+            "text": " ah",
+            "tokens": [
+                51564,
+                3716,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 58,
+            "seek": 29282,
+            "start": 319.82,
+            "end": 321.82,
+            "text": " ah",
+            "tokens": [
+                51714,
+                3716,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.259719971687563,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.052958618849515915
+        },
+        {
+            "id": 59,
+            "seek": 32282,
+            "start": 322.82,
+            "end": 324.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976448989495997,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.049745723605155945
+        },
+        {
+            "id": 60,
+            "seek": 32282,
+            "start": 325.82,
+            "end": 327.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976448989495997,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.049745723605155945
+        },
+        {
+            "id": 61,
+            "seek": 32282,
+            "start": 328.82,
+            "end": 330.82,
+            "text": " ah",
+            "tokens": [
+                50664,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976448989495997,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.049745723605155945
+        },
+        {
+            "id": 62,
+            "seek": 32282,
+            "start": 331.82,
+            "end": 332.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976448989495997,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.049745723605155945
+        },
+        {
+            "id": 63,
+            "seek": 32282,
+            "start": 332.82,
+            "end": 337.82,
+            "text": " como siguiente punto con los honores correspondientes himno de los estados",
+            "tokens": [
+                50864,
+                2617,
+                25666,
+                14326,
+                416,
+                1750,
+                2157,
+                2706,
+                6805,
+                20135,
+                796,
+                1771,
+                368,
+                1750,
+                871,
+                4181,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976448989495997,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.049745723605155945
+        },
+        {
+            "id": 64,
+            "seek": 32282,
+            "start": 337.82,
+            "end": 340.82,
+            "text": " unidos mexicanos",
+            "tokens": [
+                51114,
+                517,
+                7895,
+                28759,
+                8914,
+                329,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976448989495997,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.049745723605155945
+        },
+        {
+            "id": 65,
+            "seek": 32282,
+            "start": 342.82,
+            "end": 344.82,
+            "text": " ah",
+            "tokens": [
+                51364,
+                3716,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30976448989495997,
+            "compression_ratio": 1.3417721518987342,
+            "no_speech_prob": 0.049745723605155945
+        },
+        {
+            "id": 66,
+            "seek": 34482,
+            "start": 344.82,
+            "end": 346.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 67,
+            "seek": 34482,
+            "start": 349.82,
+            "end": 352.82,
+            "text": " ah",
+            "tokens": [
+                50614,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 68,
+            "seek": 34482,
+            "start": 353.82,
+            "end": 355.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 69,
+            "seek": 34482,
+            "start": 356.82,
+            "end": 358.82,
+            "text": " ah",
+            "tokens": [
+                50964,
+                3716,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 70,
+            "seek": 34482,
+            "start": 359.82,
+            "end": 361.82,
+            "text": " ah",
+            "tokens": [
+                51114,
+                3716,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 71,
+            "seek": 34482,
+            "start": 362.82,
+            "end": 364.82,
+            "text": " ah",
+            "tokens": [
+                51264,
+                3716,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 72,
+            "seek": 34482,
+            "start": 365.82,
+            "end": 367.82,
+            "text": " ah",
+            "tokens": [
+                51414,
+                3716,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 73,
+            "seek": 34482,
+            "start": 368.82,
+            "end": 370.82,
+            "text": " ah",
+            "tokens": [
+                51564,
+                3716,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 74,
+            "seek": 34482,
+            "start": 371.82,
+            "end": 373.82,
+            "text": " ah",
+            "tokens": [
+                51714,
+                3716,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5283870015825544,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.27783241868019104
+        },
+        {
+            "id": 75,
+            "seek": 37482,
+            "start": 374.82,
+            "end": 376.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 76,
+            "seek": 37482,
+            "start": 377.82,
+            "end": 379.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 77,
+            "seek": 37482,
+            "start": 380.82,
+            "end": 382.82,
+            "text": " ah",
+            "tokens": [
+                50664,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 78,
+            "seek": 37482,
+            "start": 383.82,
+            "end": 385.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 79,
+            "seek": 37482,
+            "start": 386.82,
+            "end": 388.82,
+            "text": " ah",
+            "tokens": [
+                50964,
+                3716,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 80,
+            "seek": 37482,
+            "start": 389.82,
+            "end": 391.82,
+            "text": " ah",
+            "tokens": [
+                51114,
+                3716,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 81,
+            "seek": 37482,
+            "start": 392.82,
+            "end": 394.82,
+            "text": " ah",
+            "tokens": [
+                51264,
+                3716,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 82,
+            "seek": 37482,
+            "start": 395.82,
+            "end": 397.82,
+            "text": " ah",
+            "tokens": [
+                51414,
+                3716,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 83,
+            "seek": 37482,
+            "start": 398.82,
+            "end": 400.82,
+            "text": " ah",
+            "tokens": [
+                51564,
+                3716,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 84,
+            "seek": 37482,
+            "start": 401.82,
+            "end": 403.82,
+            "text": " ah",
+            "tokens": [
+                51714,
+                3716,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2863100113407258,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.22352229058742523
+        },
+        {
+            "id": 85,
+            "seek": 40482,
+            "start": 404.82,
+            "end": 406.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 86,
+            "seek": 40482,
+            "start": 407.82,
+            "end": 409.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 87,
+            "seek": 40482,
+            "start": 410.82,
+            "end": 412.82,
+            "text": " ah",
+            "tokens": [
+                50664,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 88,
+            "seek": 40482,
+            "start": 413.82,
+            "end": 415.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 89,
+            "seek": 40482,
+            "start": 416.82,
+            "end": 418.82,
+            "text": " ah",
+            "tokens": [
+                50964,
+                3716,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 90,
+            "seek": 40482,
+            "start": 419.82,
+            "end": 421.82,
+            "text": " ah",
+            "tokens": [
+                51114,
+                3716,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 91,
+            "seek": 40482,
+            "start": 422.82,
+            "end": 424.82,
+            "text": " ah",
+            "tokens": [
+                51264,
+                3716,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 92,
+            "seek": 40482,
+            "start": 425.82,
+            "end": 427.82,
+            "text": " ah",
+            "tokens": [
+                51414,
+                3716,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 93,
+            "seek": 40482,
+            "start": 428.82,
+            "end": 430.82,
+            "text": " ah",
+            "tokens": [
+                51564,
+                3716,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 94,
+            "seek": 40482,
+            "start": 431.82,
+            "end": 433.82,
+            "text": " ah",
+            "tokens": [
+                51714,
+                3716,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2296668791001843,
+            "compression_ratio": 2.230769230769231,
+            "no_speech_prob": 0.2511064410209656
+        },
+        {
+            "id": 95,
+            "seek": 43482,
+            "start": 434.82,
+            "end": 436.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16289365446412718,
+            "compression_ratio": 1.475609756097561,
+            "no_speech_prob": 0.027718452736735344
+        },
+        {
+            "id": 96,
+            "seek": 43482,
+            "start": 437.82,
+            "end": 439.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16289365446412718,
+            "compression_ratio": 1.475609756097561,
+            "no_speech_prob": 0.027718452736735344
+        },
+        {
+            "id": 97,
+            "seek": 43482,
+            "start": 440.82,
+            "end": 442.82,
+            "text": " ah",
+            "tokens": [
+                50664,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16289365446412718,
+            "compression_ratio": 1.475609756097561,
+            "no_speech_prob": 0.027718452736735344
+        },
+        {
+            "id": 98,
+            "seek": 43482,
+            "start": 443.82,
+            "end": 445.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16289365446412718,
+            "compression_ratio": 1.475609756097561,
+            "no_speech_prob": 0.027718452736735344
+        },
+        {
+            "id": 99,
+            "seek": 43482,
+            "start": 446.82,
+            "end": 451.82,
+            "text": " seguidamente el doctor alejandro eduardo yamate y falla presidente de la rep\u00fablica de guatemala",
+            "tokens": [
+                50964,
+                8878,
+                49663,
+                806,
+                4631,
+                6775,
+                73,
+                29173,
+                1257,
+                84,
+                12850,
+                288,
+                335,
+                473,
+                288,
+                2100,
+                64,
+                23852,
+                368,
+                635,
+                1085,
+                36638,
+                368,
+                695,
+                26851,
+                5159,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16289365446412718,
+            "compression_ratio": 1.475609756097561,
+            "no_speech_prob": 0.027718452736735344
+        },
+        {
+            "id": 100,
+            "seek": 43482,
+            "start": 451.82,
+            "end": 457.82,
+            "text": " presentar\u00e1 su gabinete al gobierno al excelent\u00edsimo se\u00f1or andr\u00e9s manuel l\u00f3pez",
+            "tokens": [
+                51214,
+                1974,
+                21534,
+                459,
+                17964,
+                259,
+                3498,
+                419,
+                29254,
+                419,
+                24015,
+                317,
+                49889,
+                22188,
+                293,
+                18981,
+                587,
+                3483,
+                287,
+                812,
+                15144,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16289365446412718,
+            "compression_ratio": 1.475609756097561,
+            "no_speech_prob": 0.027718452736735344
+        },
+        {
+            "id": 101,
+            "seek": 43482,
+            "start": 457.82,
+            "end": 462.82,
+            "text": " obrador presidente de los estados unidos mexicanos",
+            "tokens": [
+                51514,
+                1111,
+                81,
+                5409,
+                23852,
+                368,
+                1750,
+                871,
+                4181,
+                517,
+                7895,
+                28759,
+                8914,
+                329,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16289365446412718,
+            "compression_ratio": 1.475609756097561,
+            "no_speech_prob": 0.027718452736735344
+        },
+        {
+            "id": 102,
+            "seek": 46482,
+            "start": 465.82,
+            "end": 467.82,
+            "text": " ah",
+            "tokens": [
+                50414,
+                3716,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7310075759887695,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.42856475710868835
+        },
+        {
+            "id": 103,
+            "seek": 46482,
+            "start": 491.82,
+            "end": 493.82,
+            "text": " ah",
+            "tokens": [
+                51714,
+                3716,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7310075759887695,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.42856475710868835
+        },
+        {
+            "id": 104,
+            "seek": 49482,
+            "start": 494.82,
+            "end": 496.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6017389297485352,
+            "compression_ratio": 1.5384615384615385,
+            "no_speech_prob": 0.3169875144958496
+        },
+        {
+            "id": 105,
+            "seek": 49482,
+            "start": 497.82,
+            "end": 499.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6017389297485352,
+            "compression_ratio": 1.5384615384615385,
+            "no_speech_prob": 0.3169875144958496
+        },
+        {
+            "id": 106,
+            "seek": 49482,
+            "start": 504.82,
+            "end": 506.82,
+            "text": " ah",
+            "tokens": [
+                50864,
+                3716,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6017389297485352,
+            "compression_ratio": 1.5384615384615385,
+            "no_speech_prob": 0.3169875144958496
+        },
+        {
+            "id": 107,
+            "seek": 49482,
+            "start": 508.82,
+            "end": 510.82,
+            "text": " ah",
+            "tokens": [
+                51064,
+                3716,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6017389297485352,
+            "compression_ratio": 1.5384615384615385,
+            "no_speech_prob": 0.3169875144958496
+        },
+        {
+            "id": 108,
+            "seek": 49482,
+            "start": 512.8199999999999,
+            "end": 514.8199999999999,
+            "text": " ah",
+            "tokens": [
+                51264,
+                3716,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6017389297485352,
+            "compression_ratio": 1.5384615384615385,
+            "no_speech_prob": 0.3169875144958496
+        },
+        {
+            "id": 109,
+            "seek": 49482,
+            "start": 516.8199999999999,
+            "end": 518.8199999999999,
+            "text": " ah",
+            "tokens": [
+                51464,
+                3716,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6017389297485352,
+            "compression_ratio": 1.5384615384615385,
+            "no_speech_prob": 0.3169875144958496
+        },
+        {
+            "id": 110,
+            "seek": 49482,
+            "start": 519.8199999999999,
+            "end": 521.8199999999999,
+            "text": " ah",
+            "tokens": [
+                51614,
+                3716,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6017389297485352,
+            "compression_ratio": 1.5384615384615385,
+            "no_speech_prob": 0.3169875144958496
+        },
+        {
+            "id": 111,
+            "seek": 52482,
+            "start": 524.82,
+            "end": 526.82,
+            "text": " ah",
+            "tokens": [
+                50364,
+                3716,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24656050205230712,
+            "compression_ratio": 1.273972602739726,
+            "no_speech_prob": 0.046331506222486496
+        },
+        {
+            "id": 112,
+            "seek": 52482,
+            "start": 527.82,
+            "end": 529.82,
+            "text": " ah",
+            "tokens": [
+                50514,
+                3716,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24656050205230712,
+            "compression_ratio": 1.273972602739726,
+            "no_speech_prob": 0.046331506222486496
+        },
+        {
+            "id": 113,
+            "seek": 52482,
+            "start": 530.82,
+            "end": 532.82,
+            "text": " ah",
+            "tokens": [
+                50664,
+                3716,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24656050205230712,
+            "compression_ratio": 1.273972602739726,
+            "no_speech_prob": 0.046331506222486496
+        },
+        {
+            "id": 114,
+            "seek": 52482,
+            "start": 533.82,
+            "end": 535.82,
+            "text": " ah",
+            "tokens": [
+                50814,
+                3716,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24656050205230712,
+            "compression_ratio": 1.273972602739726,
+            "no_speech_prob": 0.046331506222486496
+        },
+        {
+            "id": 115,
+            "seek": 52482,
+            "start": 536.82,
+            "end": 538.82,
+            "text": " ah",
+            "tokens": [
+                50964,
+                3716,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24656050205230712,
+            "compression_ratio": 1.273972602739726,
+            "no_speech_prob": 0.046331506222486496
+        },
+        {
+            "id": 116,
+            "seek": 52482,
+            "start": 539.82,
+            "end": 541.82,
+            "text": " ah",
+            "tokens": [
+                51114,
+                3716,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24656050205230712,
+            "compression_ratio": 1.273972602739726,
+            "no_speech_prob": 0.046331506222486496
+        },
+        {
+            "id": 117,
+            "seek": 52482,
+            "start": 544.82,
+            "end": 549.82,
+            "text": " pues es un gusto volverles a saludar y en este momento pues seguimos con la",
+            "tokens": [
+                51364,
+                11059,
+                785,
+                517,
+                38723,
+                33998,
+                904,
+                257,
+                23933,
+                289,
+                288,
+                465,
+                4065,
+                9333,
+                11059,
+                8878,
+                8372,
+                416,
+                635,
+                51614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24656050205230712,
+            "compression_ratio": 1.273972602739726,
+            "no_speech_prob": 0.046331506222486496
+        },
+        {
+            "id": 118,
+            "seek": 54982,
+            "start": 549.82,
+            "end": 555.82,
+            "text": " transmisi\u00f3n en vivo de la visita oficial del presidente de los estados mexicanos",
+            "tokens": [
+                50364,
+                7715,
+                36515,
+                465,
+                30689,
+                368,
+                635,
+                1452,
+                2786,
+                37189,
+                1103,
+                23852,
+                368,
+                1750,
+                871,
+                4181,
+                28759,
+                8914,
+                329,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08949915222499681,
+            "compression_ratio": 1.4296875,
+            "no_speech_prob": 0.44631946086883545
+        },
+        {
+            "id": 119,
+            "seek": 54982,
+            "start": 555.82,
+            "end": 560.82,
+            "text": " precisamente andr\u00e9s manuel l\u00f3pez obrador queremos darle a conocer que en este",
+            "tokens": [
+                50664,
+                44901,
+                293,
+                18981,
+                587,
+                3483,
+                287,
+                812,
+                15144,
+                1111,
+                81,
+                5409,
+                26813,
+                37666,
+                257,
+                35241,
+                631,
+                465,
+                4065,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08949915222499681,
+            "compression_ratio": 1.4296875,
+            "no_speech_prob": 0.44631946086883545
+        },
+        {
+            "id": 120,
+            "seek": 54982,
+            "start": 560.82,
+            "end": 563.82,
+            "text": " momento el presidente",
+            "tokens": [
+                50914,
+                9333,
+                806,
+                23852,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08949915222499681,
+            "compression_ratio": 1.4296875,
+            "no_speech_prob": 0.44631946086883545
+        }
+    ],
+    "language": "es"
+}

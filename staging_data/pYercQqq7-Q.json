@@ -1,0 +1,2470 @@
+{
+    "text": " y no yo no bien b bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien bien",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 24.5,
+            "text": " y",
+            "tokens": [
+                50364,
+                288,
+                51589
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.5368698120117186,
+            "compression_ratio": 0.1111111111111111,
+            "no_speech_prob": 0.5522058606147766
+        },
+        {
+            "id": 1,
+            "seek": 5450,
+            "start": 55.5,
+            "end": 62.0,
+            "text": " no",
+            "tokens": [
+                50414,
+                572,
+                50739
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.466301781790597,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.21795769035816193
+        },
+        {
+            "id": 2,
+            "seek": 5450,
+            "start": 69.7,
+            "end": 74.96000000000001,
+            "text": " yo",
+            "tokens": [
+                51124,
+                5290,
+                51387
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.466301781790597,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.21795769035816193
+        },
+        {
+            "id": 3,
+            "seek": 8450,
+            "start": 84.9,
+            "end": 88.06,
+            "text": " no",
+            "tokens": [
+                50384,
+                572,
+                50542
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.501073663884943,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.3208880126476288
+        },
+        {
+            "id": 4,
+            "seek": 8450,
+            "start": 95.66,
+            "end": 99.66,
+            "text": " bien",
+            "tokens": [
+                50922,
+                3610,
+                51122
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.501073663884943,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.3208880126476288
+        },
+        {
+            "id": 5,
+            "seek": 8450,
+            "start": 99.66,
+            "end": 102.56,
+            "text": " b",
+            "tokens": [
+                51122,
+                272,
+                51267
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.501073663884943,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.3208880126476288
+        },
+        {
+            "id": 6,
+            "seek": 10256,
+            "start": 102.56,
+            "end": 105.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9717336737591288,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.3741927146911621
+        },
+        {
+            "id": 7,
+            "seek": 10256,
+            "start": 106.56,
+            "end": 109.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9717336737591288,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.3741927146911621
+        },
+        {
+            "id": 8,
+            "seek": 10256,
+            "start": 110.56,
+            "end": 113.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9717336737591288,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.3741927146911621
+        },
+        {
+            "id": 9,
+            "seek": 10256,
+            "start": 114.56,
+            "end": 117.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9717336737591288,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.3741927146911621
+        },
+        {
+            "id": 10,
+            "seek": 10256,
+            "start": 118.56,
+            "end": 121.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9717336737591288,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.3741927146911621
+        },
+        {
+            "id": 11,
+            "seek": 10256,
+            "start": 122.56,
+            "end": 125.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9717336737591288,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.3741927146911621
+        },
+        {
+            "id": 12,
+            "seek": 10256,
+            "start": 126.56,
+            "end": 129.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9717336737591288,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.3741927146911621
+        },
+        {
+            "id": 13,
+            "seek": 12956,
+            "start": 129.56,
+            "end": 132.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4235148863358931,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12402039021253586
+        },
+        {
+            "id": 14,
+            "seek": 12956,
+            "start": 133.56,
+            "end": 136.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4235148863358931,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12402039021253586
+        },
+        {
+            "id": 15,
+            "seek": 12956,
+            "start": 137.56,
+            "end": 140.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4235148863358931,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12402039021253586
+        },
+        {
+            "id": 16,
+            "seek": 12956,
+            "start": 141.56,
+            "end": 144.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4235148863358931,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12402039021253586
+        },
+        {
+            "id": 17,
+            "seek": 12956,
+            "start": 145.56,
+            "end": 148.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4235148863358931,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12402039021253586
+        },
+        {
+            "id": 18,
+            "seek": 12956,
+            "start": 149.56,
+            "end": 152.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4235148863358931,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12402039021253586
+        },
+        {
+            "id": 19,
+            "seek": 12956,
+            "start": 153.56,
+            "end": 156.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4235148863358931,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12402039021253586
+        },
+        {
+            "id": 20,
+            "seek": 15956,
+            "start": 159.56,
+            "end": 162.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25155280983966327,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.09855435788631439
+        },
+        {
+            "id": 21,
+            "seek": 15956,
+            "start": 163.56,
+            "end": 166.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25155280983966327,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.09855435788631439
+        },
+        {
+            "id": 22,
+            "seek": 15956,
+            "start": 167.56,
+            "end": 170.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25155280983966327,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.09855435788631439
+        },
+        {
+            "id": 23,
+            "seek": 15956,
+            "start": 171.56,
+            "end": 174.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25155280983966327,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.09855435788631439
+        },
+        {
+            "id": 24,
+            "seek": 15956,
+            "start": 175.56,
+            "end": 178.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25155280983966327,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.09855435788631439
+        },
+        {
+            "id": 25,
+            "seek": 15956,
+            "start": 179.56,
+            "end": 182.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25155280983966327,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.09855435788631439
+        },
+        {
+            "id": 26,
+            "seek": 15956,
+            "start": 183.56,
+            "end": 186.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25155280983966327,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.09855435788631439
+        },
+        {
+            "id": 27,
+            "seek": 18656,
+            "start": 186.56,
+            "end": 189.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18043714219873602,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13208912312984467
+        },
+        {
+            "id": 28,
+            "seek": 18656,
+            "start": 190.56,
+            "end": 193.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18043714219873602,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13208912312984467
+        },
+        {
+            "id": 29,
+            "seek": 18656,
+            "start": 194.56,
+            "end": 197.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18043714219873602,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13208912312984467
+        },
+        {
+            "id": 30,
+            "seek": 18656,
+            "start": 198.56,
+            "end": 201.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18043714219873602,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13208912312984467
+        },
+        {
+            "id": 31,
+            "seek": 18656,
+            "start": 202.56,
+            "end": 205.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18043714219873602,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13208912312984467
+        },
+        {
+            "id": 32,
+            "seek": 18656,
+            "start": 206.56,
+            "end": 209.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18043714219873602,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13208912312984467
+        },
+        {
+            "id": 33,
+            "seek": 18656,
+            "start": 210.56,
+            "end": 213.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18043714219873602,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13208912312984467
+        },
+        {
+            "id": 34,
+            "seek": 21656,
+            "start": 216.56,
+            "end": 219.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22019268118816873,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12748701870441437
+        },
+        {
+            "id": 35,
+            "seek": 21656,
+            "start": 220.56,
+            "end": 223.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22019268118816873,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12748701870441437
+        },
+        {
+            "id": 36,
+            "seek": 21656,
+            "start": 224.56,
+            "end": 227.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22019268118816873,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12748701870441437
+        },
+        {
+            "id": 37,
+            "seek": 21656,
+            "start": 228.56,
+            "end": 231.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22019268118816873,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12748701870441437
+        },
+        {
+            "id": 38,
+            "seek": 21656,
+            "start": 232.56,
+            "end": 235.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22019268118816873,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12748701870441437
+        },
+        {
+            "id": 39,
+            "seek": 21656,
+            "start": 236.56,
+            "end": 239.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22019268118816873,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12748701870441437
+        },
+        {
+            "id": 40,
+            "seek": 21656,
+            "start": 240.56,
+            "end": 243.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22019268118816873,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.12748701870441437
+        },
+        {
+            "id": 41,
+            "seek": 24356,
+            "start": 243.56,
+            "end": 246.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13304978868235712,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.11349505186080933
+        },
+        {
+            "id": 42,
+            "seek": 24356,
+            "start": 247.56,
+            "end": 250.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13304978868235712,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.11349505186080933
+        },
+        {
+            "id": 43,
+            "seek": 24356,
+            "start": 251.56,
+            "end": 254.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13304978868235712,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.11349505186080933
+        },
+        {
+            "id": 44,
+            "seek": 24356,
+            "start": 255.56,
+            "end": 258.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13304978868235712,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.11349505186080933
+        },
+        {
+            "id": 45,
+            "seek": 24356,
+            "start": 259.56,
+            "end": 262.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13304978868235712,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.11349505186080933
+        },
+        {
+            "id": 46,
+            "seek": 24356,
+            "start": 263.56,
+            "end": 266.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13304978868235712,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.11349505186080933
+        },
+        {
+            "id": 47,
+            "seek": 24356,
+            "start": 267.56,
+            "end": 270.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13304978868235712,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.11349505186080933
+        },
+        {
+            "id": 48,
+            "seek": 27056,
+            "start": 270.56,
+            "end": 273.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17250559640967328,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.011758094653487206
+        },
+        {
+            "id": 49,
+            "seek": 27056,
+            "start": 274.56,
+            "end": 277.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17250559640967328,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.011758094653487206
+        },
+        {
+            "id": 50,
+            "seek": 27056,
+            "start": 278.56,
+            "end": 281.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17250559640967328,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.011758094653487206
+        },
+        {
+            "id": 51,
+            "seek": 27056,
+            "start": 282.56,
+            "end": 285.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17250559640967328,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.011758094653487206
+        },
+        {
+            "id": 52,
+            "seek": 27056,
+            "start": 286.56,
+            "end": 289.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17250559640967328,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.011758094653487206
+        },
+        {
+            "id": 53,
+            "seek": 27056,
+            "start": 290.56,
+            "end": 293.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17250559640967328,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.011758094653487206
+        },
+        {
+            "id": 54,
+            "seek": 27056,
+            "start": 294.56,
+            "end": 297.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17250559640967328,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.011758094653487206
+        },
+        {
+            "id": 55,
+            "seek": 29756,
+            "start": 297.56,
+            "end": 300.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1297220458155093,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.009903292171657085
+        },
+        {
+            "id": 56,
+            "seek": 29756,
+            "start": 301.56,
+            "end": 304.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1297220458155093,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.009903292171657085
+        },
+        {
+            "id": 57,
+            "seek": 29756,
+            "start": 305.56,
+            "end": 308.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1297220458155093,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.009903292171657085
+        },
+        {
+            "id": 58,
+            "seek": 29756,
+            "start": 309.56,
+            "end": 312.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1297220458155093,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.009903292171657085
+        },
+        {
+            "id": 59,
+            "seek": 29756,
+            "start": 313.56,
+            "end": 316.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1297220458155093,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.009903292171657085
+        },
+        {
+            "id": 60,
+            "seek": 29756,
+            "start": 317.56,
+            "end": 320.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1297220458155093,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.009903292171657085
+        },
+        {
+            "id": 61,
+            "seek": 29756,
+            "start": 321.56,
+            "end": 324.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1297220458155093,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.009903292171657085
+        },
+        {
+            "id": 62,
+            "seek": 32456,
+            "start": 324.56,
+            "end": 327.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11312364495318869,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014129464514553547
+        },
+        {
+            "id": 63,
+            "seek": 32456,
+            "start": 328.56,
+            "end": 331.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11312364495318869,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014129464514553547
+        },
+        {
+            "id": 64,
+            "seek": 32456,
+            "start": 332.56,
+            "end": 335.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11312364495318869,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014129464514553547
+        },
+        {
+            "id": 65,
+            "seek": 32456,
+            "start": 336.56,
+            "end": 339.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11312364495318869,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014129464514553547
+        },
+        {
+            "id": 66,
+            "seek": 32456,
+            "start": 340.56,
+            "end": 343.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11312364495318869,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014129464514553547
+        },
+        {
+            "id": 67,
+            "seek": 32456,
+            "start": 344.56,
+            "end": 347.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11312364495318869,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014129464514553547
+        },
+        {
+            "id": 68,
+            "seek": 32456,
+            "start": 348.56,
+            "end": 351.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11312364495318869,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014129464514553547
+        },
+        {
+            "id": 69,
+            "seek": 35156,
+            "start": 351.56,
+            "end": 354.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14259341488713803,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007488229777663946
+        },
+        {
+            "id": 70,
+            "seek": 35156,
+            "start": 355.56,
+            "end": 358.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14259341488713803,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007488229777663946
+        },
+        {
+            "id": 71,
+            "seek": 35156,
+            "start": 359.56,
+            "end": 362.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14259341488713803,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007488229777663946
+        },
+        {
+            "id": 72,
+            "seek": 35156,
+            "start": 363.56,
+            "end": 366.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14259341488713803,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007488229777663946
+        },
+        {
+            "id": 73,
+            "seek": 35156,
+            "start": 367.56,
+            "end": 370.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14259341488713803,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007488229777663946
+        },
+        {
+            "id": 74,
+            "seek": 35156,
+            "start": 371.56,
+            "end": 374.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14259341488713803,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007488229777663946
+        },
+        {
+            "id": 75,
+            "seek": 35156,
+            "start": 375.56,
+            "end": 378.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14259341488713803,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007488229777663946
+        },
+        {
+            "id": 76,
+            "seek": 37856,
+            "start": 378.56,
+            "end": 381.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15026924921118695,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007900860160589218
+        },
+        {
+            "id": 77,
+            "seek": 37856,
+            "start": 382.56,
+            "end": 385.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15026924921118695,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007900860160589218
+        },
+        {
+            "id": 78,
+            "seek": 37856,
+            "start": 386.56,
+            "end": 389.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15026924921118695,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007900860160589218
+        },
+        {
+            "id": 79,
+            "seek": 37856,
+            "start": 390.56,
+            "end": 393.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15026924921118695,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007900860160589218
+        },
+        {
+            "id": 80,
+            "seek": 37856,
+            "start": 394.56,
+            "end": 397.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15026924921118695,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007900860160589218
+        },
+        {
+            "id": 81,
+            "seek": 37856,
+            "start": 398.56,
+            "end": 401.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15026924921118695,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007900860160589218
+        },
+        {
+            "id": 82,
+            "seek": 37856,
+            "start": 402.56,
+            "end": 405.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15026924921118695,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.007900860160589218
+        },
+        {
+            "id": 83,
+            "seek": 40556,
+            "start": 405.56,
+            "end": 408.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08922680564548659,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014398209750652313
+        },
+        {
+            "id": 84,
+            "seek": 40556,
+            "start": 409.56,
+            "end": 412.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08922680564548659,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014398209750652313
+        },
+        {
+            "id": 85,
+            "seek": 40556,
+            "start": 413.56,
+            "end": 416.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08922680564548659,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014398209750652313
+        },
+        {
+            "id": 86,
+            "seek": 40556,
+            "start": 417.56,
+            "end": 420.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08922680564548659,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014398209750652313
+        },
+        {
+            "id": 87,
+            "seek": 40556,
+            "start": 421.56,
+            "end": 424.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08922680564548659,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014398209750652313
+        },
+        {
+            "id": 88,
+            "seek": 40556,
+            "start": 425.56,
+            "end": 428.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08922680564548659,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014398209750652313
+        },
+        {
+            "id": 89,
+            "seek": 40556,
+            "start": 429.56,
+            "end": 432.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08922680564548659,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.014398209750652313
+        },
+        {
+            "id": 90,
+            "seek": 43256,
+            "start": 432.56,
+            "end": 435.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06342152927232825,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.28301945328712463
+        },
+        {
+            "id": 91,
+            "seek": 43256,
+            "start": 436.56,
+            "end": 439.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06342152927232825,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.28301945328712463
+        },
+        {
+            "id": 92,
+            "seek": 43256,
+            "start": 440.56,
+            "end": 443.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06342152927232825,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.28301945328712463
+        },
+        {
+            "id": 93,
+            "seek": 43256,
+            "start": 444.56,
+            "end": 447.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06342152927232825,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.28301945328712463
+        },
+        {
+            "id": 94,
+            "seek": 43256,
+            "start": 448.56,
+            "end": 451.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06342152927232825,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.28301945328712463
+        },
+        {
+            "id": 95,
+            "seek": 43256,
+            "start": 452.56,
+            "end": 455.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06342152927232825,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.28301945328712463
+        },
+        {
+            "id": 96,
+            "seek": 43256,
+            "start": 456.56,
+            "end": 459.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06342152927232825,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.28301945328712463
+        },
+        {
+            "id": 97,
+            "seek": 45956,
+            "start": 459.56,
+            "end": 462.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08829973054968793,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17088103294372559
+        },
+        {
+            "id": 98,
+            "seek": 45956,
+            "start": 463.56,
+            "end": 466.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08829973054968793,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17088103294372559
+        },
+        {
+            "id": 99,
+            "seek": 45956,
+            "start": 467.56,
+            "end": 470.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08829973054968793,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17088103294372559
+        },
+        {
+            "id": 100,
+            "seek": 45956,
+            "start": 471.56,
+            "end": 474.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08829973054968793,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17088103294372559
+        },
+        {
+            "id": 101,
+            "seek": 45956,
+            "start": 475.56,
+            "end": 478.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08829973054968793,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17088103294372559
+        },
+        {
+            "id": 102,
+            "seek": 45956,
+            "start": 479.56,
+            "end": 482.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08829973054968793,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17088103294372559
+        },
+        {
+            "id": 103,
+            "seek": 45956,
+            "start": 483.56,
+            "end": 486.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08829973054968793,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17088103294372559
+        },
+        {
+            "id": 104,
+            "seek": 48656,
+            "start": 486.56,
+            "end": 489.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08235800784567128,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17921490967273712
+        },
+        {
+            "id": 105,
+            "seek": 48656,
+            "start": 490.56,
+            "end": 493.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08235800784567128,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17921490967273712
+        },
+        {
+            "id": 106,
+            "seek": 48656,
+            "start": 494.56,
+            "end": 497.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08235800784567128,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17921490967273712
+        },
+        {
+            "id": 107,
+            "seek": 48656,
+            "start": 498.56,
+            "end": 501.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08235800784567128,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17921490967273712
+        },
+        {
+            "id": 108,
+            "seek": 48656,
+            "start": 502.56,
+            "end": 505.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08235800784567128,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17921490967273712
+        },
+        {
+            "id": 109,
+            "seek": 48656,
+            "start": 506.56,
+            "end": 509.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08235800784567128,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17921490967273712
+        },
+        {
+            "id": 110,
+            "seek": 48656,
+            "start": 510.56,
+            "end": 513.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.08235800784567128,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.17921490967273712
+        },
+        {
+            "id": 111,
+            "seek": 51356,
+            "start": 513.56,
+            "end": 516.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10970554144486137,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13211962580680847
+        },
+        {
+            "id": 112,
+            "seek": 51356,
+            "start": 517.56,
+            "end": 520.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10970554144486137,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13211962580680847
+        },
+        {
+            "id": 113,
+            "seek": 51356,
+            "start": 521.56,
+            "end": 524.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10970554144486137,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13211962580680847
+        },
+        {
+            "id": 114,
+            "seek": 51356,
+            "start": 525.56,
+            "end": 528.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10970554144486137,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13211962580680847
+        },
+        {
+            "id": 115,
+            "seek": 51356,
+            "start": 529.56,
+            "end": 532.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10970554144486137,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13211962580680847
+        },
+        {
+            "id": 116,
+            "seek": 51356,
+            "start": 533.56,
+            "end": 536.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10970554144486137,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13211962580680847
+        },
+        {
+            "id": 117,
+            "seek": 51356,
+            "start": 537.56,
+            "end": 540.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10970554144486137,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.13211962580680847
+        },
+        {
+            "id": 118,
+            "seek": 54056,
+            "start": 540.56,
+            "end": 543.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11481844860574474,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.2436215579509735
+        },
+        {
+            "id": 119,
+            "seek": 54056,
+            "start": 544.56,
+            "end": 547.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11481844860574474,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.2436215579509735
+        },
+        {
+            "id": 120,
+            "seek": 54056,
+            "start": 548.56,
+            "end": 551.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11481844860574474,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.2436215579509735
+        },
+        {
+            "id": 121,
+            "seek": 54056,
+            "start": 552.56,
+            "end": 555.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11481844860574474,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.2436215579509735
+        },
+        {
+            "id": 122,
+            "seek": 54056,
+            "start": 556.56,
+            "end": 559.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11481844860574474,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.2436215579509735
+        },
+        {
+            "id": 123,
+            "seek": 54056,
+            "start": 560.56,
+            "end": 563.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11481844860574474,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.2436215579509735
+        },
+        {
+            "id": 124,
+            "seek": 54056,
+            "start": 564.56,
+            "end": 567.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11481844860574474,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.2436215579509735
+        },
+        {
+            "id": 125,
+            "seek": 56756,
+            "start": 567.56,
+            "end": 570.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1334519282631252,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.24744607508182526
+        },
+        {
+            "id": 126,
+            "seek": 56756,
+            "start": 571.56,
+            "end": 574.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1334519282631252,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.24744607508182526
+        },
+        {
+            "id": 127,
+            "seek": 56756,
+            "start": 575.56,
+            "end": 578.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1334519282631252,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.24744607508182526
+        },
+        {
+            "id": 128,
+            "seek": 56756,
+            "start": 579.56,
+            "end": 582.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1334519282631252,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.24744607508182526
+        },
+        {
+            "id": 129,
+            "seek": 56756,
+            "start": 583.56,
+            "end": 586.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1334519282631252,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.24744607508182526
+        },
+        {
+            "id": 130,
+            "seek": 56756,
+            "start": 587.56,
+            "end": 590.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1334519282631252,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.24744607508182526
+        },
+        {
+            "id": 131,
+            "seek": 56756,
+            "start": 591.56,
+            "end": 594.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1334519282631252,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.24744607508182526
+        },
+        {
+            "id": 132,
+            "seek": 59456,
+            "start": 594.56,
+            "end": 597.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10410289142442786,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.05981540307402611
+        },
+        {
+            "id": 133,
+            "seek": 59456,
+            "start": 598.56,
+            "end": 601.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10410289142442786,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.05981540307402611
+        },
+        {
+            "id": 134,
+            "seek": 59456,
+            "start": 602.56,
+            "end": 605.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10410289142442786,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.05981540307402611
+        },
+        {
+            "id": 135,
+            "seek": 59456,
+            "start": 606.56,
+            "end": 609.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10410289142442786,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.05981540307402611
+        },
+        {
+            "id": 136,
+            "seek": 59456,
+            "start": 610.56,
+            "end": 613.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10410289142442786,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.05981540307402611
+        },
+        {
+            "id": 137,
+            "seek": 59456,
+            "start": 614.56,
+            "end": 617.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10410289142442786,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.05981540307402611
+        },
+        {
+            "id": 138,
+            "seek": 59456,
+            "start": 618.56,
+            "end": 621.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10410289142442786,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.05981540307402611
+        },
+        {
+            "id": 139,
+            "seek": 62156,
+            "start": 621.56,
+            "end": 624.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1377690667691438,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23432427644729614
+        },
+        {
+            "id": 140,
+            "seek": 62156,
+            "start": 625.56,
+            "end": 628.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1377690667691438,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23432427644729614
+        },
+        {
+            "id": 141,
+            "seek": 62156,
+            "start": 629.56,
+            "end": 632.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1377690667691438,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23432427644729614
+        },
+        {
+            "id": 142,
+            "seek": 62156,
+            "start": 633.56,
+            "end": 636.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1377690667691438,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23432427644729614
+        },
+        {
+            "id": 143,
+            "seek": 62156,
+            "start": 637.56,
+            "end": 640.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1377690667691438,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23432427644729614
+        },
+        {
+            "id": 144,
+            "seek": 62156,
+            "start": 641.56,
+            "end": 644.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1377690667691438,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23432427644729614
+        },
+        {
+            "id": 145,
+            "seek": 62156,
+            "start": 645.56,
+            "end": 648.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1377690667691438,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23432427644729614
+        },
+        {
+            "id": 146,
+            "seek": 64856,
+            "start": 648.56,
+            "end": 651.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1158743837605352,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23273400962352753
+        },
+        {
+            "id": 147,
+            "seek": 64856,
+            "start": 652.56,
+            "end": 655.56,
+            "text": " bien",
+            "tokens": [
+                50564,
+                3610,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1158743837605352,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23273400962352753
+        },
+        {
+            "id": 148,
+            "seek": 64856,
+            "start": 656.56,
+            "end": 659.56,
+            "text": " bien",
+            "tokens": [
+                50764,
+                3610,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1158743837605352,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23273400962352753
+        },
+        {
+            "id": 149,
+            "seek": 64856,
+            "start": 660.56,
+            "end": 663.56,
+            "text": " bien",
+            "tokens": [
+                50964,
+                3610,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1158743837605352,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23273400962352753
+        },
+        {
+            "id": 150,
+            "seek": 64856,
+            "start": 664.56,
+            "end": 667.56,
+            "text": " bien",
+            "tokens": [
+                51164,
+                3610,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1158743837605352,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23273400962352753
+        },
+        {
+            "id": 151,
+            "seek": 64856,
+            "start": 668.56,
+            "end": 671.56,
+            "text": " bien",
+            "tokens": [
+                51364,
+                3610,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1158743837605352,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23273400962352753
+        },
+        {
+            "id": 152,
+            "seek": 64856,
+            "start": 672.56,
+            "end": 675.56,
+            "text": " bien",
+            "tokens": [
+                51564,
+                3610,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1158743837605352,
+            "compression_ratio": 2.125,
+            "no_speech_prob": 0.23273400962352753
+        },
+        {
+            "id": 153,
+            "seek": 67556,
+            "start": 675.56,
+            "end": 678.56,
+            "text": " bien",
+            "tokens": [
+                50364,
+                3610,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19279588758945465,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.5905324816703796
+        }
+    ],
+    "language": "es"
+}

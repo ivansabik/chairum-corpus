@@ -1,0 +1,41 @@
+{
+    "text": " AWF tercera kitty",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " AWF",
+            "tokens": [
+                50364,
+                25815,
+                37,
+                50528
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.024276351928711,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.3805049955844879
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 25.72,
+            "end": 27.96,
+            "text": " tercera kitty",
+            "tokens": [
+                51650,
+                1796,
+                41034,
+                33026,
+                51762
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.024276351928711,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.3805049955844879
+        }
+    ],
+    "language": "es"
+}

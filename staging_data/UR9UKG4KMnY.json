@@ -1,0 +1,23 @@
+{
+    "text": " Access dimension",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 72000,
+            "start": 720.0,
+            "end": 729.36,
+            "text": " Access dimension",
+            "tokens": [
+                50364,
+                17166,
+                10139,
+                50832
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.555601119995117,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.5586501955986023
+        }
+    ],
+    "language": "es"
+}

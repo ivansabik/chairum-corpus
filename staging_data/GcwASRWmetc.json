@@ -1,0 +1,125 @@
+{
+    "text": " La tercera, la tercera, ll\u00e9ralo, ll\u00e9ralo. \u00a1Buenas, buenas, buenas, buenas! \u00a1Aj\u00e1! \u00a1Aj\u00e1! \u00a1Aj\u00e1!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " La tercera, la tercera, ll\u00e9ralo, ll\u00e9ralo.",
+            "tokens": [
+                50364,
+                2369,
+                1796,
+                41034,
+                11,
+                635,
+                1796,
+                41034,
+                11,
+                4849,
+                526,
+                2155,
+                78,
+                11,
+                4849,
+                526,
+                2155,
+                78,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8907053877667683,
+            "compression_ratio": 1.5454545454545454,
+            "no_speech_prob": 0.6746746301651001
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.0,
+            "end": 9.0,
+            "text": " \u00a1Buenas, buenas, buenas, buenas!",
+            "tokens": [
+                50664,
+                6514,
+                33,
+                7801,
+                296,
+                11,
+                43852,
+                11,
+                43852,
+                11,
+                43852,
+                0,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8907053877667683,
+            "compression_ratio": 1.5454545454545454,
+            "no_speech_prob": 0.6746746301651001
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 18.0,
+            "end": 20.0,
+            "text": " \u00a1Aj\u00e1!",
+            "tokens": [
+                51264,
+                6514,
+                32,
+                73,
+                842,
+                0,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8907053877667683,
+            "compression_ratio": 1.5454545454545454,
+            "no_speech_prob": 0.6746746301651001
+        },
+        {
+            "id": 3,
+            "seek": 3000,
+            "start": 31.0,
+            "end": 33.0,
+            "text": " \u00a1Aj\u00e1!",
+            "tokens": [
+                50414,
+                6514,
+                32,
+                73,
+                842,
+                0,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5070492108662923,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.08380871266126633
+        },
+        {
+            "id": 4,
+            "seek": 3000,
+            "start": 44.0,
+            "end": 46.0,
+            "text": " \u00a1Aj\u00e1!",
+            "tokens": [
+                51064,
+                6514,
+                32,
+                73,
+                842,
+                0,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5070492108662923,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.08380871266126633
+        }
+    ],
+    "language": "es"
+}

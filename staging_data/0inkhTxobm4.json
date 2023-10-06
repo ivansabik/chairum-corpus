@@ -1,0 +1,127 @@
+{
+    "text": " Cut bother El canal de\ufffd scared La vida favorita B nice El Gobierno de M\u00e9xico.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Cut bother",
+            "tokens": [
+                50364,
+                9431,
+                8677,
+                50564
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.4867981620456865,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.582261860370636
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.8,
+            "end": 14.8,
+            "text": " El canal de\ufffd scared",
+            "tokens": [
+                50604,
+                2699,
+                9911,
+                368,
+                27746,
+                5338,
+                51104
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.4867981620456865,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.582261860370636
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 16.72,
+            "end": 20.72,
+            "text": " La vida favorita",
+            "tokens": [
+                51200,
+                2369,
+                7644,
+                2294,
+                2786,
+                51400
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.4867981620456865,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.582261860370636
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 22.18,
+            "end": 26.22,
+            "text": " B nice",
+            "tokens": [
+                51473,
+                363,
+                1481,
+                51675
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.4867981620456865,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.582261860370636
+        },
+        {
+            "id": 4,
+            "seek": 2622,
+            "start": 26.82,
+            "end": 26.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.579566955566406,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.2526122033596039,
+            "words": []
+        },
+        {
+            "id": 5,
+            "seek": 2622,
+            "start": 26.82,
+            "end": 49.46,
+            "text": " El",
+            "tokens": [
+                50394,
+                2699,
+                51526
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.579566955566406,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.2526122033596039
+        },
+        {
+            "id": 6,
+            "seek": 22946,
+            "start": 229.46,
+            "end": 251.9,
+            "text": " Gobierno de M\u00e9xico.",
+            "tokens": [
+                50364,
+                41963,
+                368,
+                28128,
+                13,
+                51486
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.8408125468662807,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.11884396523237228
+        }
+    ],
+    "language": "es"
+}

@@ -1,0 +1,23 @@
+{
+    "text": " ending music",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": " ending music",
+            "tokens": [
+                50364,
+                8121,
+                1318,
+                50538
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.669565200805664,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5742655992507935
+        }
+    ],
+    "language": "es"
+}

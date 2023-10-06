@@ -1,0 +1,73 @@
+{
+    "text": " sometimes 2 i gobierno de m\u00e9xico",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 14.58,
+            "text": " sometimes",
+            "tokens": [
+                50364,
+                2171,
+                51093
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.833897590637207,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.5543952584266663
+        },
+        {
+            "id": 1,
+            "seek": 6000,
+            "start": 60.0,
+            "end": 82.92,
+            "text": " 2",
+            "tokens": [
+                50364,
+                568,
+                51510
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.3080406188964844,
+            "compression_ratio": 0.1111111111111111,
+            "no_speech_prob": 0.5020463466644287
+        },
+        {
+            "id": 2,
+            "seek": 9000,
+            "start": 90.08,
+            "end": 90.24,
+            "text": " i",
+            "tokens": [
+                50368,
+                741,
+                50376
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7693161010742187,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.04277420789003372
+        },
+        {
+            "id": 3,
+            "seek": 9000,
+            "start": 114.08,
+            "end": 115.36,
+            "text": " gobierno de m\u00e9xico",
+            "tokens": [
+                51568,
+                29254,
+                368,
+                13191,
+                24829,
+                51632
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7693161010742187,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.04277420789003372
+        }
+    ],
+    "language": "es"
+}

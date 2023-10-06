@@ -1,0 +1,30 @@
+{
+    "text": " \u00a1Gracias por ver el v\u00eddeo!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 12000,
+            "start": 120.0,
+            "end": 147.0,
+            "text": " \u00a1Gracias por ver el v\u00eddeo!",
+            "tokens": [
+                50364,
+                6514,
+                38,
+                12080,
+                4609,
+                1515,
+                1306,
+                806,
+                8071,
+                0,
+                51714
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.8741663297017416,
+            "compression_ratio": 0.7777777777777778,
+            "no_speech_prob": 0.8208582997322083
+        }
+    ],
+    "language": "es"
+}

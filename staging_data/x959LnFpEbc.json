@@ -1,0 +1,204 @@
+{
+    "text": " \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre? \u00bfMe podr\u00eda decir su nombre?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5705209255218506,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.4354521632194519
+        },
+        {
+            "id": 1,
+            "seek": 6000,
+            "start": 60.0,
+            "end": 62.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9195121765136719,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.8694552779197693
+        },
+        {
+            "id": 2,
+            "seek": 18000,
+            "start": 180.0,
+            "end": 182.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6077609062194824,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.942448079586029
+        },
+        {
+            "id": 3,
+            "seek": 21000,
+            "start": 210.0,
+            "end": 212.6,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50394,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50494
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.8068070411682129,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.9483375549316406
+        },
+        {
+            "id": 4,
+            "seek": 24000,
+            "start": 240.0,
+            "end": 242.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5171889305114746,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.95066899061203
+        },
+        {
+            "id": 5,
+            "seek": 27000,
+            "start": 270.0,
+            "end": 272.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5343449592590332,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.9578215479850769
+        },
+        {
+            "id": 6,
+            "seek": 30000,
+            "start": 300.0,
+            "end": 302.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4775132656097412,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.9660555124282837
+        },
+        {
+            "id": 7,
+            "seek": 33000,
+            "start": 330.0,
+            "end": 332.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5287558555603027,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.9642585515975952
+        },
+        {
+            "id": 8,
+            "seek": 36000,
+            "start": 360.0,
+            "end": 362.0,
+            "text": " \u00bfMe podr\u00eda decir su nombre?",
+            "tokens": [
+                50364,
+                3841,
+                12671,
+                27246,
+                10235,
+                459,
+                13000,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5952146053314209,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.9674157500267029
+        }
+    ],
+    "language": "es"
+}

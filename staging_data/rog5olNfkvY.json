@@ -1,0 +1,27 @@
+{
+    "text": " Gracias por ver el video.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 16.0,
+            "text": " Gracias por ver el video.",
+            "tokens": [
+                50364,
+                26909,
+                1515,
+                1306,
+                806,
+                960,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9633122550116645,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.5419543981552124
+        }
+    ],
+    "language": "es"
+}

@@ -1,0 +1,246 @@
+{
+    "text": " le de n dos seminars Pack este\u00fcz Fa de de mother 200 200 20",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.8800000000000001,
+            "text": " le",
+            "tokens": [
+                50364,
+                476,
+                50458
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.0308942794799805,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.5392118096351624
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.44,
+            "end": 12.82,
+            "text": " de",
+            "tokens": [
+                50836,
+                368,
+                51005
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.0308942794799805,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.5392118096351624
+        },
+        {
+            "id": 2,
+            "seek": 1282,
+            "start": 13.32,
+            "end": 18.32,
+            "text": " n",
+            "tokens": [
+                50389,
+                297,
+                50639
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.058212973854759,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.24544064700603485
+        },
+        {
+            "id": 3,
+            "seek": 1282,
+            "start": 21.54,
+            "end": 24.6,
+            "text": " dos",
+            "tokens": [
+                50800,
+                4491,
+                50953
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.058212973854759,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.24544064700603485
+        },
+        {
+            "id": 4,
+            "seek": 1282,
+            "start": 30.02,
+            "end": 33.7,
+            "text": " seminars",
+            "tokens": [
+                51224,
+                43112,
+                51408
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.058212973854759,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.24544064700603485
+        },
+        {
+            "id": 5,
+            "seek": 3370,
+            "start": 34.2,
+            "end": 39.2,
+            "text": " Pack",
+            "tokens": [
+                50389,
+                18466,
+                50639
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.777838230133057,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.2272235006093979
+        },
+        {
+            "id": 6,
+            "seek": 3370,
+            "start": 55.82000000000001,
+            "end": 62.02,
+            "text": " este",
+            "tokens": [
+                51470,
+                4065,
+                51780
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.777838230133057,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.2272235006093979
+        },
+        {
+            "id": 7,
+            "seek": 6202,
+            "start": 62.300000000000004,
+            "end": 74.44,
+            "text": "\u00fcz",
+            "tokens": [
+                50378,
+                4934,
+                50985
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.804924964904785,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.3293081223964691
+        },
+        {
+            "id": 8,
+            "seek": 6202,
+            "start": 74.44,
+            "end": 81.44,
+            "text": " Fa",
+            "tokens": [
+                50985,
+                12710,
+                51335
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.804924964904785,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.3293081223964691
+        },
+        {
+            "id": 9,
+            "seek": 11144,
+            "start": 111.6,
+            "end": 118.44,
+            "text": " de",
+            "tokens": [
+                50372,
+                368,
+                50714
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.108446666172573,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.1709492951631546
+        },
+        {
+            "id": 10,
+            "seek": 11144,
+            "start": 118.44,
+            "end": 123.44,
+            "text": " de",
+            "tokens": [
+                50714,
+                368,
+                50964
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.108446666172573,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.1709492951631546
+        },
+        {
+            "id": 11,
+            "seek": 11144,
+            "start": 123.44,
+            "end": 126.84,
+            "text": " mother",
+            "tokens": [
+                50964,
+                2895,
+                51134
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.108446666172573,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.1709492951631546
+        },
+        {
+            "id": 12,
+            "seek": 11144,
+            "start": 126.94,
+            "end": 137.44,
+            "text": " 200",
+            "tokens": [
+                51139,
+                2331,
+                51664
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.108446666172573,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.1709492951631546
+        },
+        {
+            "id": 13,
+            "seek": 13744,
+            "start": 137.8,
+            "end": 144.06,
+            "text": " 200",
+            "tokens": [
+                50382,
+                2331,
+                50695
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.378101893833706,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.06997186690568924
+        },
+        {
+            "id": 14,
+            "seek": 13744,
+            "start": 144.26,
+            "end": 151.64,
+            "text": " 20",
+            "tokens": [
+                50705,
+                945,
+                51074
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.378101893833706,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.06997186690568924
+        }
+    ],
+    "language": "es"
+}

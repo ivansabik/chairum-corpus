@@ -1,0 +1,2841 @@
+{
+    "text": " trabajadores dedicados a la industria textil, al comercio aqu\u00ed en Chicoancuac quiero expresar a todo M\u00e9xico mi conformidad desde luego respetuosa pero mi protesta porque el presidente Pe\u00f1a Nieto no ha sabido en estos momentos de definici\u00f3n actuar con firmeza ante la agresi\u00f3n de Donald Trump nosotros hemos recomendado que el presidente hemos recomendado que ante la decisi\u00f3n unilateral arbitraria de construir un muro a lo largo de nuestra frontera y de perseguir en Estados Unidos a migrantes a nuestros paisanos Pe\u00f1a debi\u00f3 de inmediato acudir a la organizaci\u00f3n de Naciones Unidas y presentar una denuncia contra el gobierno de Estados Unidos y contra Donald Trump por violaci\u00f3n de derechos humanos y por discriminaci\u00f3n racial sin embargo pasa el tiempo y no se ha actuado yo esper\u00e9 que nosotros \u00edbamos a actuar de manera mezquina y \u00edbamos a apostar a la desu\u00f1\u00f3n en los momentos que es importante que todos los mexicanos estemos unidos y respaldando al gobierno pero no me puedo quedar callado ante el inmovilismo de Pe\u00f1a hoy se informa que habl\u00f3 contra y entre otras cosas llega el gobierno de Estados Unidos y entre otras cosas llega al acuerdo de que ya no va a hablar sobre la construcci\u00f3n del muro es decir que se va a quedar callado imag\u00ednense eso no se puede aceptar vamos a seguir actuando con respeto a quien representa M\u00e9xico porque se necesita en estos momentos de unidad pero no vamos a ser comparsa no vamos a ser alcahuetes nosotros vamos a ir a Estados Unidos a crear un frente c\u00edvico en defensa de los migrantes en contra de la gelofobia es decir del odio a los extranjeros lo que est\u00e1n haciendo desde el gobierno de Estados Unidos fomentar el odio contra los migrantes contra los extranjeros eso no lo podemos permitir vamos a ser los violatorios de los derechos humanos eso es indigno es inhumano vamos a convencer a todos incluidos desde luego los mismos estadounidenses de que esa pol\u00edtica es contraria a los derechos humanos a la fraternidad que debe haber a los pueblos del mundo vamos a ir a visitar todas las ciudades de la uni\u00f3n americana vamos a hacer una tira para apoyar a nuestros falsanos, apoyar a los migrantes y si pe\u00f1a Nieto no, acude a la HOMO para denunciar al gobierno de Estados Unidos por violaci\u00f3n de derechos humanos lo vamos a hacer nosotros no vamos nosotros a permitir que ese trisote la dignidad de nuestro pueblo esto era lo que quer\u00eda expresar aqu\u00ed es incumplido",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " trabajadores",
+            "tokens": [
+                50364,
+                9618,
+                11856,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.0,
+            "end": 4.0,
+            "text": " dedicados",
+            "tokens": [
+                50464,
+                37071,
+                4181,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.0,
+            "end": 6.0,
+            "text": " a la industria",
+            "tokens": [
+                50564,
+                257,
+                635,
+                2735,
+                4668,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.0,
+            "end": 8.0,
+            "text": " textil, al comercio",
+            "tokens": [
+                50664,
+                2487,
+                388,
+                11,
+                419,
+                16510,
+                8529,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.0,
+            "end": 10.0,
+            "text": " aqu\u00ed en Chicoancuac",
+            "tokens": [
+                50764,
+                6661,
+                465,
+                761,
+                2789,
+                282,
+                12032,
+                326,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.0,
+            "end": 12.0,
+            "text": " quiero",
+            "tokens": [
+                50864,
+                16811,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 12.0,
+            "end": 14.0,
+            "text": " expresar",
+            "tokens": [
+                50964,
+                33397,
+                289,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 14.0,
+            "end": 16.0,
+            "text": " a todo M\u00e9xico",
+            "tokens": [
+                51064,
+                257,
+                5149,
+                28128,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 18.0,
+            "end": 20.0,
+            "text": " mi conformidad",
+            "tokens": [
+                51264,
+                2752,
+                18975,
+                4580,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 20.0,
+            "end": 22.0,
+            "text": " desde luego respetuosa",
+            "tokens": [
+                51364,
+                10188,
+                17222,
+                1597,
+                41236,
+                6447,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 24.0,
+            "end": 26.0,
+            "text": " pero mi protesta",
+            "tokens": [
+                51564,
+                4768,
+                2752,
+                1742,
+                7841,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3699088929191468,
+            "compression_ratio": 1.2713178294573644,
+            "no_speech_prob": 0.3412129580974579
+        },
+        {
+            "id": 11,
+            "seek": 2600,
+            "start": 26.0,
+            "end": 28.0,
+            "text": " porque",
+            "tokens": [
+                50364,
+                4021,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 12,
+            "seek": 2600,
+            "start": 28.0,
+            "end": 30.0,
+            "text": " el presidente Pe\u00f1a Nieto",
+            "tokens": [
+                50464,
+                806,
+                23852,
+                2396,
+                12150,
+                36583,
+                78,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 13,
+            "seek": 2600,
+            "start": 30.0,
+            "end": 32.0,
+            "text": " no ha sabido",
+            "tokens": [
+                50564,
+                572,
+                324,
+                5560,
+                2925,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 14,
+            "seek": 2600,
+            "start": 32.0,
+            "end": 34.0,
+            "text": " en estos momentos",
+            "tokens": [
+                50664,
+                465,
+                12585,
+                34583,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 15,
+            "seek": 2600,
+            "start": 34.0,
+            "end": 36.0,
+            "text": " de definici\u00f3n",
+            "tokens": [
+                50764,
+                368,
+                1561,
+                15534,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 16,
+            "seek": 2600,
+            "start": 36.0,
+            "end": 38.0,
+            "text": " actuar",
+            "tokens": [
+                50864,
+                605,
+                20766,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 17,
+            "seek": 2600,
+            "start": 38.0,
+            "end": 40.0,
+            "text": " con",
+            "tokens": [
+                50964,
+                416,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 18,
+            "seek": 2600,
+            "start": 40.0,
+            "end": 42.0,
+            "text": " firmeza",
+            "tokens": [
+                51064,
+                12159,
+                1398,
+                2394,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 19,
+            "seek": 2600,
+            "start": 42.0,
+            "end": 44.0,
+            "text": " ante",
+            "tokens": [
+                51164,
+                23411,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 20,
+            "seek": 2600,
+            "start": 44.0,
+            "end": 46.0,
+            "text": " la agresi\u00f3n",
+            "tokens": [
+                51264,
+                635,
+                623,
+                495,
+                2560,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 21,
+            "seek": 2600,
+            "start": 46.0,
+            "end": 48.0,
+            "text": " de Donald Trump",
+            "tokens": [
+                51364,
+                368,
+                8632,
+                3899,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 22,
+            "seek": 2600,
+            "start": 48.0,
+            "end": 50.0,
+            "text": " nosotros",
+            "tokens": [
+                51464,
+                13863,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 23,
+            "seek": 2600,
+            "start": 50.0,
+            "end": 52.0,
+            "text": " hemos recomendado",
+            "tokens": [
+                51564,
+                15396,
+                40292,
+                1573,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 24,
+            "seek": 2600,
+            "start": 52.0,
+            "end": 54.0,
+            "text": " que el presidente",
+            "tokens": [
+                51664,
+                631,
+                806,
+                23852,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1606432970832376,
+            "compression_ratio": 1.353846153846154,
+            "no_speech_prob": 0.0490553081035614
+        },
+        {
+            "id": 25,
+            "seek": 5400,
+            "start": 54.0,
+            "end": 56.0,
+            "text": " hemos recomendado",
+            "tokens": [
+                50364,
+                15396,
+                40292,
+                1573,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 26,
+            "seek": 5400,
+            "start": 58.0,
+            "end": 60.0,
+            "text": " que ante la decisi\u00f3n",
+            "tokens": [
+                50564,
+                631,
+                23411,
+                635,
+                18206,
+                2560,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 27,
+            "seek": 5400,
+            "start": 60.0,
+            "end": 62.0,
+            "text": " unilateral",
+            "tokens": [
+                50664,
+                517,
+                37751,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 28,
+            "seek": 5400,
+            "start": 62.0,
+            "end": 64.0,
+            "text": " arbitraria",
+            "tokens": [
+                50764,
+                14931,
+                5352,
+                654,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 29,
+            "seek": 5400,
+            "start": 64.0,
+            "end": 66.0,
+            "text": " de construir un muro",
+            "tokens": [
+                50864,
+                368,
+                38445,
+                517,
+                2992,
+                340,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 30,
+            "seek": 5400,
+            "start": 66.0,
+            "end": 68.0,
+            "text": " a lo largo de nuestra",
+            "tokens": [
+                50964,
+                257,
+                450,
+                31245,
+                368,
+                16825,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 31,
+            "seek": 5400,
+            "start": 68.0,
+            "end": 70.0,
+            "text": " frontera",
+            "tokens": [
+                51064,
+                431,
+                266,
+                23833,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 32,
+            "seek": 5400,
+            "start": 70.0,
+            "end": 72.0,
+            "text": " y de perseguir",
+            "tokens": [
+                51164,
+                288,
+                368,
+                20607,
+                2794,
+                347,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 33,
+            "seek": 5400,
+            "start": 72.0,
+            "end": 74.0,
+            "text": " en Estados Unidos a",
+            "tokens": [
+                51264,
+                465,
+                22362,
+                23087,
+                257,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 34,
+            "seek": 5400,
+            "start": 74.0,
+            "end": 76.0,
+            "text": " migrantes",
+            "tokens": [
+                51364,
+                38547,
+                279,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 35,
+            "seek": 5400,
+            "start": 76.0,
+            "end": 78.0,
+            "text": " a nuestros paisanos",
+            "tokens": [
+                51464,
+                257,
+                24099,
+                34955,
+                31035,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 36,
+            "seek": 5400,
+            "start": 78.0,
+            "end": 80.0,
+            "text": " Pe\u00f1a",
+            "tokens": [
+                51564,
+                2396,
+                12150,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 37,
+            "seek": 5400,
+            "start": 80.0,
+            "end": 82.0,
+            "text": " debi\u00f3 de inmediato",
+            "tokens": [
+                51664,
+                3001,
+                7138,
+                368,
+                294,
+                3130,
+                2513,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06330855481036297,
+            "compression_ratio": 1.4265734265734267,
+            "no_speech_prob": 0.002068280940875411
+        },
+        {
+            "id": 38,
+            "seek": 8200,
+            "start": 82.0,
+            "end": 84.0,
+            "text": " acudir",
+            "tokens": [
+                50364,
+                696,
+                532,
+                347,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 39,
+            "seek": 8200,
+            "start": 84.0,
+            "end": 86.0,
+            "text": " a la organizaci\u00f3n",
+            "tokens": [
+                50464,
+                257,
+                635,
+                4645,
+                3482,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 40,
+            "seek": 8200,
+            "start": 86.0,
+            "end": 88.0,
+            "text": " de Naciones Unidas",
+            "tokens": [
+                50564,
+                368,
+                426,
+                9188,
+                1156,
+                11382,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 41,
+            "seek": 8200,
+            "start": 88.0,
+            "end": 90.0,
+            "text": " y presentar",
+            "tokens": [
+                50664,
+                288,
+                1974,
+                289,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 42,
+            "seek": 8200,
+            "start": 90.0,
+            "end": 92.0,
+            "text": " una denuncia",
+            "tokens": [
+                50764,
+                2002,
+                1441,
+                409,
+                2755,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 43,
+            "seek": 8200,
+            "start": 92.0,
+            "end": 94.0,
+            "text": " contra el gobierno de Estados Unidos",
+            "tokens": [
+                50864,
+                10742,
+                806,
+                29254,
+                368,
+                22362,
+                23087,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 44,
+            "seek": 8200,
+            "start": 96.0,
+            "end": 98.0,
+            "text": " y contra Donald Trump",
+            "tokens": [
+                51064,
+                288,
+                10742,
+                8632,
+                3899,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 45,
+            "seek": 8200,
+            "start": 98.0,
+            "end": 100.0,
+            "text": " por violaci\u00f3n de derechos humanos",
+            "tokens": [
+                51164,
+                1515,
+                3448,
+                3482,
+                368,
+                47508,
+                34555,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 46,
+            "seek": 8200,
+            "start": 102.0,
+            "end": 104.0,
+            "text": " y por discriminaci\u00f3n racial",
+            "tokens": [
+                51364,
+                288,
+                1515,
+                20828,
+                3482,
+                12131,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 47,
+            "seek": 8200,
+            "start": 106.0,
+            "end": 108.0,
+            "text": " sin embargo",
+            "tokens": [
+                51564,
+                3343,
+                23955,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 48,
+            "seek": 8200,
+            "start": 108.0,
+            "end": 110.0,
+            "text": " pasa el tiempo",
+            "tokens": [
+                51664,
+                20260,
+                806,
+                11772,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0701687923376111,
+            "compression_ratio": 1.46,
+            "no_speech_prob": 0.022278307005763054
+        },
+        {
+            "id": 49,
+            "seek": 11000,
+            "start": 110.0,
+            "end": 112.0,
+            "text": " y no",
+            "tokens": [
+                50364,
+                288,
+                572,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 50,
+            "seek": 11000,
+            "start": 112.0,
+            "end": 114.0,
+            "text": " se ha actuado",
+            "tokens": [
+                50464,
+                369,
+                324,
+                34964,
+                1573,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 51,
+            "seek": 11000,
+            "start": 114.0,
+            "end": 116.0,
+            "text": " yo esper\u00e9",
+            "tokens": [
+                50564,
+                5290,
+                10045,
+                526,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 52,
+            "seek": 11000,
+            "start": 116.0,
+            "end": 118.0,
+            "text": " que nosotros",
+            "tokens": [
+                50664,
+                631,
+                13863,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 53,
+            "seek": 11000,
+            "start": 118.0,
+            "end": 120.0,
+            "text": " \u00edbamos a actuar",
+            "tokens": [
+                50764,
+                18645,
+                65,
+                2151,
+                257,
+                605,
+                20766,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 54,
+            "seek": 11000,
+            "start": 120.0,
+            "end": 122.0,
+            "text": " de manera mezquina",
+            "tokens": [
+                50864,
+                368,
+                13913,
+                28966,
+                358,
+                1426,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 55,
+            "seek": 11000,
+            "start": 124.0,
+            "end": 126.0,
+            "text": " y \u00edbamos a",
+            "tokens": [
+                51064,
+                288,
+                18645,
+                65,
+                2151,
+                257,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 56,
+            "seek": 11000,
+            "start": 126.0,
+            "end": 128.0,
+            "text": " apostar a la desu\u00f1\u00f3n",
+            "tokens": [
+                51164,
+                19484,
+                289,
+                257,
+                635,
+                730,
+                84,
+                2791,
+                1801,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 57,
+            "seek": 11000,
+            "start": 128.0,
+            "end": 130.0,
+            "text": " en los momentos que es",
+            "tokens": [
+                51264,
+                465,
+                1750,
+                34583,
+                631,
+                785,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 58,
+            "seek": 11000,
+            "start": 130.0,
+            "end": 132.0,
+            "text": " importante",
+            "tokens": [
+                51364,
+                9416,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 59,
+            "seek": 11000,
+            "start": 132.0,
+            "end": 134.0,
+            "text": " que todos los mexicanos estemos unidos",
+            "tokens": [
+                51464,
+                631,
+                6321,
+                1750,
+                28759,
+                8914,
+                329,
+                871,
+                4485,
+                517,
+                7895,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 60,
+            "seek": 11000,
+            "start": 134.0,
+            "end": 136.0,
+            "text": " y respaldando al gobierno",
+            "tokens": [
+                51564,
+                288,
+                1597,
+                3976,
+                1806,
+                419,
+                29254,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10525964254356292,
+            "compression_ratio": 1.452054794520548,
+            "no_speech_prob": 0.026274841278791428
+        },
+        {
+            "id": 61,
+            "seek": 13600,
+            "start": 136.0,
+            "end": 138.0,
+            "text": " pero",
+            "tokens": [
+                50364,
+                4768,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 62,
+            "seek": 13600,
+            "start": 138.0,
+            "end": 140.0,
+            "text": " no me puedo quedar callado",
+            "tokens": [
+                50464,
+                572,
+                385,
+                21612,
+                39244,
+                818,
+                1573,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 63,
+            "seek": 13600,
+            "start": 142.0,
+            "end": 144.0,
+            "text": " ante",
+            "tokens": [
+                50664,
+                23411,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 64,
+            "seek": 13600,
+            "start": 146.0,
+            "end": 148.0,
+            "text": " el inmovilismo",
+            "tokens": [
+                50864,
+                806,
+                294,
+                3280,
+                20202,
+                6882,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 65,
+            "seek": 13600,
+            "start": 148.0,
+            "end": 150.0,
+            "text": " de Pe\u00f1a",
+            "tokens": [
+                50964,
+                368,
+                2396,
+                12150,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 66,
+            "seek": 13600,
+            "start": 150.0,
+            "end": 152.0,
+            "text": " hoy",
+            "tokens": [
+                51064,
+                13775,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 67,
+            "seek": 13600,
+            "start": 152.0,
+            "end": 154.0,
+            "text": " se informa",
+            "tokens": [
+                51164,
+                369,
+                1356,
+                64,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 68,
+            "seek": 13600,
+            "start": 154.0,
+            "end": 156.0,
+            "text": " que habl\u00f3",
+            "tokens": [
+                51264,
+                631,
+                26280,
+                812,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 69,
+            "seek": 13600,
+            "start": 156.0,
+            "end": 158.0,
+            "text": " contra",
+            "tokens": [
+                51364,
+                10742,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 70,
+            "seek": 13600,
+            "start": 158.0,
+            "end": 160.0,
+            "text": " y entre otras cosas",
+            "tokens": [
+                51464,
+                288,
+                3962,
+                20244,
+                12218,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 71,
+            "seek": 13600,
+            "start": 160.0,
+            "end": 162.0,
+            "text": " llega el gobierno",
+            "tokens": [
+                51564,
+                40423,
+                806,
+                29254,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 72,
+            "seek": 13600,
+            "start": 162.0,
+            "end": 164.0,
+            "text": " de Estados Unidos",
+            "tokens": [
+                51664,
+                368,
+                22362,
+                23087,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2797213554382324,
+            "compression_ratio": 1.2735042735042734,
+            "no_speech_prob": 0.0219754409044981
+        },
+        {
+            "id": 73,
+            "seek": 16400,
+            "start": 164.0,
+            "end": 166.0,
+            "text": " y entre otras cosas",
+            "tokens": [
+                50364,
+                288,
+                3962,
+                20244,
+                12218,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 74,
+            "seek": 16400,
+            "start": 166.0,
+            "end": 168.0,
+            "text": " llega al acuerdo",
+            "tokens": [
+                50464,
+                40423,
+                419,
+                28113,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 75,
+            "seek": 16400,
+            "start": 168.0,
+            "end": 170.0,
+            "text": " de que ya no va",
+            "tokens": [
+                50564,
+                368,
+                631,
+                2478,
+                572,
+                2773,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 76,
+            "seek": 16400,
+            "start": 170.0,
+            "end": 172.0,
+            "text": " a hablar",
+            "tokens": [
+                50664,
+                257,
+                21014,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 77,
+            "seek": 16400,
+            "start": 172.0,
+            "end": 174.0,
+            "text": " sobre la construcci\u00f3n del muro",
+            "tokens": [
+                50764,
+                5473,
+                635,
+                12946,
+                14735,
+                1103,
+                2992,
+                340,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 78,
+            "seek": 16400,
+            "start": 174.0,
+            "end": 176.0,
+            "text": " es decir",
+            "tokens": [
+                50864,
+                785,
+                10235,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 79,
+            "seek": 16400,
+            "start": 176.0,
+            "end": 178.0,
+            "text": " que se va a quedar callado",
+            "tokens": [
+                50964,
+                631,
+                369,
+                2773,
+                257,
+                39244,
+                818,
+                1573,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 80,
+            "seek": 16400,
+            "start": 178.0,
+            "end": 180.0,
+            "text": " imag\u00ednense",
+            "tokens": [
+                51064,
+                2576,
+                10973,
+                1288,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 81,
+            "seek": 16400,
+            "start": 180.0,
+            "end": 182.0,
+            "text": " eso",
+            "tokens": [
+                51164,
+                7287,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 82,
+            "seek": 16400,
+            "start": 182.0,
+            "end": 184.0,
+            "text": " no",
+            "tokens": [
+                51264,
+                572,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 83,
+            "seek": 16400,
+            "start": 184.0,
+            "end": 186.0,
+            "text": " se puede",
+            "tokens": [
+                51364,
+                369,
+                8919,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 84,
+            "seek": 16400,
+            "start": 186.0,
+            "end": 188.0,
+            "text": " aceptar",
+            "tokens": [
+                51464,
+                43568,
+                289,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 85,
+            "seek": 16400,
+            "start": 188.0,
+            "end": 190.0,
+            "text": " vamos a seguir",
+            "tokens": [
+                51564,
+                5295,
+                257,
+                18584,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 86,
+            "seek": 16400,
+            "start": 190.0,
+            "end": 192.0,
+            "text": " actuando con respeto",
+            "tokens": [
+                51664,
+                34964,
+                1806,
+                416,
+                1597,
+                19515,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07363281002292385,
+            "compression_ratio": 1.4357142857142857,
+            "no_speech_prob": 0.018257439136505127
+        },
+        {
+            "id": 87,
+            "seek": 19200,
+            "start": 192.0,
+            "end": 194.0,
+            "text": " a",
+            "tokens": [
+                50364,
+                257,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 88,
+            "seek": 19200,
+            "start": 194.0,
+            "end": 196.0,
+            "text": " quien representa",
+            "tokens": [
+                50464,
+                20108,
+                49823,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 89,
+            "seek": 19200,
+            "start": 196.0,
+            "end": 198.0,
+            "text": " M\u00e9xico",
+            "tokens": [
+                50564,
+                28128,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 90,
+            "seek": 19200,
+            "start": 198.0,
+            "end": 200.0,
+            "text": " porque se necesita en estos momentos de unidad",
+            "tokens": [
+                50664,
+                4021,
+                369,
+                45485,
+                465,
+                12585,
+                34583,
+                368,
+                517,
+                4580,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 91,
+            "seek": 19200,
+            "start": 200.0,
+            "end": 202.0,
+            "text": " pero no vamos",
+            "tokens": [
+                50764,
+                4768,
+                572,
+                5295,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 92,
+            "seek": 19200,
+            "start": 202.0,
+            "end": 204.0,
+            "text": " a ser",
+            "tokens": [
+                50864,
+                257,
+                816,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 93,
+            "seek": 19200,
+            "start": 204.0,
+            "end": 206.0,
+            "text": " comparsa",
+            "tokens": [
+                50964,
+                715,
+                29720,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 94,
+            "seek": 19200,
+            "start": 206.0,
+            "end": 208.0,
+            "text": " no vamos a ser",
+            "tokens": [
+                51064,
+                572,
+                5295,
+                257,
+                816,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 95,
+            "seek": 19200,
+            "start": 208.0,
+            "end": 210.0,
+            "text": " alcahuetes",
+            "tokens": [
+                51164,
+                419,
+                496,
+                12086,
+                37996,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 96,
+            "seek": 19200,
+            "start": 210.0,
+            "end": 212.0,
+            "text": " nosotros",
+            "tokens": [
+                51264,
+                13863,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 97,
+            "seek": 19200,
+            "start": 212.0,
+            "end": 214.0,
+            "text": " vamos a ir",
+            "tokens": [
+                51364,
+                5295,
+                257,
+                3418,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 98,
+            "seek": 19200,
+            "start": 214.0,
+            "end": 216.0,
+            "text": " a Estados Unidos",
+            "tokens": [
+                51464,
+                257,
+                22362,
+                23087,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 99,
+            "seek": 19200,
+            "start": 216.0,
+            "end": 218.0,
+            "text": " a crear un frente c\u00edvico",
+            "tokens": [
+                51564,
+                257,
+                31984,
+                517,
+                19873,
+                269,
+                45096,
+                2789,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 100,
+            "seek": 19200,
+            "start": 218.0,
+            "end": 220.0,
+            "text": " en defensa",
+            "tokens": [
+                51664,
+                465,
+                1060,
+                23364,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09158529281616211,
+            "compression_ratio": 1.4532374100719425,
+            "no_speech_prob": 0.026455698534846306
+        },
+        {
+            "id": 101,
+            "seek": 22000,
+            "start": 220.0,
+            "end": 222.0,
+            "text": " de los migrantes",
+            "tokens": [
+                50364,
+                368,
+                1750,
+                38547,
+                279,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 102,
+            "seek": 22000,
+            "start": 222.0,
+            "end": 224.0,
+            "text": " en contra",
+            "tokens": [
+                50464,
+                465,
+                10742,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 103,
+            "seek": 22000,
+            "start": 224.0,
+            "end": 226.0,
+            "text": " de la gelofobia",
+            "tokens": [
+                50564,
+                368,
+                635,
+                4087,
+                2670,
+                24613,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 104,
+            "seek": 22000,
+            "start": 226.0,
+            "end": 228.0,
+            "text": " es decir",
+            "tokens": [
+                50664,
+                785,
+                10235,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 105,
+            "seek": 22000,
+            "start": 228.0,
+            "end": 230.0,
+            "text": " del odio",
+            "tokens": [
+                50764,
+                1103,
+                3611,
+                1004,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 106,
+            "seek": 22000,
+            "start": 230.0,
+            "end": 232.0,
+            "text": " a los extranjeros",
+            "tokens": [
+                50864,
+                257,
+                1750,
+                1279,
+                4257,
+                14219,
+                329,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 107,
+            "seek": 22000,
+            "start": 232.0,
+            "end": 234.0,
+            "text": " lo que est\u00e1n haciendo",
+            "tokens": [
+                50964,
+                450,
+                631,
+                10368,
+                20509,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 108,
+            "seek": 22000,
+            "start": 234.0,
+            "end": 236.0,
+            "text": " desde el gobierno",
+            "tokens": [
+                51064,
+                10188,
+                806,
+                29254,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 109,
+            "seek": 22000,
+            "start": 236.0,
+            "end": 238.0,
+            "text": " de Estados Unidos",
+            "tokens": [
+                51164,
+                368,
+                22362,
+                23087,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 110,
+            "seek": 22000,
+            "start": 238.0,
+            "end": 240.0,
+            "text": " fomentar el odio",
+            "tokens": [
+                51264,
+                283,
+                298,
+                32067,
+                806,
+                3611,
+                1004,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 111,
+            "seek": 22000,
+            "start": 240.0,
+            "end": 242.0,
+            "text": " contra los migrantes",
+            "tokens": [
+                51364,
+                10742,
+                1750,
+                38547,
+                279,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 112,
+            "seek": 22000,
+            "start": 242.0,
+            "end": 244.0,
+            "text": " contra los extranjeros",
+            "tokens": [
+                51464,
+                10742,
+                1750,
+                1279,
+                4257,
+                14219,
+                329,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 113,
+            "seek": 22000,
+            "start": 244.0,
+            "end": 246.0,
+            "text": " eso no lo podemos",
+            "tokens": [
+                51564,
+                7287,
+                572,
+                450,
+                12234,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 114,
+            "seek": 22000,
+            "start": 246.0,
+            "end": 248.0,
+            "text": " permitir",
+            "tokens": [
+                51664,
+                46865,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.047690015241324185,
+            "compression_ratio": 1.618705035971223,
+            "no_speech_prob": 0.07077624648809433
+        },
+        {
+            "id": 115,
+            "seek": 24800,
+            "start": 248.0,
+            "end": 250.0,
+            "text": " vamos a ser los violatorios de los derechos humanos",
+            "tokens": [
+                50364,
+                5295,
+                257,
+                816,
+                1750,
+                3448,
+                1639,
+                2717,
+                368,
+                1750,
+                47508,
+                34555,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 116,
+            "seek": 24800,
+            "start": 250.0,
+            "end": 252.0,
+            "text": " eso es",
+            "tokens": [
+                50464,
+                7287,
+                785,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 117,
+            "seek": 24800,
+            "start": 252.0,
+            "end": 254.0,
+            "text": " indigno",
+            "tokens": [
+                50564,
+                1016,
+                788,
+                78,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 118,
+            "seek": 24800,
+            "start": 254.0,
+            "end": 256.0,
+            "text": " es inhumano",
+            "tokens": [
+                50664,
+                785,
+                294,
+                14645,
+                3730,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 119,
+            "seek": 24800,
+            "start": 256.0,
+            "end": 258.0,
+            "text": " vamos a convencer",
+            "tokens": [
+                50764,
+                5295,
+                257,
+                7158,
+                1776,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 120,
+            "seek": 24800,
+            "start": 258.0,
+            "end": 260.0,
+            "text": " a todos",
+            "tokens": [
+                50864,
+                257,
+                6321,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 121,
+            "seek": 24800,
+            "start": 260.0,
+            "end": 262.0,
+            "text": " incluidos",
+            "tokens": [
+                50964,
+                25520,
+                7895,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 122,
+            "seek": 24800,
+            "start": 262.0,
+            "end": 264.0,
+            "text": " desde luego los mismos estadounidenses",
+            "tokens": [
+                51064,
+                10188,
+                17222,
+                1750,
+                47458,
+                39160,
+                1733,
+                327,
+                9085,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 123,
+            "seek": 24800,
+            "start": 264.0,
+            "end": 266.0,
+            "text": " de que esa pol\u00edtica",
+            "tokens": [
+                51164,
+                368,
+                631,
+                11342,
+                25029,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 124,
+            "seek": 24800,
+            "start": 266.0,
+            "end": 268.0,
+            "text": " es contraria",
+            "tokens": [
+                51264,
+                785,
+                660,
+                5352,
+                654,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 125,
+            "seek": 24800,
+            "start": 268.0,
+            "end": 270.0,
+            "text": " a",
+            "tokens": [
+                51364,
+                257,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 126,
+            "seek": 24800,
+            "start": 270.0,
+            "end": 272.0,
+            "text": " los derechos humanos",
+            "tokens": [
+                51464,
+                1750,
+                47508,
+                34555,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 127,
+            "seek": 24800,
+            "start": 272.0,
+            "end": 274.0,
+            "text": " a la fraternidad",
+            "tokens": [
+                51564,
+                257,
+                635,
+                41168,
+                77,
+                4580,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 128,
+            "seek": 24800,
+            "start": 274.0,
+            "end": 276.0,
+            "text": " que debe haber",
+            "tokens": [
+                51664,
+                631,
+                27422,
+                15811,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1255450359610624,
+            "compression_ratio": 1.6805555555555556,
+            "no_speech_prob": 0.19683308899402618
+        },
+        {
+            "id": 129,
+            "seek": 27600,
+            "start": 276.0,
+            "end": 278.0,
+            "text": " a los pueblos del mundo",
+            "tokens": [
+                50364,
+                257,
+                1750,
+                26990,
+                5199,
+                329,
+                1103,
+                7968,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 130,
+            "seek": 27600,
+            "start": 278.0,
+            "end": 280.0,
+            "text": " vamos",
+            "tokens": [
+                50464,
+                5295,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 131,
+            "seek": 27600,
+            "start": 280.0,
+            "end": 282.0,
+            "text": " a ir",
+            "tokens": [
+                50564,
+                257,
+                3418,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 132,
+            "seek": 27600,
+            "start": 282.0,
+            "end": 284.0,
+            "text": " a visitar todas las ciudades",
+            "tokens": [
+                50664,
+                257,
+                3441,
+                289,
+                10906,
+                2439,
+                18186,
+                2977,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 133,
+            "seek": 27600,
+            "start": 284.0,
+            "end": 286.0,
+            "text": " de la uni\u00f3n",
+            "tokens": [
+                50764,
+                368,
+                635,
+                517,
+                2560,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 134,
+            "seek": 27600,
+            "start": 286.0,
+            "end": 288.0,
+            "text": " americana",
+            "tokens": [
+                50864,
+                16116,
+                44864,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 135,
+            "seek": 27600,
+            "start": 288.0,
+            "end": 290.0,
+            "text": " vamos a hacer una tira",
+            "tokens": [
+                50964,
+                5295,
+                257,
+                6720,
+                2002,
+                256,
+                4271,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 136,
+            "seek": 27600,
+            "start": 290.0,
+            "end": 292.0,
+            "text": " para apoyar a nuestros",
+            "tokens": [
+                51064,
+                1690,
+                41535,
+                289,
+                257,
+                24099,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 137,
+            "seek": 27600,
+            "start": 292.0,
+            "end": 294.0,
+            "text": " falsanos, apoyar",
+            "tokens": [
+                51164,
+                16720,
+                31035,
+                11,
+                41535,
+                289,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 138,
+            "seek": 27600,
+            "start": 294.0,
+            "end": 296.0,
+            "text": " a los migrantes",
+            "tokens": [
+                51264,
+                257,
+                1750,
+                38547,
+                279,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 139,
+            "seek": 27600,
+            "start": 296.0,
+            "end": 298.0,
+            "text": " y si",
+            "tokens": [
+                51364,
+                288,
+                1511,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 140,
+            "seek": 27600,
+            "start": 298.0,
+            "end": 300.0,
+            "text": " pe\u00f1a Nieto",
+            "tokens": [
+                51464,
+                520,
+                12150,
+                36583,
+                78,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 141,
+            "seek": 27600,
+            "start": 300.0,
+            "end": 302.0,
+            "text": " no, acude a la HOMO",
+            "tokens": [
+                51564,
+                572,
+                11,
+                696,
+                2303,
+                257,
+                635,
+                389,
+                5251,
+                46,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 142,
+            "seek": 27600,
+            "start": 302.0,
+            "end": 304.0,
+            "text": " para",
+            "tokens": [
+                51664,
+                1690,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17520542359084226,
+            "compression_ratio": 1.4275862068965517,
+            "no_speech_prob": 0.13920089602470398
+        },
+        {
+            "id": 143,
+            "seek": 30400,
+            "start": 304.0,
+            "end": 306.0,
+            "text": " denunciar al gobierno de Estados Unidos",
+            "tokens": [
+                50364,
+                1441,
+                11228,
+                289,
+                419,
+                29254,
+                368,
+                22362,
+                23087,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        },
+        {
+            "id": 144,
+            "seek": 30400,
+            "start": 306.0,
+            "end": 308.0,
+            "text": " por violaci\u00f3n de derechos humanos",
+            "tokens": [
+                50464,
+                1515,
+                3448,
+                3482,
+                368,
+                47508,
+                34555,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        },
+        {
+            "id": 145,
+            "seek": 30400,
+            "start": 308.0,
+            "end": 310.0,
+            "text": " lo vamos a hacer nosotros",
+            "tokens": [
+                50564,
+                450,
+                5295,
+                257,
+                6720,
+                13863,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        },
+        {
+            "id": 146,
+            "seek": 30400,
+            "start": 310.0,
+            "end": 312.0,
+            "text": " no vamos nosotros",
+            "tokens": [
+                50664,
+                572,
+                5295,
+                13863,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        },
+        {
+            "id": 147,
+            "seek": 30400,
+            "start": 312.0,
+            "end": 314.0,
+            "text": " a permitir que ese trisote",
+            "tokens": [
+                50764,
+                257,
+                46865,
+                631,
+                10167,
+                504,
+                271,
+                1370,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        },
+        {
+            "id": 148,
+            "seek": 30400,
+            "start": 314.0,
+            "end": 316.0,
+            "text": " la dignidad de nuestro pueblo",
+            "tokens": [
+                50864,
+                635,
+                15308,
+                4580,
+                368,
+                14726,
+                33764,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        },
+        {
+            "id": 149,
+            "seek": 30400,
+            "start": 320.0,
+            "end": 322.0,
+            "text": " esto era lo que quer\u00eda expresar aqu\u00ed",
+            "tokens": [
+                51164,
+                7433,
+                4249,
+                450,
+                631,
+                37869,
+                33397,
+                289,
+                6661,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        },
+        {
+            "id": 150,
+            "seek": 30400,
+            "start": 322.0,
+            "end": 324.0,
+            "text": " es incumplido",
+            "tokens": [
+                51264,
+                785,
+                834,
+                449,
+                564,
+                2925,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22971436427189754,
+            "compression_ratio": 1.4709677419354839,
+            "no_speech_prob": 0.014916234649717808
+        }
+    ],
+    "language": "es"
+}

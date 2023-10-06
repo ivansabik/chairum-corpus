@@ -98,9 +98,9 @@ python generate_csv.py
 - Filter out or annotate parts of videos where speaker is not AMLO. Even better add a new field with the speaker, but this could be quite challenging and would require manual work and curation
 - Exclude videos from speeches where main speaker is not AMLO (or does not include him)
 - Exclude videos which are not from a speech, conference, etc (like ads)
-- Implement speech to text for automated translations not available (notably where not enabled by publisher or where auto-generated subtitles have a different language associated)
 - Add field or a way of identifying transcription method
 - Add persistence (db backend)
 - Add API
     - Handle gracefully phonetic coincidences (Krauze, Krause, Kraus, Krauz) using something like Metaphone or Baider-Morse
 - Add simple app to search and query the data
+- Add new filed with transcribed text without stop words

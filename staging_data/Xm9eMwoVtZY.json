@@ -1,0 +1,294 @@
+{
+    "text": " No? No es una tremenda obra? Si, aqu\u00ed esta el segundo de la edad de la Provincia de Cuba y el ente de la secci\u00f3n pol\u00edtica de la Provincia de Cuba y el ente de la secci\u00f3n pol\u00edtica de la Provincia de Cuba por favor Dispreciado de que reza Gracias Amistad hacia usted, se\u00f1or presidente Gracias",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " No?",
+            "tokens": [
+                50364,
+                883,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.0,
+            "end": 4.0,
+            "text": " No es una tremenda obra?",
+            "tokens": [
+                50464,
+                883,
+                785,
+                2002,
+                7813,
+                7639,
+                22798,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.0,
+            "end": 6.0,
+            "text": " Si, aqu\u00ed esta el segundo de la edad",
+            "tokens": [
+                50564,
+                4909,
+                11,
+                6661,
+                5283,
+                806,
+                17954,
+                368,
+                635,
+                1257,
+                345,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.0,
+            "end": 8.0,
+            "text": " de la Provincia de Cuba",
+            "tokens": [
+                50664,
+                368,
+                635,
+                1705,
+                4796,
+                2755,
+                368,
+                20604,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 8.0,
+            "end": 10.0,
+            "text": " y el ente de la secci\u00f3n pol\u00edtica",
+            "tokens": [
+                50764,
+                288,
+                806,
+                948,
+                68,
+                368,
+                635,
+                907,
+                5687,
+                25029,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.0,
+            "end": 12.0,
+            "text": " de la Provincia de Cuba",
+            "tokens": [
+                50864,
+                368,
+                635,
+                1705,
+                4796,
+                2755,
+                368,
+                20604,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 12.0,
+            "end": 14.0,
+            "text": " y el ente de la secci\u00f3n pol\u00edtica",
+            "tokens": [
+                50964,
+                288,
+                806,
+                948,
+                68,
+                368,
+                635,
+                907,
+                5687,
+                25029,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 14.0,
+            "end": 16.0,
+            "text": " de la Provincia de Cuba",
+            "tokens": [
+                51064,
+                368,
+                635,
+                1705,
+                4796,
+                2755,
+                368,
+                20604,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 16.0,
+            "end": 18.0,
+            "text": " por favor",
+            "tokens": [
+                51164,
+                1515,
+                2294,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7671256246446054,
+            "compression_ratio": 1.8235294117647058,
+            "no_speech_prob": 0.5023084878921509
+        },
+        {
+            "id": 9,
+            "seek": 3000,
+            "start": 31.0,
+            "end": 33.0,
+            "text": " Dispreciado",
+            "tokens": [
+                50414,
+                4208,
+                79,
+                3326,
+                1573,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8242723024808444,
+            "compression_ratio": 0.9459459459459459,
+            "no_speech_prob": 0.35106420516967773
+        },
+        {
+            "id": 10,
+            "seek": 3000,
+            "start": 33.0,
+            "end": 35.0,
+            "text": " de que reza",
+            "tokens": [
+                50514,
+                368,
+                631,
+                319,
+                2394,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8242723024808444,
+            "compression_ratio": 0.9459459459459459,
+            "no_speech_prob": 0.35106420516967773
+        },
+        {
+            "id": 11,
+            "seek": 3000,
+            "start": 39.0,
+            "end": 41.0,
+            "text": " Gracias",
+            "tokens": [
+                50814,
+                26909,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8242723024808444,
+            "compression_ratio": 0.9459459459459459,
+            "no_speech_prob": 0.35106420516967773
+        },
+        {
+            "id": 12,
+            "seek": 3000,
+            "start": 55.0,
+            "end": 58.0,
+            "text": " Amistad hacia usted, se\u00f1or presidente",
+            "tokens": [
+                51614,
+                2012,
+                468,
+                345,
+                21365,
+                10467,
+                11,
+                22188,
+                23852,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8242723024808444,
+            "compression_ratio": 0.9459459459459459,
+            "no_speech_prob": 0.35106420516967773
+        },
+        {
+            "id": 13,
+            "seek": 6000,
+            "start": 60.0,
+            "end": 62.0,
+            "text": " Gracias",
+            "tokens": [
+                50364,
+                26909,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4617820382118225,
+            "compression_ratio": 0.4666666666666667,
+            "no_speech_prob": 0.5638569593429565
+        }
+    ],
+    "language": "es"
+}

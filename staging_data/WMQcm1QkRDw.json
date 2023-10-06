@@ -1,0 +1,142 @@
+{
+    "text": " Gracias. Que le vaya muy bien. \u00bfC\u00f3mo est\u00e1? Muy bien. Felicidades, que la pasen bien. \u00bfEs eso? S\u00ed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 3000,
+            "start": 30.0,
+            "end": 37.0,
+            "text": " Gracias.",
+            "tokens": [
+                50364,
+                26909,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6339853120886761,
+            "compression_ratio": 1.0851063829787233,
+            "no_speech_prob": 0.45580828189849854
+        },
+        {
+            "id": 1,
+            "seek": 3000,
+            "start": 37.0,
+            "end": 40.0,
+            "text": " Que le vaya muy bien.",
+            "tokens": [
+                50714,
+                4493,
+                476,
+                47682,
+                5323,
+                3610,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6339853120886761,
+            "compression_ratio": 1.0851063829787233,
+            "no_speech_prob": 0.45580828189849854
+        },
+        {
+            "id": 2,
+            "seek": 3000,
+            "start": 40.0,
+            "end": 42.0,
+            "text": " \u00bfC\u00f3mo est\u00e1?",
+            "tokens": [
+                50864,
+                3841,
+                28342,
+                3192,
+                30,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6339853120886761,
+            "compression_ratio": 1.0851063829787233,
+            "no_speech_prob": 0.45580828189849854
+        },
+        {
+            "id": 3,
+            "seek": 3000,
+            "start": 42.0,
+            "end": 45.0,
+            "text": " Muy bien.",
+            "tokens": [
+                50964,
+                39586,
+                3610,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6339853120886761,
+            "compression_ratio": 1.0851063829787233,
+            "no_speech_prob": 0.45580828189849854
+        },
+        {
+            "id": 4,
+            "seek": 3000,
+            "start": 45.0,
+            "end": 50.0,
+            "text": " Felicidades, que la pasen bien.",
+            "tokens": [
+                51114,
+                13298,
+                299,
+                10284,
+                11,
+                631,
+                635,
+                1736,
+                268,
+                3610,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6339853120886761,
+            "compression_ratio": 1.0851063829787233,
+            "no_speech_prob": 0.45580828189849854
+        },
+        {
+            "id": 5,
+            "seek": 3000,
+            "start": 50.0,
+            "end": 52.0,
+            "text": " \u00bfEs eso?",
+            "tokens": [
+                51364,
+                3841,
+                20442,
+                7287,
+                30,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6339853120886761,
+            "compression_ratio": 1.0851063829787233,
+            "no_speech_prob": 0.45580828189849854
+        },
+        {
+            "id": 6,
+            "seek": 3000,
+            "start": 52.0,
+            "end": 54.0,
+            "text": " S\u00ed.",
+            "tokens": [
+                51464,
+                12375,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6339853120886761,
+            "compression_ratio": 1.0851063829787233,
+            "no_speech_prob": 0.45580828189849854
+        }
+    ],
+    "language": "es"
+}

@@ -1,0 +1,366 @@
+{
+    "text": " mantoscope los ah qu\u00e9 y habl\u00f3 para collar muy Er Studies hemagn pupilisin voll no below en una \u00f3sea \u00e9sta el completion estus",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.54,
+            "text": " mantoscope",
+            "tokens": [
+                50364,
+                10845,
+                41659,
+                50641
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.6095724666819855,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.46246030926704407
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.540000000000001,
+            "end": 9.0,
+            "text": " los",
+            "tokens": [
+                50791,
+                1750,
+                50814
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.6095724666819855,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.46246030926704407
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.26,
+            "end": 12.86,
+            "text": " ah",
+            "tokens": [
+                50977,
+                3716,
+                51007
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.6095724666819855,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.46246030926704407
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 19.48,
+            "end": 20.38,
+            "text": " qu\u00e9",
+            "tokens": [
+                51338,
+                8057,
+                51383
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.6095724666819855,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.46246030926704407
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 26.400000000000002,
+            "end": 26.900000000000002,
+            "text": " y",
+            "tokens": [
+                51684,
+                288,
+                51709
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.6095724666819855,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.46246030926704407
+        },
+        {
+            "id": 5,
+            "seek": 3000,
+            "start": 30.26,
+            "end": 30.76,
+            "text": " habl\u00f3",
+            "tokens": [
+                50377,
+                26280,
+                812,
+                50402
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.77300534929548,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.04339888319373131
+        },
+        {
+            "id": 6,
+            "seek": 3000,
+            "start": 37.28,
+            "end": 37.76,
+            "text": " para",
+            "tokens": [
+                50728,
+                1690,
+                50752
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.77300534929548,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.04339888319373131
+        },
+        {
+            "id": 7,
+            "seek": 3000,
+            "start": 47.379999999999995,
+            "end": 47.96,
+            "text": " collar",
+            "tokens": [
+                51233,
+                20672,
+                51262
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.77300534929548,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.04339888319373131
+        },
+        {
+            "id": 8,
+            "seek": 3000,
+            "start": 54.22,
+            "end": 55.06,
+            "text": " muy",
+            "tokens": [
+                51575,
+                5323,
+                51617
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.77300534929548,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.04339888319373131
+        },
+        {
+            "id": 9,
+            "seek": 6000,
+            "start": 60.88,
+            "end": 61.08,
+            "text": " Er Studies",
+            "tokens": [
+                50408,
+                3300,
+                17515,
+                50418
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.610306479714134,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.07332871109247208
+        },
+        {
+            "id": 10,
+            "seek": 6000,
+            "start": 78.08,
+            "end": 78.64,
+            "text": " hemagn pupil",
+            "tokens": [
+                51268,
+                8636,
+                4535,
+                44533,
+                51296
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.610306479714134,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.07332871109247208
+        },
+        {
+            "id": 11,
+            "seek": 6000,
+            "start": 80.66,
+            "end": 80.96000000000001,
+            "text": "isin",
+            "tokens": [
+                51397,
+                33787,
+                51412
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.610306479714134,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.07332871109247208
+        },
+        {
+            "id": 12,
+            "seek": 6000,
+            "start": 83.32,
+            "end": 84.06,
+            "text": " voll",
+            "tokens": [
+                51530,
+                15593,
+                51567
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.610306479714134,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.07332871109247208
+        },
+        {
+            "id": 13,
+            "seek": 6000,
+            "start": 86.18,
+            "end": 86.56,
+            "text": " no",
+            "tokens": [
+                51673,
+                572,
+                51692
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.610306479714134,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.07332871109247208
+        },
+        {
+            "id": 14,
+            "seek": 6000,
+            "start": 87.64,
+            "end": 88.56,
+            "text": " below",
+            "tokens": [
+                51746,
+                2507,
+                51792
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.610306479714134,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.07332871109247208
+        },
+        {
+            "id": 15,
+            "seek": 9000,
+            "start": 90.38,
+            "end": 90.64,
+            "text": " en",
+            "tokens": [
+                50383,
+                465,
+                50396
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.183614942762587,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.14727693796157837
+        },
+        {
+            "id": 16,
+            "seek": 9000,
+            "start": 93.88,
+            "end": 93.92,
+            "text": " una",
+            "tokens": [
+                50558,
+                2002,
+                50560
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.183614942762587,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.14727693796157837
+        },
+        {
+            "id": 17,
+            "seek": 9000,
+            "start": 99.6,
+            "end": 100.28,
+            "text": " \u00f3sea",
+            "tokens": [
+                50844,
+                11857,
+                17531,
+                50878
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.183614942762587,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.14727693796157837
+        },
+        {
+            "id": 18,
+            "seek": 9000,
+            "start": 106.3,
+            "end": 106.84,
+            "text": " \u00e9sta",
+            "tokens": [
+                51179,
+                1136,
+                9140,
+                51206
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.183614942762587,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.14727693796157837
+        },
+        {
+            "id": 19,
+            "seek": 9000,
+            "start": 108.24000000000001,
+            "end": 119.12,
+            "text": " el",
+            "tokens": [
+                51276,
+                806,
+                51820
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.183614942762587,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.14727693796157837
+        },
+        {
+            "id": 20,
+            "seek": 12000,
+            "start": 120.34,
+            "end": 123.12,
+            "text": " completion",
+            "tokens": [
+                50381,
+                19372,
+                50520
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.433335304260254,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.12198441475629807
+        },
+        {
+            "id": 21,
+            "seek": 12000,
+            "start": 126.52,
+            "end": 127.44,
+            "text": " estus",
+            "tokens": [
+                50690,
+                871,
+                301,
+                50736
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.433335304260254,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.12198441475629807
+        }
+    ],
+    "language": "es"
+}

@@ -1,0 +1,141 @@
+{
+    "text": " \u00a1Vamos! \u00a1Vamos! \u00a1Vamos! \u00a1Vamos! \u00a1Vamos primero! \u00a1Vamos primero! \u00a1Vamos!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 3000,
+            "start": 30.0,
+            "end": 31.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                50364,
+                6514,
+                53,
+                2151,
+                0,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8232274055480957,
+            "compression_ratio": 0.5,
+            "no_speech_prob": 0.6322725415229797
+        },
+        {
+            "id": 1,
+            "seek": 6000,
+            "start": 60.0,
+            "end": 62.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                50414,
+                6514,
+                53,
+                2151,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.540755067552839,
+            "compression_ratio": 0.5,
+            "no_speech_prob": 0.7015462517738342
+        },
+        {
+            "id": 2,
+            "seek": 9000,
+            "start": 90.0,
+            "end": 92.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                50414,
+                6514,
+                53,
+                2151,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7260678836277553,
+            "compression_ratio": 0.5,
+            "no_speech_prob": 0.4199511706829071
+        },
+        {
+            "id": 3,
+            "seek": 12000,
+            "start": 121.0,
+            "end": 122.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                50414,
+                6514,
+                53,
+                2151,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4169139862060547,
+            "compression_ratio": 1.4,
+            "no_speech_prob": 0.31524088978767395
+        },
+        {
+            "id": 4,
+            "seek": 12000,
+            "start": 123.0,
+            "end": 124.0,
+            "text": " \u00a1Vamos primero!",
+            "tokens": [
+                50514,
+                6514,
+                53,
+                2151,
+                21289,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4169139862060547,
+            "compression_ratio": 1.4,
+            "no_speech_prob": 0.31524088978767395
+        },
+        {
+            "id": 5,
+            "seek": 12000,
+            "start": 124.0,
+            "end": 125.0,
+            "text": " \u00a1Vamos primero!",
+            "tokens": [
+                50564,
+                6514,
+                53,
+                2151,
+                21289,
+                0,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4169139862060547,
+            "compression_ratio": 1.4,
+            "no_speech_prob": 0.31524088978767395
+        },
+        {
+            "id": 6,
+            "seek": 15000,
+            "start": 150.0,
+            "end": 152.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                50414,
+                6514,
+                53,
+                2151,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7545089721679688,
+            "compression_ratio": 0.5,
+            "no_speech_prob": 0.9717677235603333
+        }
+    ],
+    "language": "es"
+}

@@ -1,0 +1,35 @@
+{
+    "text": " Subt\u00edtulos realizados por la comunidad de Amara.org",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 9000,
+            "start": 90.0,
+            "end": 93.0,
+            "text": " Subt\u00edtulos realizados por la comunidad de Amara.org",
+            "tokens": [
+                50364,
+                8511,
+                83,
+                6712,
+                28348,
+                22828,
+                4181,
+                1515,
+                635,
+                35695,
+                368,
+                2012,
+                2419,
+                13,
+                4646,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30021201863008384,
+            "compression_ratio": 0.8813559322033898,
+            "no_speech_prob": 0.9140103459358215
+        }
+    ],
+    "language": "es"
+}

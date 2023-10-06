@@ -1,0 +1,216 @@
+{
+    "text": " \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos! \u00a1Aplausos!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 15000,
+            "start": 150.0,
+            "end": 154.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50364,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9092661539713541,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.7352901101112366
+        },
+        {
+            "id": 1,
+            "seek": 18000,
+            "start": 180.0,
+            "end": 184.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50364,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5999842749701606,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.865070104598999
+        },
+        {
+            "id": 2,
+            "seek": 21000,
+            "start": 210.0,
+            "end": 214.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50364,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4070177872975667,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.7370969653129578
+        },
+        {
+            "id": 3,
+            "seek": 24000,
+            "start": 240.0,
+            "end": 244.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50364,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40680408477783203,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.8915314078330994
+        },
+        {
+            "id": 4,
+            "seek": 30000,
+            "start": 301.0,
+            "end": 305.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50414,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50614
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.42200407981872556,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.7849785089492798
+        },
+        {
+            "id": 5,
+            "seek": 30500,
+            "start": 305.0,
+            "end": 309.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50364,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50564
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.16437739484450398,
+            "compression_ratio": 2.0434782608695654,
+            "no_speech_prob": 0.4389984607696533
+        },
+        {
+            "id": 6,
+            "seek": 30500,
+            "start": 309.0,
+            "end": 313.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50564,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50764
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.16437739484450398,
+            "compression_ratio": 2.0434782608695654,
+            "no_speech_prob": 0.4389984607696533
+        },
+        {
+            "id": 7,
+            "seek": 30500,
+            "start": 325.0,
+            "end": 329.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                51364,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                51564
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.16437739484450398,
+            "compression_ratio": 2.0434782608695654,
+            "no_speech_prob": 0.4389984607696533
+        },
+        {
+            "id": 8,
+            "seek": 30500,
+            "start": 329.0,
+            "end": 333.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                51564,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                51764
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.16437739484450398,
+            "compression_ratio": 2.0434782608695654,
+            "no_speech_prob": 0.4389984607696533
+        },
+        {
+            "id": 9,
+            "seek": 33300,
+            "start": 333.0,
+            "end": 337.0,
+            "text": " \u00a1Aplausos!",
+            "tokens": [
+                50364,
+                6514,
+                32,
+                564,
+                8463,
+                329,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.12693181302812365,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.14961832761764526
+        }
+    ],
+    "language": "es"
+}

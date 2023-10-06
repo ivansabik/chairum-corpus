@@ -1,0 +1,35 @@
+{
+    "text": " Subt\u00edtulos en espa\u00f1ol de la comunidad de Amara.org",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 12000,
+            "start": 120.0,
+            "end": 123.0,
+            "text": " Subt\u00edtulos en espa\u00f1ol de la comunidad de Amara.org",
+            "tokens": [
+                50364,
+                8511,
+                83,
+                6712,
+                28348,
+                465,
+                31177,
+                368,
+                635,
+                35695,
+                368,
+                2012,
+                2419,
+                13,
+                4646,
+                50514
+            ],
+            "temperature": 0.8,
+            "avg_logprob": -0.7643965552834904,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.908356249332428
+        }
+    ],
+    "language": "es"
+}

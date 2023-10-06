@@ -1,0 +1,23 @@
+{
+    "text": " degree.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 25.0,
+            "text": " degree.",
+            "tokens": [
+                50364,
+                4314,
+                13,
+                51614
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.1044733047485353,
+            "compression_ratio": 0.4666666666666667,
+            "no_speech_prob": 0.5108048319816589
+        }
+    ],
+    "language": "es"
+}

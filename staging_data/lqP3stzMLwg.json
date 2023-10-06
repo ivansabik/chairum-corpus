@@ -1,0 +1,47 @@
+{
+    "text": " \u00a1Felicidades! \u00a1Estamos viendo!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 3000,
+            "start": 30.0,
+            "end": 32.0,
+            "text": " \u00a1Felicidades!",
+            "tokens": [
+                50364,
+                6514,
+                37,
+                338,
+                299,
+                10284,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7048404216766357,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.3172973692417145
+        },
+        {
+            "id": 1,
+            "seek": 3000,
+            "start": 32.0,
+            "end": 34.0,
+            "text": " \u00a1Estamos viendo!",
+            "tokens": [
+                50464,
+                6514,
+                29545,
+                2151,
+                34506,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7048404216766357,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.3172973692417145
+        }
+    ],
+    "language": "es"
+}

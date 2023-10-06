@@ -1,0 +1,39 @@
+{
+    "text": "free va bien",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": "free",
+            "tokens": [
+                50364,
+                10792,
+                50533
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.587924957275391,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5636162757873535
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.94,
+            "end": 9.06,
+            "text": " va bien",
+            "tokens": [
+                50611,
+                2773,
+                3610,
+                50817
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.587924957275391,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.5636162757873535
+        }
+    ],
+    "language": "es"
+}

@@ -1,0 +1,232 @@
+{
+    "text": " \u00a1Viva! \u00a1M\u00e1s que me gusta el el otro! \u00a1Viva Morena! \u00a1Viva Morena! \u00a1Viva Morena! \u00a1Viva Andr\u00e9s Manuel L\u00f3pez Obrador! \u00a1Viva Andr\u00e9s Manuel L\u00f3pez Obrador! \u00a1Viva La Cruz! \u00a1Viva La Cruz! \u00a1Viva La Cruz!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " \u00a1Viva!",
+            "tokens": [
+                50364,
+                6514,
+                53,
+                5931,
+                0,
+                50464
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.4879104511157886,
+            "compression_ratio": 1.8181818181818181,
+            "no_speech_prob": 0.6078633069992065
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.0,
+            "end": 4.0,
+            "text": " \u00a1M\u00e1s que me gusta el el otro!",
+            "tokens": [
+                50464,
+                6514,
+                44,
+                2490,
+                631,
+                385,
+                20576,
+                806,
+                806,
+                11921,
+                0,
+                50564
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.4879104511157886,
+            "compression_ratio": 1.8181818181818181,
+            "no_speech_prob": 0.6078633069992065
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.0,
+            "end": 13.0,
+            "text": " \u00a1Viva Morena!",
+            "tokens": [
+                50914,
+                6514,
+                53,
+                5931,
+                5048,
+                629,
+                0,
+                51014
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.4879104511157886,
+            "compression_ratio": 1.8181818181818181,
+            "no_speech_prob": 0.6078633069992065
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.0,
+            "end": 16.0,
+            "text": " \u00a1Viva Morena!",
+            "tokens": [
+                51064,
+                6514,
+                53,
+                5931,
+                5048,
+                629,
+                0,
+                51164
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.4879104511157886,
+            "compression_ratio": 1.8181818181818181,
+            "no_speech_prob": 0.6078633069992065
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 17.0,
+            "end": 19.0,
+            "text": " \u00a1Viva Morena!",
+            "tokens": [
+                51214,
+                6514,
+                53,
+                5931,
+                5048,
+                629,
+                0,
+                51314
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.4879104511157886,
+            "compression_ratio": 1.8181818181818181,
+            "no_speech_prob": 0.6078633069992065
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 19.0,
+            "end": 23.0,
+            "text": " \u00a1Viva Andr\u00e9s Manuel L\u00f3pez Obrador!",
+            "tokens": [
+                51314,
+                6514,
+                53,
+                5931,
+                400,
+                18981,
+                34362,
+                441,
+                812,
+                15144,
+                422,
+                1443,
+                5409,
+                0,
+                51514
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.4879104511157886,
+            "compression_ratio": 1.8181818181818181,
+            "no_speech_prob": 0.6078633069992065
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 24.0,
+            "end": 27.0,
+            "text": " \u00a1Viva Andr\u00e9s Manuel L\u00f3pez Obrador!",
+            "tokens": [
+                51564,
+                6514,
+                53,
+                5931,
+                400,
+                18981,
+                34362,
+                441,
+                812,
+                15144,
+                422,
+                1443,
+                5409,
+                0,
+                51714
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.4879104511157886,
+            "compression_ratio": 1.8181818181818181,
+            "no_speech_prob": 0.6078633069992065
+        },
+        {
+            "id": 7,
+            "seek": 2700,
+            "start": 28.0,
+            "end": 30.0,
+            "text": " \u00a1Viva La Cruz!",
+            "tokens": [
+                50414,
+                6514,
+                53,
+                5931,
+                2369,
+                23008,
+                0,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20415933609008788,
+            "compression_ratio": 1.7407407407407407,
+            "no_speech_prob": 0.03274732828140259
+        },
+        {
+            "id": 8,
+            "seek": 2700,
+            "start": 30.0,
+            "end": 32.0,
+            "text": " \u00a1Viva La Cruz!",
+            "tokens": [
+                50514,
+                6514,
+                53,
+                5931,
+                2369,
+                23008,
+                0,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20415933609008788,
+            "compression_ratio": 1.7407407407407407,
+            "no_speech_prob": 0.03274732828140259
+        },
+        {
+            "id": 9,
+            "seek": 2700,
+            "start": 32.0,
+            "end": 34.0,
+            "text": " \u00a1Viva La Cruz!",
+            "tokens": [
+                50614,
+                6514,
+                53,
+                5931,
+                2369,
+                23008,
+                0,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20415933609008788,
+            "compression_ratio": 1.7407407407407407,
+            "no_speech_prob": 0.03274732828140259
+        }
+    ],
+    "language": "es"
+}

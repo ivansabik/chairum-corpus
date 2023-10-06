@@ -1,0 +1,1309 @@
+{
+    "text": " Buenas tardes. Damos la bienvenida al licenciado Andr\u00e9s Manuel L\u00f3pez Obrador, presidente constitucional de los Estados Unidos Mexicanos, a su esposa, la doctora Beatriz L\u00f3pez, y el much\u00edsimo se\u00f1or Gabriel Borich Font, presidente de la Rep\u00fablica de Chile, acompa\u00f1ado de la se\u00f1ora Irina Caramanos Adri\u00e1n. Para dar inicio a esta ceremonia oficial de bienvenida, se entonar\u00e1n los presentes. Amor al Pueblo, el presidente, el se\u00f1or Gabriel Borich Font, presidente de la Rep\u00fablica de Chile, a su esposa, la doctora Beatriz L\u00f3pez, presidente de la Rep\u00fablica de Chile, a su esposa, la doctora Beatriz L\u00f3pez, presidente de la Rep\u00fablica de Chile, a su esposa, la doctor \u0441\u0438\u0441\u0442\u0435\u043c\u00e1tica de la Rep\u00fablica de Chile, presidente de la Rep\u00fablica de Chile, a su esposa, la doctora Beatriz L\u00f3pez, a su esposa, la doctora Beatriz L\u00f3pez, presidente de la Rep\u00fablica de Chile, es esta\u0432\u0430 Amor al Pueblo, mi bipartisan mas john france es as\u00ed como finaliza esta ceremonia que tengan todos muy buenas tardes y y y y y y y y y y y y y y y y y y y y y y y y y y y",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 6000,
+            "start": 60.0,
+            "end": 79.72,
+            "text": " Buenas tardes. Damos la",
+            "tokens": [
+                50364,
+                4078,
+                11581,
+                21057,
+                279,
+                13,
+                413,
+                2151,
+                635,
+                51350
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5695960362752278,
+            "compression_ratio": 1.1971830985915493,
+            "no_speech_prob": 0.6451030373573303
+        },
+        {
+            "id": 1,
+            "seek": 6000,
+            "start": 79.78,
+            "end": 81.78,
+            "text": " bienvenida al licenciado Andr\u00e9s",
+            "tokens": [
+                51353,
+                3610,
+                553,
+                2887,
+                419,
+                6169,
+                30322,
+                1573,
+                400,
+                18981,
+                51453
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5695960362752278,
+            "compression_ratio": 1.1971830985915493,
+            "no_speech_prob": 0.6451030373573303
+        },
+        {
+            "id": 2,
+            "seek": 6000,
+            "start": 81.84,
+            "end": 83.28,
+            "text": " Manuel L\u00f3pez Obrador,",
+            "tokens": [
+                51456,
+                34362,
+                441,
+                812,
+                15144,
+                422,
+                1443,
+                5409,
+                11,
+                51528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5695960362752278,
+            "compression_ratio": 1.1971830985915493,
+            "no_speech_prob": 0.6451030373573303
+        },
+        {
+            "id": 3,
+            "seek": 6000,
+            "start": 83.36,
+            "end": 84.88,
+            "text": " presidente constitucional de",
+            "tokens": [
+                51532,
+                23852,
+                23079,
+                1311,
+                1966,
+                368,
+                51608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5695960362752278,
+            "compression_ratio": 1.1971830985915493,
+            "no_speech_prob": 0.6451030373573303
+        },
+        {
+            "id": 4,
+            "seek": 6000,
+            "start": 84.96000000000001,
+            "end": 87.42,
+            "text": " los Estados Unidos Mexicanos, a",
+            "tokens": [
+                51612,
+                1750,
+                22362,
+                23087,
+                16164,
+                329,
+                11,
+                257,
+                51735
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5695960362752278,
+            "compression_ratio": 1.1971830985915493,
+            "no_speech_prob": 0.6451030373573303
+        },
+        {
+            "id": 5,
+            "seek": 6000,
+            "start": 87.48,
+            "end": 89.02,
+            "text": " su esposa, la doctora Beatriz",
+            "tokens": [
+                51738,
+                459,
+                7089,
+                6447,
+                11,
+                635,
+                4631,
+                64,
+                16031,
+                24959,
+                51815
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5695960362752278,
+            "compression_ratio": 1.1971830985915493,
+            "no_speech_prob": 0.6451030373573303
+        },
+        {
+            "id": 6,
+            "seek": 8902,
+            "start": 89.02,
+            "end": 93.02,
+            "text": " L\u00f3pez, y el much\u00edsimo se\u00f1or",
+            "tokens": [
+                50364,
+                441,
+                812,
+                15144,
+                11,
+                288,
+                806,
+                44722,
+                22188,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49372747670049255,
+            "compression_ratio": 1.2588235294117647,
+            "no_speech_prob": 0.05767261981964111
+        },
+        {
+            "id": 7,
+            "seek": 8902,
+            "start": 93.02,
+            "end": 95.02,
+            "text": " Gabriel Borich Font, presidente",
+            "tokens": [
+                50564,
+                20985,
+                13739,
+                480,
+                43901,
+                11,
+                23852,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49372747670049255,
+            "compression_ratio": 1.2588235294117647,
+            "no_speech_prob": 0.05767261981964111
+        },
+        {
+            "id": 8,
+            "seek": 8902,
+            "start": 95.02,
+            "end": 97.02,
+            "text": " de la Rep\u00fablica de Chile,",
+            "tokens": [
+                50664,
+                368,
+                635,
+                45917,
+                368,
+                22238,
+                11,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49372747670049255,
+            "compression_ratio": 1.2588235294117647,
+            "no_speech_prob": 0.05767261981964111
+        },
+        {
+            "id": 9,
+            "seek": 8902,
+            "start": 97.02,
+            "end": 101.02,
+            "text": " acompa\u00f1ado de la se\u00f1ora Irina",
+            "tokens": [
+                50764,
+                43142,
+                1573,
+                368,
+                635,
+                41094,
+                9151,
+                1426,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49372747670049255,
+            "compression_ratio": 1.2588235294117647,
+            "no_speech_prob": 0.05767261981964111
+        },
+        {
+            "id": 10,
+            "seek": 8902,
+            "start": 101.02,
+            "end": 103.02,
+            "text": " Caramanos Adri\u00e1n. Para dar",
+            "tokens": [
+                50964,
+                2741,
+                6147,
+                329,
+                32447,
+                7200,
+                13,
+                11107,
+                4072,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49372747670049255,
+            "compression_ratio": 1.2588235294117647,
+            "no_speech_prob": 0.05767261981964111
+        },
+        {
+            "id": 11,
+            "seek": 8902,
+            "start": 103.02,
+            "end": 105.02,
+            "text": " inicio a esta ceremonia oficial",
+            "tokens": [
+                51064,
+                294,
+                18322,
+                257,
+                5283,
+                25920,
+                654,
+                37189,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49372747670049255,
+            "compression_ratio": 1.2588235294117647,
+            "no_speech_prob": 0.05767261981964111
+        },
+        {
+            "id": 12,
+            "seek": 8902,
+            "start": 105.02,
+            "end": 107.02,
+            "text": " de bienvenida, se entonar\u00e1n los",
+            "tokens": [
+                51164,
+                368,
+                3610,
+                553,
+                2887,
+                11,
+                369,
+                948,
+                266,
+                289,
+                7200,
+                1750,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49372747670049255,
+            "compression_ratio": 1.2588235294117647,
+            "no_speech_prob": 0.05767261981964111
+        },
+        {
+            "id": 13,
+            "seek": 13702,
+            "start": 137.02,
+            "end": 139.02,
+            "text": " presentes.",
+            "tokens": [
+                50364,
+                1974,
+                279,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9367361068725586,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.9644355177879333
+        },
+        {
+            "id": 14,
+            "seek": 19702,
+            "start": 197.02,
+            "end": 202.02,
+            "text": " Amor al Pueblo, el",
+            "tokens": [
+                50364,
+                2012,
+                284,
+                419,
+                430,
+                622,
+                15962,
+                11,
+                806,
+                50614
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.9890022277832031,
+            "compression_ratio": 1.3688524590163935,
+            "no_speech_prob": 0.9856938123703003
+        },
+        {
+            "id": 15,
+            "seek": 19702,
+            "start": 202.02,
+            "end": 205.02,
+            "text": " presidente, el se\u00f1or",
+            "tokens": [
+                50614,
+                23852,
+                11,
+                806,
+                22188,
+                50764
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.9890022277832031,
+            "compression_ratio": 1.3688524590163935,
+            "no_speech_prob": 0.9856938123703003
+        },
+        {
+            "id": 16,
+            "seek": 19702,
+            "start": 205.02,
+            "end": 210.02,
+            "text": " Gabriel Borich Font,",
+            "tokens": [
+                50764,
+                20985,
+                13739,
+                480,
+                43901,
+                11,
+                51014
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.9890022277832031,
+            "compression_ratio": 1.3688524590163935,
+            "no_speech_prob": 0.9856938123703003
+        },
+        {
+            "id": 17,
+            "seek": 19702,
+            "start": 210.02,
+            "end": 215.02,
+            "text": " presidente de la Rep\u00fablica",
+            "tokens": [
+                51014,
+                23852,
+                368,
+                635,
+                45917,
+                51264
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.9890022277832031,
+            "compression_ratio": 1.3688524590163935,
+            "no_speech_prob": 0.9856938123703003
+        },
+        {
+            "id": 18,
+            "seek": 19702,
+            "start": 215.02,
+            "end": 218.02,
+            "text": " de Chile, a su esposa, la",
+            "tokens": [
+                51264,
+                368,
+                22238,
+                11,
+                257,
+                459,
+                7089,
+                6447,
+                11,
+                635,
+                51414
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.9890022277832031,
+            "compression_ratio": 1.3688524590163935,
+            "no_speech_prob": 0.9856938123703003
+        },
+        {
+            "id": 19,
+            "seek": 19702,
+            "start": 218.02,
+            "end": 221.02,
+            "text": " doctora Beatriz L\u00f3pez,",
+            "tokens": [
+                51414,
+                4631,
+                64,
+                16031,
+                24959,
+                441,
+                812,
+                15144,
+                11,
+                51564
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.9890022277832031,
+            "compression_ratio": 1.3688524590163935,
+            "no_speech_prob": 0.9856938123703003
+        },
+        {
+            "id": 20,
+            "seek": 19702,
+            "start": 221.02,
+            "end": 224.02,
+            "text": " presidente de la Rep\u00fablica",
+            "tokens": [
+                51564,
+                23852,
+                368,
+                635,
+                45917,
+                51714
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.9890022277832031,
+            "compression_ratio": 1.3688524590163935,
+            "no_speech_prob": 0.9856938123703003
+        },
+        {
+            "id": 21,
+            "seek": 22402,
+            "start": 224.02,
+            "end": 227.02,
+            "text": " de Chile, a su esposa, la",
+            "tokens": [
+                50364,
+                368,
+                22238,
+                11,
+                257,
+                459,
+                7089,
+                6447,
+                11,
+                635,
+                50514
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 22,
+            "seek": 22402,
+            "start": 227.02,
+            "end": 230.02,
+            "text": " doctora Beatriz L\u00f3pez,",
+            "tokens": [
+                50514,
+                4631,
+                64,
+                16031,
+                24959,
+                441,
+                812,
+                15144,
+                11,
+                50664
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 23,
+            "seek": 22402,
+            "start": 230.02,
+            "end": 233.02,
+            "text": " presidente de la Rep\u00fablica",
+            "tokens": [
+                50664,
+                23852,
+                368,
+                635,
+                45917,
+                50814
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 24,
+            "seek": 22402,
+            "start": 233.02,
+            "end": 236.02,
+            "text": " de Chile, a su esposa, la",
+            "tokens": [
+                50814,
+                368,
+                22238,
+                11,
+                257,
+                459,
+                7089,
+                6447,
+                11,
+                635,
+                50964
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 25,
+            "seek": 22402,
+            "start": 236.02,
+            "end": 239.02,
+            "text": " doctor \u0441\u0438\u0441\u0442\u0435\u043c\u00e1tica",
+            "tokens": [
+                50964,
+                4631,
+                24067,
+                23432,
+                51114
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 26,
+            "seek": 22402,
+            "start": 239.02,
+            "end": 242.02,
+            "text": " de la Rep\u00fablica de Chile,",
+            "tokens": [
+                51114,
+                368,
+                635,
+                45917,
+                368,
+                22238,
+                11,
+                51264
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 27,
+            "seek": 22402,
+            "start": 242.02,
+            "end": 245.02,
+            "text": " presidente de la Rep\u00fablica",
+            "tokens": [
+                51264,
+                23852,
+                368,
+                635,
+                45917,
+                51414
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 28,
+            "seek": 22402,
+            "start": 245.02,
+            "end": 248.02,
+            "text": " de Chile, a su esposa, la",
+            "tokens": [
+                51414,
+                368,
+                22238,
+                11,
+                257,
+                459,
+                7089,
+                6447,
+                11,
+                635,
+                51564
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 29,
+            "seek": 22402,
+            "start": 248.02,
+            "end": 251.02,
+            "text": " doctora Beatriz L\u00f3pez,",
+            "tokens": [
+                51564,
+                4631,
+                64,
+                16031,
+                24959,
+                441,
+                812,
+                15144,
+                11,
+                51714
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.4649449348449707,
+            "compression_ratio": 2.0526315789473686,
+            "no_speech_prob": 0.6972429752349854
+        },
+        {
+            "id": 30,
+            "seek": 28102,
+            "start": 281.02,
+            "end": 284.02,
+            "text": " a su esposa, la",
+            "tokens": [
+                50364,
+                257,
+                459,
+                7089,
+                6447,
+                11,
+                635,
+                50514
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 31,
+            "seek": 28102,
+            "start": 284.02,
+            "end": 287.02,
+            "text": " doctora Beatriz L\u00f3pez,",
+            "tokens": [
+                50514,
+                4631,
+                64,
+                16031,
+                24959,
+                441,
+                812,
+                15144,
+                11,
+                50664
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 32,
+            "seek": 28102,
+            "start": 287.02,
+            "end": 290.02,
+            "text": " presidente de la Rep\u00fablica",
+            "tokens": [
+                50664,
+                23852,
+                368,
+                635,
+                45917,
+                50814
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 33,
+            "seek": 28102,
+            "start": 290.02,
+            "end": 293.02,
+            "text": " de Chile, es esta",
+            "tokens": [
+                50814,
+                368,
+                22238,
+                11,
+                785,
+                5283,
+                50964
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 34,
+            "seek": 28102,
+            "start": 293.02,
+            "end": 296.02,
+            "text": "\u0432\u0430",
+            "tokens": [
+                50964,
+                20635,
+                51114
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 35,
+            "seek": 28102,
+            "start": 299.02,
+            "end": 302.02,
+            "text": " Amor al Pueblo, mi",
+            "tokens": [
+                51264,
+                2012,
+                284,
+                419,
+                430,
+                622,
+                15962,
+                11,
+                2752,
+                51414
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 36,
+            "seek": 28102,
+            "start": 302.02,
+            "end": 305.02,
+            "text": " bipartisan mas john",
+            "tokens": [
+                51414,
+                31954,
+                2300,
+                35097,
+                51564
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 37,
+            "seek": 28102,
+            "start": 305.02,
+            "end": 308.02,
+            "text": " france",
+            "tokens": [
+                51564,
+                431,
+                719,
+                51714
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.7421002474698153,
+            "compression_ratio": 1.0975609756097562,
+            "no_speech_prob": 0.5287184119224548
+        },
+        {
+            "id": 38,
+            "seek": 30802,
+            "start": 309.02,
+            "end": 312.02,
+            "text": " es as\u00ed como finaliza esta",
+            "tokens": [
+                50414,
+                785,
+                8582,
+                2617,
+                2572,
+                13427,
+                5283,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2732107639312744,
+            "compression_ratio": 1.0289855072463767,
+            "no_speech_prob": 0.0516684353351593
+        },
+        {
+            "id": 39,
+            "seek": 30802,
+            "start": 312.02,
+            "end": 315.02,
+            "text": " ceremonia que tengan todos muy",
+            "tokens": [
+                50564,
+                25920,
+                654,
+                631,
+                46874,
+                6321,
+                5323,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2732107639312744,
+            "compression_ratio": 1.0289855072463767,
+            "no_speech_prob": 0.0516684353351593
+        },
+        {
+            "id": 40,
+            "seek": 30802,
+            "start": 315.02,
+            "end": 318.02,
+            "text": " buenas tardes",
+            "tokens": [
+                50714,
+                43852,
+                21057,
+                279,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2732107639312744,
+            "compression_ratio": 1.0289855072463767,
+            "no_speech_prob": 0.0516684353351593
+        },
+        {
+            "id": 41,
+            "seek": 33802,
+            "start": 338.02,
+            "end": 341.02,
+            "text": " y",
+            "tokens": [
+                50364,
+                288,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 42,
+            "seek": 33802,
+            "start": 341.02,
+            "end": 344.02,
+            "text": " y",
+            "tokens": [
+                50514,
+                288,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 43,
+            "seek": 33802,
+            "start": 344.02,
+            "end": 347.02,
+            "text": " y",
+            "tokens": [
+                50664,
+                288,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 44,
+            "seek": 33802,
+            "start": 347.02,
+            "end": 350.02,
+            "text": " y",
+            "tokens": [
+                50814,
+                288,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 45,
+            "seek": 33802,
+            "start": 350.02,
+            "end": 353.02,
+            "text": " y",
+            "tokens": [
+                50964,
+                288,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 46,
+            "seek": 33802,
+            "start": 353.02,
+            "end": 356.02,
+            "text": " y",
+            "tokens": [
+                51114,
+                288,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 47,
+            "seek": 33802,
+            "start": 356.02,
+            "end": 359.02,
+            "text": " y",
+            "tokens": [
+                51264,
+                288,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 48,
+            "seek": 33802,
+            "start": 359.02,
+            "end": 362.02,
+            "text": " y",
+            "tokens": [
+                51414,
+                288,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 49,
+            "seek": 33802,
+            "start": 362.02,
+            "end": 365.02,
+            "text": " y",
+            "tokens": [
+                51564,
+                288,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6706385119207974,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.3479020893573761
+        },
+        {
+            "id": 50,
+            "seek": 36502,
+            "start": 365.02,
+            "end": 368.02,
+            "text": " y",
+            "tokens": [
+                50364,
+                288,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 51,
+            "seek": 36502,
+            "start": 368.02,
+            "end": 371.02,
+            "text": " y",
+            "tokens": [
+                50514,
+                288,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 52,
+            "seek": 36502,
+            "start": 371.02,
+            "end": 374.02,
+            "text": " y",
+            "tokens": [
+                50664,
+                288,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 53,
+            "seek": 36502,
+            "start": 374.02,
+            "end": 377.02,
+            "text": " y",
+            "tokens": [
+                50814,
+                288,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 54,
+            "seek": 36502,
+            "start": 377.02,
+            "end": 380.02,
+            "text": " y",
+            "tokens": [
+                50964,
+                288,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 55,
+            "seek": 36502,
+            "start": 380.02,
+            "end": 383.02,
+            "text": " y",
+            "tokens": [
+                51114,
+                288,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 56,
+            "seek": 36502,
+            "start": 383.02,
+            "end": 386.02,
+            "text": " y",
+            "tokens": [
+                51264,
+                288,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 57,
+            "seek": 36502,
+            "start": 386.02,
+            "end": 389.02,
+            "text": " y",
+            "tokens": [
+                51414,
+                288,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 58,
+            "seek": 36502,
+            "start": 389.02,
+            "end": 392.02,
+            "text": " y",
+            "tokens": [
+                51564,
+                288,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28756039718101767,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.05325908213853836
+        },
+        {
+            "id": 59,
+            "seek": 39202,
+            "start": 392.02,
+            "end": 395.02,
+            "text": " y",
+            "tokens": [
+                50364,
+                288,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 60,
+            "seek": 39202,
+            "start": 395.02,
+            "end": 398.02,
+            "text": " y",
+            "tokens": [
+                50514,
+                288,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 61,
+            "seek": 39202,
+            "start": 398.02,
+            "end": 401.02,
+            "text": " y",
+            "tokens": [
+                50664,
+                288,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 62,
+            "seek": 39202,
+            "start": 401.02,
+            "end": 404.02,
+            "text": " y",
+            "tokens": [
+                50814,
+                288,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 63,
+            "seek": 39202,
+            "start": 404.02,
+            "end": 407.02,
+            "text": " y",
+            "tokens": [
+                50964,
+                288,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 64,
+            "seek": 39202,
+            "start": 407.02,
+            "end": 410.02,
+            "text": " y",
+            "tokens": [
+                51114,
+                288,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 65,
+            "seek": 39202,
+            "start": 410.02,
+            "end": 413.02,
+            "text": " y",
+            "tokens": [
+                51264,
+                288,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 66,
+            "seek": 39202,
+            "start": 413.02,
+            "end": 416.02,
+            "text": " y",
+            "tokens": [
+                51414,
+                288,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        },
+        {
+            "id": 67,
+            "seek": 39202,
+            "start": 416.02,
+            "end": 419.02,
+            "text": " y",
+            "tokens": [
+                51564,
+                288,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17277100990558492,
+            "compression_ratio": 1.4166666666666667,
+            "no_speech_prob": 0.5944045782089233
+        }
+    ],
+    "language": "es"
+}

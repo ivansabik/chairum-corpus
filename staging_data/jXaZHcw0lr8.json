@@ -1,0 +1,2680 @@
+{
+    "text": " nostrina natal la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " nostrina",
+            "tokens": [
+                50364,
+                10397,
+                21374,
+                50464
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.937902069091797,
+            "compression_ratio": 0.5,
+            "no_speech_prob": 0.5147863626480103
+        },
+        {
+            "id": 1,
+            "seek": 3000,
+            "start": 30.0,
+            "end": 34.58,
+            "text": " natal",
+            "tokens": [
+                50388,
+                2249,
+                304,
+                50593
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.701506423950195,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.5737080574035645
+        },
+        {
+            "id": 2,
+            "seek": 9000,
+            "start": 90.48,
+            "end": 94.2,
+            "text": " la",
+            "tokens": [
+                50388,
+                635,
+                50574
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 3,
+            "seek": 9000,
+            "start": 94.2,
+            "end": 97.2,
+            "text": " la",
+            "tokens": [
+                50574,
+                635,
+                50724
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 4,
+            "seek": 9000,
+            "start": 97.2,
+            "end": 100.2,
+            "text": " la",
+            "tokens": [
+                50724,
+                635,
+                50874
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 5,
+            "seek": 9000,
+            "start": 100.2,
+            "end": 103.2,
+            "text": " la",
+            "tokens": [
+                50874,
+                635,
+                51024
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 6,
+            "seek": 9000,
+            "start": 103.2,
+            "end": 106.2,
+            "text": " la",
+            "tokens": [
+                51024,
+                635,
+                51174
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 7,
+            "seek": 9000,
+            "start": 106.2,
+            "end": 109.2,
+            "text": " la",
+            "tokens": [
+                51174,
+                635,
+                51324
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 8,
+            "seek": 9000,
+            "start": 109.2,
+            "end": 112.2,
+            "text": " la",
+            "tokens": [
+                51324,
+                635,
+                51474
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 9,
+            "seek": 9000,
+            "start": 112.2,
+            "end": 115.2,
+            "text": " la",
+            "tokens": [
+                51474,
+                635,
+                51624
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 10,
+            "seek": 9000,
+            "start": 115.2,
+            "end": 118.2,
+            "text": " la",
+            "tokens": [
+                51624,
+                635,
+                51774
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8505197064629917,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.7334911227226257
+        },
+        {
+            "id": 11,
+            "seek": 11820,
+            "start": 118.2,
+            "end": 121.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 12,
+            "seek": 11820,
+            "start": 121.2,
+            "end": 124.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 13,
+            "seek": 11820,
+            "start": 124.2,
+            "end": 127.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 14,
+            "seek": 11820,
+            "start": 127.2,
+            "end": 130.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 15,
+            "seek": 11820,
+            "start": 130.2,
+            "end": 133.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 16,
+            "seek": 11820,
+            "start": 133.2,
+            "end": 136.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 17,
+            "seek": 11820,
+            "start": 136.2,
+            "end": 139.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 18,
+            "seek": 11820,
+            "start": 139.2,
+            "end": 142.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 19,
+            "seek": 11820,
+            "start": 142.2,
+            "end": 145.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09917130141422667,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2115524411201477
+        },
+        {
+            "id": 20,
+            "seek": 14520,
+            "start": 145.2,
+            "end": 148.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 21,
+            "seek": 14520,
+            "start": 148.2,
+            "end": 151.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 22,
+            "seek": 14520,
+            "start": 151.2,
+            "end": 154.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 23,
+            "seek": 14520,
+            "start": 154.2,
+            "end": 157.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 24,
+            "seek": 14520,
+            "start": 157.2,
+            "end": 160.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 25,
+            "seek": 14520,
+            "start": 160.2,
+            "end": 163.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 26,
+            "seek": 14520,
+            "start": 163.2,
+            "end": 166.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 27,
+            "seek": 14520,
+            "start": 166.2,
+            "end": 169.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 28,
+            "seek": 14520,
+            "start": 169.2,
+            "end": 172.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.06365665485118997,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.23645494878292084
+        },
+        {
+            "id": 29,
+            "seek": 17220,
+            "start": 172.2,
+            "end": 175.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 30,
+            "seek": 17220,
+            "start": 175.2,
+            "end": 178.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 31,
+            "seek": 17220,
+            "start": 178.2,
+            "end": 181.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 32,
+            "seek": 17220,
+            "start": 181.2,
+            "end": 184.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 33,
+            "seek": 17220,
+            "start": 184.2,
+            "end": 187.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 34,
+            "seek": 17220,
+            "start": 187.2,
+            "end": 190.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 35,
+            "seek": 17220,
+            "start": 190.2,
+            "end": 193.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 36,
+            "seek": 17220,
+            "start": 193.2,
+            "end": 196.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 37,
+            "seek": 17220,
+            "start": 196.2,
+            "end": 199.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.04878071258808005,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.32761216163635254
+        },
+        {
+            "id": 38,
+            "seek": 19920,
+            "start": 199.2,
+            "end": 202.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 39,
+            "seek": 19920,
+            "start": 202.2,
+            "end": 205.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 40,
+            "seek": 19920,
+            "start": 205.2,
+            "end": 208.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 41,
+            "seek": 19920,
+            "start": 208.2,
+            "end": 211.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 42,
+            "seek": 19920,
+            "start": 211.2,
+            "end": 214.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 43,
+            "seek": 19920,
+            "start": 214.2,
+            "end": 217.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 44,
+            "seek": 19920,
+            "start": 217.2,
+            "end": 220.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 45,
+            "seek": 19920,
+            "start": 220.2,
+            "end": 223.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 46,
+            "seek": 19920,
+            "start": 223.2,
+            "end": 226.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.05105435848236084,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2663370966911316
+        },
+        {
+            "id": 47,
+            "seek": 22620,
+            "start": 226.2,
+            "end": 229.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 48,
+            "seek": 22620,
+            "start": 229.2,
+            "end": 232.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 49,
+            "seek": 22620,
+            "start": 232.2,
+            "end": 235.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 50,
+            "seek": 22620,
+            "start": 235.2,
+            "end": 238.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 51,
+            "seek": 22620,
+            "start": 238.2,
+            "end": 241.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 52,
+            "seek": 22620,
+            "start": 241.2,
+            "end": 244.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 53,
+            "seek": 22620,
+            "start": 244.2,
+            "end": 247.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 54,
+            "seek": 22620,
+            "start": 247.2,
+            "end": 250.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 55,
+            "seek": 22620,
+            "start": 250.2,
+            "end": 253.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.07380693534324909,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.1945245862007141
+        },
+        {
+            "id": 56,
+            "seek": 25320,
+            "start": 253.2,
+            "end": 256.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 57,
+            "seek": 25320,
+            "start": 256.2,
+            "end": 259.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 58,
+            "seek": 25320,
+            "start": 259.2,
+            "end": 262.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 59,
+            "seek": 25320,
+            "start": 262.2,
+            "end": 265.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 60,
+            "seek": 25320,
+            "start": 265.2,
+            "end": 268.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 61,
+            "seek": 25320,
+            "start": 268.2,
+            "end": 271.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 62,
+            "seek": 25320,
+            "start": 271.2,
+            "end": 274.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 63,
+            "seek": 25320,
+            "start": 274.2,
+            "end": 277.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 64,
+            "seek": 25320,
+            "start": 277.2,
+            "end": 280.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0679768940498089,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.09055417776107788
+        },
+        {
+            "id": 65,
+            "seek": 28020,
+            "start": 280.2,
+            "end": 283.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 66,
+            "seek": 28020,
+            "start": 283.2,
+            "end": 286.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 67,
+            "seek": 28020,
+            "start": 286.2,
+            "end": 289.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 68,
+            "seek": 28020,
+            "start": 289.2,
+            "end": 292.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 69,
+            "seek": 28020,
+            "start": 292.2,
+            "end": 295.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 70,
+            "seek": 28020,
+            "start": 295.2,
+            "end": 298.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 71,
+            "seek": 28020,
+            "start": 298.2,
+            "end": 301.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 72,
+            "seek": 28020,
+            "start": 301.2,
+            "end": 304.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 73,
+            "seek": 28020,
+            "start": 304.2,
+            "end": 307.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09413292490202806,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04442621394991875
+        },
+        {
+            "id": 74,
+            "seek": 30720,
+            "start": 307.2,
+            "end": 310.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 75,
+            "seek": 30720,
+            "start": 310.2,
+            "end": 313.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 76,
+            "seek": 30720,
+            "start": 313.2,
+            "end": 316.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 77,
+            "seek": 30720,
+            "start": 316.2,
+            "end": 319.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 78,
+            "seek": 30720,
+            "start": 319.2,
+            "end": 322.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 79,
+            "seek": 30720,
+            "start": 322.2,
+            "end": 325.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 80,
+            "seek": 30720,
+            "start": 325.2,
+            "end": 328.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 81,
+            "seek": 30720,
+            "start": 328.2,
+            "end": 331.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 82,
+            "seek": 30720,
+            "start": 331.2,
+            "end": 334.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10001050192734291,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.07595190405845642
+        },
+        {
+            "id": 83,
+            "seek": 33420,
+            "start": 334.2,
+            "end": 337.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 84,
+            "seek": 33420,
+            "start": 337.2,
+            "end": 340.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 85,
+            "seek": 33420,
+            "start": 340.2,
+            "end": 343.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 86,
+            "seek": 33420,
+            "start": 343.2,
+            "end": 346.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 87,
+            "seek": 33420,
+            "start": 346.2,
+            "end": 349.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 88,
+            "seek": 33420,
+            "start": 349.2,
+            "end": 352.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 89,
+            "seek": 33420,
+            "start": 352.2,
+            "end": 355.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 90,
+            "seek": 33420,
+            "start": 355.2,
+            "end": 358.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 91,
+            "seek": 33420,
+            "start": 358.2,
+            "end": 361.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09192007163475299,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.033080216497182846
+        },
+        {
+            "id": 92,
+            "seek": 36120,
+            "start": 361.2,
+            "end": 364.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 93,
+            "seek": 36120,
+            "start": 364.2,
+            "end": 367.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 94,
+            "seek": 36120,
+            "start": 367.2,
+            "end": 370.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 95,
+            "seek": 36120,
+            "start": 370.2,
+            "end": 373.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 96,
+            "seek": 36120,
+            "start": 373.2,
+            "end": 376.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 97,
+            "seek": 36120,
+            "start": 376.2,
+            "end": 379.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 98,
+            "seek": 36120,
+            "start": 379.2,
+            "end": 382.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 99,
+            "seek": 36120,
+            "start": 382.2,
+            "end": 385.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 100,
+            "seek": 36120,
+            "start": 385.2,
+            "end": 388.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1184301705195986,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.03765546903014183
+        },
+        {
+            "id": 101,
+            "seek": 38820,
+            "start": 388.2,
+            "end": 391.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 102,
+            "seek": 38820,
+            "start": 391.2,
+            "end": 394.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 103,
+            "seek": 38820,
+            "start": 394.2,
+            "end": 397.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 104,
+            "seek": 38820,
+            "start": 397.2,
+            "end": 400.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 105,
+            "seek": 38820,
+            "start": 400.2,
+            "end": 403.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 106,
+            "seek": 38820,
+            "start": 403.2,
+            "end": 406.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 107,
+            "seek": 38820,
+            "start": 406.2,
+            "end": 409.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 108,
+            "seek": 38820,
+            "start": 409.2,
+            "end": 412.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 109,
+            "seek": 38820,
+            "start": 412.2,
+            "end": 415.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11502418846919618,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04740190878510475
+        },
+        {
+            "id": 110,
+            "seek": 41520,
+            "start": 415.2,
+            "end": 418.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 111,
+            "seek": 41520,
+            "start": 418.2,
+            "end": 421.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 112,
+            "seek": 41520,
+            "start": 421.2,
+            "end": 424.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 113,
+            "seek": 41520,
+            "start": 424.2,
+            "end": 427.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 114,
+            "seek": 41520,
+            "start": 427.2,
+            "end": 430.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 115,
+            "seek": 41520,
+            "start": 430.2,
+            "end": 433.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 116,
+            "seek": 41520,
+            "start": 433.2,
+            "end": 436.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 117,
+            "seek": 41520,
+            "start": 436.2,
+            "end": 439.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 118,
+            "seek": 41520,
+            "start": 439.2,
+            "end": 442.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.11490638502712908,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.05276298150420189
+        },
+        {
+            "id": 119,
+            "seek": 44220,
+            "start": 442.2,
+            "end": 445.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 120,
+            "seek": 44220,
+            "start": 445.2,
+            "end": 448.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 121,
+            "seek": 44220,
+            "start": 448.2,
+            "end": 451.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 122,
+            "seek": 44220,
+            "start": 451.2,
+            "end": 454.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 123,
+            "seek": 44220,
+            "start": 454.2,
+            "end": 457.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 124,
+            "seek": 44220,
+            "start": 457.2,
+            "end": 460.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 125,
+            "seek": 44220,
+            "start": 460.2,
+            "end": 463.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 126,
+            "seek": 44220,
+            "start": 463.2,
+            "end": 466.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 127,
+            "seek": 44220,
+            "start": 466.2,
+            "end": 469.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1343179489004201,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.04662296175956726
+        },
+        {
+            "id": 128,
+            "seek": 46920,
+            "start": 469.2,
+            "end": 472.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 129,
+            "seek": 46920,
+            "start": 472.2,
+            "end": 475.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 130,
+            "seek": 46920,
+            "start": 475.2,
+            "end": 478.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 131,
+            "seek": 46920,
+            "start": 478.2,
+            "end": 481.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 132,
+            "seek": 46920,
+            "start": 481.2,
+            "end": 484.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 133,
+            "seek": 46920,
+            "start": 484.2,
+            "end": 487.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 134,
+            "seek": 46920,
+            "start": 487.2,
+            "end": 490.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 135,
+            "seek": 46920,
+            "start": 490.2,
+            "end": 493.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 136,
+            "seek": 46920,
+            "start": 493.2,
+            "end": 496.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13862673989657698,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.12870481610298157
+        },
+        {
+            "id": 137,
+            "seek": 49620,
+            "start": 496.2,
+            "end": 499.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 138,
+            "seek": 49620,
+            "start": 499.2,
+            "end": 502.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 139,
+            "seek": 49620,
+            "start": 502.2,
+            "end": 505.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 140,
+            "seek": 49620,
+            "start": 505.2,
+            "end": 508.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 141,
+            "seek": 49620,
+            "start": 508.2,
+            "end": 511.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 142,
+            "seek": 49620,
+            "start": 511.2,
+            "end": 514.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 143,
+            "seek": 49620,
+            "start": 514.2,
+            "end": 517.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 144,
+            "seek": 49620,
+            "start": 517.2,
+            "end": 520.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 145,
+            "seek": 49620,
+            "start": 520.2,
+            "end": 523.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.101128076684886,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2823048233985901
+        },
+        {
+            "id": 146,
+            "seek": 52320,
+            "start": 523.2,
+            "end": 526.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 147,
+            "seek": 52320,
+            "start": 526.2,
+            "end": 529.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 148,
+            "seek": 52320,
+            "start": 529.2,
+            "end": 532.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 149,
+            "seek": 52320,
+            "start": 532.2,
+            "end": 535.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 150,
+            "seek": 52320,
+            "start": 535.2,
+            "end": 538.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 151,
+            "seek": 52320,
+            "start": 538.2,
+            "end": 541.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 152,
+            "seek": 52320,
+            "start": 541.2,
+            "end": 544.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 153,
+            "seek": 52320,
+            "start": 544.2,
+            "end": 547.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 154,
+            "seek": 52320,
+            "start": 547.2,
+            "end": 550.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10087106145661452,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2812890410423279
+        },
+        {
+            "id": 155,
+            "seek": 55020,
+            "start": 550.2,
+            "end": 553.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 156,
+            "seek": 55020,
+            "start": 553.2,
+            "end": 556.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 157,
+            "seek": 55020,
+            "start": 556.2,
+            "end": 559.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 158,
+            "seek": 55020,
+            "start": 559.2,
+            "end": 562.2,
+            "text": " la",
+            "tokens": [
+                50814,
+                635,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 159,
+            "seek": 55020,
+            "start": 562.2,
+            "end": 565.2,
+            "text": " la",
+            "tokens": [
+                50964,
+                635,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 160,
+            "seek": 55020,
+            "start": 565.2,
+            "end": 568.2,
+            "text": " la",
+            "tokens": [
+                51114,
+                635,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 161,
+            "seek": 55020,
+            "start": 568.2,
+            "end": 571.2,
+            "text": " la",
+            "tokens": [
+                51264,
+                635,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 162,
+            "seek": 55020,
+            "start": 571.2,
+            "end": 574.2,
+            "text": " la",
+            "tokens": [
+                51414,
+                635,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 163,
+            "seek": 55020,
+            "start": 574.2,
+            "end": 577.2,
+            "text": " la",
+            "tokens": [
+                51564,
+                635,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.09368339900312753,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.2644929587841034
+        },
+        {
+            "id": 164,
+            "seek": 57720,
+            "start": 577.2,
+            "end": 580.2,
+            "text": " la",
+            "tokens": [
+                50364,
+                635,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20909242630004882,
+            "compression_ratio": 0.6153846153846154,
+            "no_speech_prob": 0.4181773364543915
+        },
+        {
+            "id": 165,
+            "seek": 57720,
+            "start": 580.2,
+            "end": 583.2,
+            "text": " la",
+            "tokens": [
+                50514,
+                635,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20909242630004882,
+            "compression_ratio": 0.6153846153846154,
+            "no_speech_prob": 0.4181773364543915
+        },
+        {
+            "id": 166,
+            "seek": 57720,
+            "start": 583.2,
+            "end": 586.2,
+            "text": " la",
+            "tokens": [
+                50664,
+                635,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20909242630004882,
+            "compression_ratio": 0.6153846153846154,
+            "no_speech_prob": 0.4181773364543915
+        }
+    ],
+    "language": "es"
+}

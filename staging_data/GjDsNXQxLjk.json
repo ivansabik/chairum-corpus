@@ -1,0 +1,23 @@
+{
+    "text": " launch fatigue",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.0,
+            "text": " launch fatigue",
+            "tokens": [
+                50364,
+                4025,
+                20574,
+                50714
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.573747253417968,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.5655660629272461
+        }
+    ],
+    "language": "es"
+}

@@ -1,0 +1,193 @@
+{
+    "text": " \u00a1Tranquilo, primera, primera! \u00a1Venga! \u00a1Vamos! \u00a1Vamos, vamos! \u00a1Vamos! \u00a1Vamos fuera, venga fuera! \u00a1Vamos con el honor! \u00a1Tiempo! \u00a1Vamos!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " \u00a1Tranquilo, primera, primera!",
+            "tokens": [
+                50364,
+                6514,
+                51,
+                4257,
+                358,
+                10720,
+                11,
+                17382,
+                11,
+                17382,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.0,
+            "end": 5.0,
+            "text": " \u00a1Venga!",
+            "tokens": [
+                50564,
+                6514,
+                53,
+                31494,
+                0,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.0,
+            "end": 11.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                50864,
+                6514,
+                53,
+                2151,
+                0,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.0,
+            "end": 16.0,
+            "text": " \u00a1Vamos, vamos!",
+            "tokens": [
+                51114,
+                6514,
+                53,
+                2151,
+                11,
+                5295,
+                0,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 19.0,
+            "end": 20.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                51314,
+                6514,
+                53,
+                2151,
+                0,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 20.0,
+            "end": 21.0,
+            "text": " \u00a1Vamos fuera, venga fuera!",
+            "tokens": [
+                51364,
+                6514,
+                53,
+                2151,
+                24818,
+                11,
+                371,
+                31494,
+                24818,
+                0,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 21.0,
+            "end": 23.0,
+            "text": " \u00a1Vamos con el honor!",
+            "tokens": [
+                51414,
+                6514,
+                53,
+                2151,
+                416,
+                806,
+                5968,
+                0,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 26.0,
+            "end": 27.0,
+            "text": " \u00a1Tiempo!",
+            "tokens": [
+                51664,
+                6514,
+                51,
+                11571,
+                0,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 28.0,
+            "end": 29.0,
+            "text": " \u00a1Vamos!",
+            "tokens": [
+                51764,
+                6514,
+                53,
+                2151,
+                0,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5752655351665658,
+            "compression_ratio": 1.6511627906976745,
+            "no_speech_prob": 0.32831472158432007
+        }
+    ],
+    "language": "es"
+}

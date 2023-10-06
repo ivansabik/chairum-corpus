@@ -1,0 +1,30 @@
+{
+    "text": " \u00a1Suscr\u00edbete al canal!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 9000,
+            "start": 90.0,
+            "end": 108.0,
+            "text": " \u00a1Suscr\u00edbete al canal!",
+            "tokens": [
+                50364,
+                6514,
+                50,
+                301,
+                10757,
+                49662,
+                3498,
+                419,
+                9911,
+                0,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7338589827219645,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.855018675327301
+        }
+    ],
+    "language": "es"
+}

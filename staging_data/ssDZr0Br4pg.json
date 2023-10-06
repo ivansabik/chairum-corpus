@@ -1,0 +1,184 @@
+{
+    "text": " \u00a1Arriba Conola! \u00a1Arriba Conola! \u00a1Arriba Conola! \u00a1Arriba Conola! \u00a1Arriba Conola! \u00a1Arriba Conola! \u00a1Muchas felicidades, hijos! \u00a1Muchas felicidades!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 9000,
+            "start": 90.0,
+            "end": 92.0,
+            "text": " \u00a1Arriba Conola!",
+            "tokens": [
+                50364,
+                6514,
+                10683,
+                2024,
+                64,
+                2656,
+                4711,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9056397438049316,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.7872236371040344
+        },
+        {
+            "id": 1,
+            "seek": 12000,
+            "start": 120.0,
+            "end": 122.0,
+            "text": " \u00a1Arriba Conola!",
+            "tokens": [
+                50364,
+                6514,
+                10683,
+                2024,
+                64,
+                2656,
+                4711,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5465568542480469,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.43912482261657715
+        },
+        {
+            "id": 2,
+            "seek": 15000,
+            "start": 150.0,
+            "end": 152.0,
+            "text": " \u00a1Arriba Conola!",
+            "tokens": [
+                50364,
+                6514,
+                10683,
+                2024,
+                64,
+                2656,
+                4711,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4776755332946777,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.5294619798660278
+        },
+        {
+            "id": 3,
+            "seek": 18000,
+            "start": 180.0,
+            "end": 182.0,
+            "text": " \u00a1Arriba Conola!",
+            "tokens": [
+                50364,
+                6514,
+                10683,
+                2024,
+                64,
+                2656,
+                4711,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.386250901222229,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.625905454158783
+        },
+        {
+            "id": 4,
+            "seek": 21000,
+            "start": 210.0,
+            "end": 212.0,
+            "text": " \u00a1Arriba Conola!",
+            "tokens": [
+                50364,
+                6514,
+                10683,
+                2024,
+                64,
+                2656,
+                4711,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38554742336273196,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.7173475027084351
+        },
+        {
+            "id": 5,
+            "seek": 24000,
+            "start": 240.0,
+            "end": 242.0,
+            "text": " \u00a1Arriba Conola!",
+            "tokens": [
+                50364,
+                6514,
+                10683,
+                2024,
+                64,
+                2656,
+                4711,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31951613426208497,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.5819923877716064
+        },
+        {
+            "id": 6,
+            "seek": 27000,
+            "start": 270.0,
+            "end": 272.0,
+            "text": " \u00a1Muchas felicidades, hijos!",
+            "tokens": [
+                50364,
+                6514,
+                44,
+                625,
+                296,
+                49986,
+                10284,
+                11,
+                42590,
+                0,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28315850666591097,
+            "compression_ratio": 1.2195121951219512,
+            "no_speech_prob": 0.7146708369255066
+        },
+        {
+            "id": 7,
+            "seek": 27000,
+            "start": 272.0,
+            "end": 274.0,
+            "text": " \u00a1Muchas felicidades!",
+            "tokens": [
+                50464,
+                6514,
+                44,
+                625,
+                296,
+                49986,
+                10284,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28315850666591097,
+            "compression_ratio": 1.2195121951219512,
+            "no_speech_prob": 0.7146708369255066
+        }
+    ],
+    "language": "es"
+}

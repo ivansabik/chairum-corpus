@@ -1,0 +1,270 @@
+{
+    "text": " able del actor Cesar Ur stages y sk\u00eatles. Champacht para f\u00e1cil de sorprender a los estudiantes. addition\u03af\u03b1\u03c2 aShloaderalo! OMG! \u00bflands Facario Spbjh? Jung Rapp Isa Worthy aparecer\u00e1 La Calchxn Online quien participar\u00e1 actividad de jucaroren en abril delphy que su \ub3d9\u500b\u4ebaizaci\u00f3n que viva la democracia",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.64,
+            "text": " able del actor Cesar Ur stages",
+            "tokens": [
+                50364,
+                1075,
+                1103,
+                8747,
+                383,
+                18876,
+                9533,
+                10232,
+                50396
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.837145124162946,
+            "compression_ratio": 1.0862068965517242,
+            "no_speech_prob": 0.572914183139801
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.66,
+            "end": 3.42,
+            "text": " y sk\u00eatles.",
+            "tokens": [
+                50397,
+                288,
+                1110,
+                15519,
+                904,
+                13,
+                50535
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.837145124162946,
+            "compression_ratio": 1.0862068965517242,
+            "no_speech_prob": 0.572914183139801
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 25.72,
+            "end": 26.62,
+            "text": " Champacht para f\u00e1cil de sorprender a los estudiantes.",
+            "tokens": [
+                51650,
+                9863,
+                3589,
+                1690,
+                17474,
+                368,
+                9359,
+                3712,
+                20535,
+                257,
+                1750,
+                13542,
+                46269,
+                13,
+                51695
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.837145124162946,
+            "compression_ratio": 1.0862068965517242,
+            "no_speech_prob": 0.572914183139801
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 26.66,
+            "end": 28.64,
+            "text": " addition\u03af\u03b1\u03c2 aShloaderalo!",
+            "tokens": [
+                51697,
+                4500,
+                45281,
+                257,
+                7774,
+                2907,
+                260,
+                10334,
+                0,
+                51796
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.837145124162946,
+            "compression_ratio": 1.0862068965517242,
+            "no_speech_prob": 0.572914183139801
+        },
+        {
+            "id": 4,
+            "seek": 3000,
+            "start": 31.0,
+            "end": 33.44,
+            "text": " OMG!",
+            "tokens": [
+                50414,
+                23152,
+                0,
+                50536
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.015309015909831,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.36166948080062866
+        },
+        {
+            "id": 5,
+            "seek": 3000,
+            "start": 48.24,
+            "end": 51.24,
+            "text": " \u00bflands Facario Spbjh?",
+            "tokens": [
+                51276,
+                3841,
+                10230,
+                17667,
+                4912,
+                1738,
+                65,
+                73,
+                71,
+                30,
+                51426
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.015309015909831,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.36166948080062866
+        },
+        {
+            "id": 6,
+            "seek": 3000,
+            "start": 54.24,
+            "end": 57.44,
+            "text": " Jung Rapp Isa Worthy",
+            "tokens": [
+                51576,
+                12739,
+                497,
+                1746,
+                19718,
+                37228,
+                88,
+                51736
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -6.015309015909831,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.36166948080062866
+        },
+        {
+            "id": 7,
+            "seek": 6000,
+            "start": 60.44,
+            "end": 63.44,
+            "text": " aparecer\u00e1 La Calchxn Online quien participar\u00e1",
+            "tokens": [
+                50386,
+                43336,
+                842,
+                2369,
+                3511,
+                339,
+                87,
+                77,
+                16930,
+                20108,
+                3421,
+                21534,
+                50536
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.9723561604817705,
+            "compression_ratio": 1.0806451612903225,
+            "no_speech_prob": 0.08107076585292816
+        },
+        {
+            "id": 8,
+            "seek": 6000,
+            "start": 68.44,
+            "end": 71.72,
+            "text": " actividad de jucaroren",
+            "tokens": [
+                50786,
+                605,
+                33490,
+                368,
+                361,
+                1311,
+                289,
+                10948,
+                50950
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.9723561604817705,
+            "compression_ratio": 1.0806451612903225,
+            "no_speech_prob": 0.08107076585292816
+        },
+        {
+            "id": 9,
+            "seek": 6000,
+            "start": 73.18,
+            "end": 75.88,
+            "text": " en abril delphy",
+            "tokens": [
+                51023,
+                465,
+                410,
+                24216,
+                1103,
+                15680,
+                51158
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.9723561604817705,
+            "compression_ratio": 1.0806451612903225,
+            "no_speech_prob": 0.08107076585292816
+        },
+        {
+            "id": 10,
+            "seek": 6000,
+            "start": 77.14,
+            "end": 79.9,
+            "text": " que su \ub3d9\u500b\u4ebaizaci\u00f3n",
+            "tokens": [
+                51221,
+                631,
+                459,
+                11685,
+                40104,
+                27603,
+                51359
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.9723561604817705,
+            "compression_ratio": 1.0806451612903225,
+            "no_speech_prob": 0.08107076585292816
+        },
+        {
+            "id": 11,
+            "seek": 6000,
+            "start": 80.56,
+            "end": 82.76,
+            "text": " que viva la democracia",
+            "tokens": [
+                51392,
+                631,
+                371,
+                5931,
+                635,
+                6366,
+                28000,
+                51502
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.9723561604817705,
+            "compression_ratio": 1.0806451612903225,
+            "no_speech_prob": 0.08107076585292816
+        }
+    ],
+    "language": "es"
+}

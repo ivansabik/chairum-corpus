@@ -1,0 +1,37 @@
+{
+    "text": " \u00a1Suscr\u00edbete al canal y dale a la campanita!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 3000,
+            "start": 30.0,
+            "end": 36.5,
+            "text": " \u00a1Suscr\u00edbete al canal y dale a la campanita!",
+            "tokens": [
+                50364,
+                6514,
+                50,
+                301,
+                10757,
+                49662,
+                3498,
+                419,
+                9911,
+                288,
+                27326,
+                257,
+                635,
+                2255,
+                282,
+                2786,
+                0,
+                50689
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8152344352320621,
+            "compression_ratio": 0.9183673469387755,
+            "no_speech_prob": 0.9299932718276978
+        }
+    ],
+    "language": "es"
+}
