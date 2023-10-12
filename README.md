@@ -17,7 +17,9 @@ Currently there is no interface or API where the data can be queried (coming in 
 
 ## Data
 
-Individual files in JSON format are provided under the `data` folder. Additionally, a script is provided to generate a file in CSV format with all records. Sample record:
+The data is available as a CSV file: https://www.kaggle.com/datasets/ivansabik/andres-manuel-lopez-obrador-amlo-speeches
+
+Individual files in JSON format are also provided under the `data` folder. Additionally, a script is provided to generate a file in CSV format with all records. Sample record:
 
 ```json
 {
@@ -86,7 +88,7 @@ export YOUTUBE_V3_API_KEY={YOUR_TOKEN}
 ```
 3. Run:
 ```
-python process.py
+python process.py && python transcribe.py
 ```
 4. To generate a single CSV file for the dataset run:
 ```
@@ -95,12 +97,11 @@ python generate_csv.py
 
 ## Future work
 
-- Filter out or annotate parts of videos where speaker is not AMLO. Even better add a new field with the speaker, but this could be quite challenging and would require manual work and curation
-- Exclude videos from speeches where main speaker is not AMLO (or does not include him)
-- Exclude videos which are not from a speech, conference, etc (like ads)
-- Add field or a way of identifying transcription method
 - Add persistence (db backend)
 - Add API
     - Handle gracefully phonetic coincidences (Krauze, Krause, Kraus, Krauz) using something like Metaphone or Baider-Morse
 - Add simple app to search and query the data
-- Add new filed with transcribed text without stop words
+- Add new field with transcribed text without stop words
+- Exclude videos from speeches where main speaker is not AMLO (or does not include him)
+- Exclude videos which are not from a speech or  conference
+- Filter out or annotate parts of videos where speaker is not AMLO. Even better add a new field with the speaker, but this could be quite challenging and would require manual work and curation

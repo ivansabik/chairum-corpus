@@ -1,0 +1,385 @@
+{
+    "text": " va a demostrar que se puede gobernar de otra manera utilizando como clave una palabra honestidad esta es la mayor riqueza de M\u00e9xico y de Veracruz se va a gobernar este estado con honestidad y eso es lo que representa Nariwa Mitrawa-Carci\u00e1 Quim\u00e9nez sauna y honestidad honestidad honestidad honestidad honestidad honestidad honestidad honestidad honestidad honestidad honestidad honestidad",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.0,
+            "text": " va a demostrar que se puede gobernar de otra manera",
+            "tokens": [
+                50364,
+                2773,
+                257,
+                41556,
+                5352,
+                631,
+                369,
+                8919,
+                352,
+                607,
+                20062,
+                368,
+                13623,
+                13913,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4155726432800293,
+            "compression_ratio": 1.2151898734177216,
+            "no_speech_prob": 0.2393454760313034
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.0,
+            "end": 15.0,
+            "text": " utilizando como clave una palabra",
+            "tokens": [
+                50764,
+                19906,
+                1806,
+                2617,
+                596,
+                946,
+                2002,
+                31702,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4155726432800293,
+            "compression_ratio": 1.2151898734177216,
+            "no_speech_prob": 0.2393454760313034
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 15.0,
+            "end": 17.0,
+            "text": " honestidad",
+            "tokens": [
+                51114,
+                3245,
+                4580,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4155726432800293,
+            "compression_ratio": 1.2151898734177216,
+            "no_speech_prob": 0.2393454760313034
+        },
+        {
+            "id": 3,
+            "seek": 1700,
+            "start": 17.0,
+            "end": 33.0,
+            "text": " esta es la mayor riqueza de M\u00e9xico y de Veracruz",
+            "tokens": [
+                50364,
+                5283,
+                785,
+                635,
+                10120,
+                367,
+                1925,
+                2394,
+                368,
+                28128,
+                288,
+                368,
+                4281,
+                326,
+                894,
+                89,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22662637233734131,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.12744243443012238
+        },
+        {
+            "id": 4,
+            "seek": 1700,
+            "start": 33.0,
+            "end": 39.0,
+            "text": " se va a gobernar este estado con honestidad",
+            "tokens": [
+                51164,
+                369,
+                2773,
+                257,
+                352,
+                607,
+                20062,
+                4065,
+                18372,
+                416,
+                3245,
+                4580,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22662637233734131,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.12744243443012238
+        },
+        {
+            "id": 5,
+            "seek": 1700,
+            "start": 39.0,
+            "end": 44.0,
+            "text": " y eso es lo que representa",
+            "tokens": [
+                51464,
+                288,
+                7287,
+                785,
+                450,
+                631,
+                49823,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22662637233734131,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.12744243443012238
+        },
+        {
+            "id": 6,
+            "seek": 4400,
+            "start": 44.0,
+            "end": 47.0,
+            "text": " Nariwa Mitrawa-Carci\u00e1 Quim\u00e9nez",
+            "tokens": [
+                50364,
+                426,
+                3504,
+                4151,
+                10821,
+                424,
+                4151,
+                12,
+                24437,
+                537,
+                842,
+                2326,
+                332,
+                526,
+                28018,
+                50514
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.0999148232596263,
+            "compression_ratio": 1.0163934426229508,
+            "no_speech_prob": 0.3070642054080963
+        },
+        {
+            "id": 7,
+            "seek": 4400,
+            "start": 47.0,
+            "end": 49.0,
+            "text": " sauna y honestidad",
+            "tokens": [
+                50514,
+                46654,
+                288,
+                3245,
+                4580,
+                50614
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.0999148232596263,
+            "compression_ratio": 1.0163934426229508,
+            "no_speech_prob": 0.3070642054080963
+        },
+        {
+            "id": 8,
+            "seek": 4400,
+            "start": 65.0,
+            "end": 69.0,
+            "text": " honestidad",
+            "tokens": [
+                51414,
+                3245,
+                4580,
+                51614
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.0999148232596263,
+            "compression_ratio": 1.0163934426229508,
+            "no_speech_prob": 0.3070642054080963
+        },
+        {
+            "id": 9,
+            "seek": 6900,
+            "start": 69.0,
+            "end": 73.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6131303787231446,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.38353365659713745
+        },
+        {
+            "id": 10,
+            "seek": 9900,
+            "start": 99.0,
+            "end": 103.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3199224233627319,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.2770881950855255
+        },
+        {
+            "id": 11,
+            "seek": 12900,
+            "start": 129.0,
+            "end": 133.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27602591514587405,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.34413740038871765
+        },
+        {
+            "id": 12,
+            "seek": 15900,
+            "start": 159.0,
+            "end": 163.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.388945484161377,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.21405112743377686
+        },
+        {
+            "id": 13,
+            "seek": 18900,
+            "start": 189.0,
+            "end": 193.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2890709400177002,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.38167062401771545
+        },
+        {
+            "id": 14,
+            "seek": 21900,
+            "start": 219.0,
+            "end": 223.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35809788703918455,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.4312129020690918
+        },
+        {
+            "id": 15,
+            "seek": 24900,
+            "start": 249.0,
+            "end": 253.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36748337745666504,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.4771277606487274
+        },
+        {
+            "id": 16,
+            "seek": 27900,
+            "start": 279.0,
+            "end": 283.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33327670097351075,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.43483561277389526
+        },
+        {
+            "id": 17,
+            "seek": 30900,
+            "start": 309.0,
+            "end": 313.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2793196439743042,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.5600283145904541
+        },
+        {
+            "id": 18,
+            "seek": 33900,
+            "start": 339.0,
+            "end": 343.0,
+            "text": " honestidad",
+            "tokens": [
+                50364,
+                3245,
+                4580,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23428573608398437,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.5269278287887573
+        }
+    ],
+    "language": "es"
+}

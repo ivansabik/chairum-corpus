@@ -1,0 +1,56 @@
+{
+    "text": " Ya cay\u00f3, la reforma ya cay\u00f3. Aqu\u00ed y ahora, con la coordinadora.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 11.0,
+            "text": " Ya cay\u00f3, la reforma ya cay\u00f3.",
+            "tokens": [
+                50364,
+                6080,
+                45776,
+                812,
+                11,
+                635,
+                8290,
+                64,
+                2478,
+                45776,
+                812,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5731525421142578,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.49086418747901917
+        },
+        {
+            "id": 1,
+            "seek": 1100,
+            "start": 11.0,
+            "end": 29.0,
+            "text": " Aqu\u00ed y ahora, con la coordinadora.",
+            "tokens": [
+                50364,
+                24386,
+                288,
+                9923,
+                11,
+                416,
+                635,
+                8285,
+                23020,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37348349889119464,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.3510240912437439
+        }
+    ],
+    "language": "es"
+}

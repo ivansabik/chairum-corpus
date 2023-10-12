@@ -50,11 +50,8 @@ def _process_video(video_metadata):
     processed_local_path = f"data/{video_id}.json"
     if os.path.isfile(processed_local_path):
         return
-    failed_no_transcript_found_path = f"failed/no_transcript_found/{video_id}.json"
-    if os.path.isfile(failed_no_transcript_found_path):
-        return
-    transcripts_disabled_path = f"failed/transcripts_disabled/{video_id}.json"
-    if os.path.isfile(transcripts_disabled_path):
+    failed_path = f"failed/{video_id}.json"
+    if os.path.isfile(failed_path):
         return
 
     # Retrieve or generate transcriptions
@@ -64,14 +61,14 @@ def _process_video(video_metadata):
         )
     except _errors.TranscriptsDisabled:
         print(f"Transcripts are disabled for video {video_id}")
-        with open(transcripts_disabled_path, "w") as _file:
+        with open(failed_path, "w") as _file:
             json.dump(video_metadata, _file, indent=4)
         return
     # Language for some videos is not Spanish - ES
     # Example: https://www.youtube.com/watch?v=k_rBgKb1y8U
     except _errors.NoTranscriptFound:
         print(f"No transcript available for video {video_id}")
-        with open(failed_no_transcript_found_path, "w") as _file:
+        with open(failed_path, "w") as _file:
             json.dump(video_metadata, _file, indent=4)
         return
 
@@ -79,6 +76,7 @@ def _process_video(video_metadata):
     for part in transcription_with_timestamps:
         transcription_text += f" {part['text']} "
     transcription_text = transcription_text.replace("  ", " ")
+    transcription_text = transcription_text.strip()
 
     if not video_metadata.get("videoInfo"):
         published_time_text = video_metadata["publishedTimeText"]["simpleText"]
