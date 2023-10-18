@@ -1,0 +1,272 @@
+{
+    "videoId": "UCBfAn93tmI",
+    "thumbnail": {
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCqlr2_gifA964HZsVbO6cZqOPOHg",
+                "width": 168,
+                "height": 94
+            },
+            {
+                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmaFfrWUTB9GivV0e_fM0p_63_BQ",
+                "width": 196,
+                "height": 110
+            },
+            {
+                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBngZ5cA_-gexEzIHM-ax9SrRJHdQ",
+                "width": 246,
+                "height": 138
+            },
+            {
+                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcikFMc9rvZHuJ7Q9DGBXZUQWwfg",
+                "width": 336,
+                "height": 188
+            }
+        ]
+    },
+    "title": {
+        "runs": [
+            {
+                "text": "Conferencia de prensa en vivo desde Palacio Nacional. Mi\u00e9rcoles 18 de octubre 2023 | Presidente AMLO"
+            }
+        ],
+        "accessibility": {
+            "accessibilityData": {
+                "label": "Conferencia de prensa en vivo desde Palacio Nacional. Mi\u00e9rcoles 18 de octubre 2023 | Presidente AMLO by Andr\u00e9s Manuel L\u00f3pez Obrador 238,493 views Streamed 8 minutes ago 2 hours, 50 minutes"
+            }
+        }
+    },
+    "index": {
+        "simpleText": "1"
+    },
+    "shortBylineText": {
+        "runs": [
+            {
+                "text": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "navigationEndpoint": {
+                    "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "url": "/@lopezobrador",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                        }
+                    },
+                    "browseEndpoint": {
+                        "browseId": "UCxEgOKuI-n-WOJaNcisHvSg",
+                        "canonicalBaseUrl": "/@lopezobrador"
+                    }
+                }
+            }
+        ]
+    },
+    "lengthText": {
+        "accessibility": {
+            "accessibilityData": {
+                "label": "2 hours, 50 minutes, 42 seconds"
+            }
+        },
+        "simpleText": "2:50:42"
+    },
+    "navigationEndpoint": {
+        "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfAyCnBscHBfdmlkZW9aJFZMUExSbmxSR2FyLV8yOTZLVHNWTDBSNk1FYnB3SnpEOHBwQZoBAxD6LA==",
+        "commandMetadata": {
+            "webCommandMetadata": {
+                "url": "/watch?v=UCBfAn93tmI&list=PLRnlRGar-_296KTsVL0R6MEbpwJzD8ppA&index=1&pp=iAQB",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+            }
+        },
+        "watchEndpoint": {
+            "videoId": "UCBfAn93tmI",
+            "playlistId": "PLRnlRGar-_296KTsVL0R6MEbpwJzD8ppA",
+            "index": 0,
+            "params": "OAI%3D",
+            "playerParams": "iAQB",
+            "loggingContext": {
+                "vssLoggingContext": {
+                    "serializedContextData": "GiJQTFJubFJHYXItXzI5NktUc1ZMMFI2TUVicHdKekQ4cHBB"
+                }
+            },
+            "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                        "url": "https://rr2---sn-q4flrnel.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&beids=24350018&msp=1&odepv=1&id=50205f027f77b662&ip=104.179.42.180&initcwndbps=727500&mt=1697644154&oweuc="
+                    }
+                }
+            }
+        }
+    },
+    "lengthSeconds": "10242",
+    "trackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+    "isPlayable": true,
+    "menu": {
+        "menuRenderer": {
+            "items": [
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Add to queue"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true
+                                }
+                            },
+                            "signalServiceEndpoint": {
+                                "signal": "CLIENT_SIGNAL",
+                                "actions": [
+                                    {
+                                        "clickTrackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                        "addToPlaylistCommand": {
+                                            "openMiniplayer": true,
+                                            "videoId": "UCBfAn93tmI",
+                                            "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                            "onCreateListCommand": {
+                                                "clickTrackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "sendPost": true,
+                                                        "apiUrl": "/youtubei/v1/playlist/create"
+                                                    }
+                                                },
+                                                "createPlaylistServiceEndpoint": {
+                                                    "videoIds": [
+                                                        "UCBfAn93tmI"
+                                                    ],
+                                                    "params": "CAQ%3D"
+                                                }
+                                            },
+                                            "videoIds": [
+                                                "UCBfAn93tmI"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw"
+                    }
+                },
+                {
+                    "menuServiceItemDownloadRenderer": {
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CLYDENGqBRgHIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                            "offlineVideoEndpoint": {
+                                "videoId": "UCBfAn93tmI",
+                                "onAddCommand": {
+                                    "clickTrackingParams": "CLYDENGqBRgHIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                    "getDownloadActionCommand": {
+                                        "videoId": "UCBfAn93tmI",
+                                        "params": "CAI%3D"
+                                    }
+                                }
+                            }
+                        },
+                        "trackingParams": "CLYDENGqBRgHIhMIkLSUv_r_gQMVcI3lBx3JgwXw"
+                    }
+                },
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Share"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "SHARE"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/share/get_share_panel"
+                                }
+                            },
+                            "shareEntityServiceEndpoint": {
+                                "serializedShareEntity": "CgtVQ0JmQW45M3RtSQ%3D%3D",
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                                        "openPopupAction": {
+                                            "popup": {
+                                                "unifiedSharePanelRenderer": {
+                                                    "trackingParams": "CLUDEI5iIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                                    "showLoadingSpinner": true
+                                                }
+                                            },
+                                            "popupType": "DIALOG",
+                                            "beReused": true
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                        "hasSeparator": true
+                    }
+                }
+            ],
+            "trackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Action menu"
+                }
+            }
+        }
+    },
+    "thumbnailOverlays": [
+        {
+            "thumbnailOverlayTimeStatusRenderer": {
+                "text": {
+                    "accessibility": {
+                        "accessibilityData": {
+                            "label": "2 hours, 50 minutes, 42 seconds"
+                        }
+                    },
+                    "simpleText": "2:50:42"
+                },
+                "style": "DEFAULT"
+            }
+        },
+        {
+            "thumbnailOverlayNowPlayingRenderer": {
+                "text": {
+                    "runs": [
+                        {
+                            "text": "Now playing"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "videoInfo": {
+        "runs": [
+            {
+                "text": "238K views"
+            },
+            {
+                "text": " \u2022 "
+            },
+            {
+                "text": "Streamed 8 minutes ago"
+            }
+        ]
+    },
+    "playlist_id": "PLRnlRGar-_296KTsVL0R6MEbpwJzD8ppA",
+    "playlist_title": "Conferencias de prensa matutinas"
+}
