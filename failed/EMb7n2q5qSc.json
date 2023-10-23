@@ -1,24 +1,24 @@
 {
-    "videoId": "UCBfAn93tmI",
+    "videoId": "EMb7n2q5qSc",
     "thumbnail": {
         "thumbnails": [
             {
-                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCqlr2_gifA964HZsVbO6cZqOPOHg",
+                "url": "https://i.ytimg.com/vi/EMb7n2q5qSc/hqdefault_live.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJzQa7aoGNKdAXwJV6Us8g1XLsNQ",
                 "width": 168,
                 "height": 94
             },
             {
-                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmaFfrWUTB9GivV0e_fM0p_63_BQ",
+                "url": "https://i.ytimg.com/vi/EMb7n2q5qSc/hqdefault_live.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8KyRt4o0B0tYs3Z5174XftsO-Ww",
                 "width": 196,
                 "height": 110
             },
             {
-                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBngZ5cA_-gexEzIHM-ax9SrRJHdQ",
+                "url": "https://i.ytimg.com/vi/EMb7n2q5qSc/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcWSEp8XidnwfdPw_xkhe1VemcVw",
                 "width": 246,
                 "height": 138
             },
             {
-                "url": "https://i.ytimg.com/vi/UCBfAn93tmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcikFMc9rvZHuJ7Q9DGBXZUQWwfg",
+                "url": "https://i.ytimg.com/vi/EMb7n2q5qSc/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsbg6-dn9Ox96am8USyWN8DWLucg",
                 "width": 336,
                 "height": 188
             }
@@ -27,12 +27,12 @@
     "title": {
         "runs": [
             {
-                "text": "Conferencia de prensa en vivo desde Palacio Nacional. Mi\u00e9rcoles 18 de octubre 2023 | Presidente AMLO"
+                "text": "Conferencia de prensa en vivo, desde Palacio Nacional. Lunes 23 de octubre 2023 | Presidente AMLO"
             }
         ],
         "accessibility": {
             "accessibilityData": {
-                "label": "Conferencia de prensa en vivo desde Palacio Nacional. Mi\u00e9rcoles 18 de octubre 2023 | Presidente AMLO by Andr\u00e9s Manuel L\u00f3pez Obrador 238,493 views Streamed 8 minutes ago 2 hours, 50 minutes"
+                "label": "Conferencia de prensa en vivo, desde Palacio Nacional. Lunes 23 de octubre 2023 | Presidente AMLO by Andr\u00e9s Manuel L\u00f3pez Obrador 16,987 views"
             }
         }
     },
@@ -44,7 +44,7 @@
             {
                 "text": "Andr\u00e9s Manuel L\u00f3pez Obrador",
                 "navigationEndpoint": {
-                    "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                    "clickTrackingParams": "CLQDEMY0GAAiEwjDmpLrn4yCAxW5guUHHYYjCJ0=",
                     "commandMetadata": {
                         "webCommandMetadata": {
                             "url": "/@lopezobrador",
@@ -61,25 +61,17 @@
             }
         ]
     },
-    "lengthText": {
-        "accessibility": {
-            "accessibilityData": {
-                "label": "2 hours, 50 minutes, 42 seconds"
-            }
-        },
-        "simpleText": "2:50:42"
-    },
     "navigationEndpoint": {
-        "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfAyCnBscHBfdmlkZW9aJFZMUExSbmxSR2FyLV8yOTZLVHNWTDBSNk1FYnB3SnpEOHBwQZoBAxD6LA==",
+        "clickTrackingParams": "CLQDEMY0GAAiEwjDmpLrn4yCAxW5guUHHYYjCJ0yCnBscHBfdmlkZW9aJFZMUExSbmxSR2FyLV8yOTZLVHNWTDBSNk1FYnB3SnpEOHBwQZoBAxD6LA==",
         "commandMetadata": {
             "webCommandMetadata": {
-                "url": "/watch?v=UCBfAn93tmI&list=PLRnlRGar-_296KTsVL0R6MEbpwJzD8ppA&index=1&pp=iAQB",
+                "url": "/watch?v=EMb7n2q5qSc&list=PLRnlRGar-_296KTsVL0R6MEbpwJzD8ppA&index=1&pp=iAQB",
                 "webPageType": "WEB_PAGE_TYPE_WATCH",
                 "rootVe": 3832
             }
         },
         "watchEndpoint": {
-            "videoId": "UCBfAn93tmI",
+            "videoId": "EMb7n2q5qSc",
             "playlistId": "PLRnlRGar-_296KTsVL0R6MEbpwJzD8ppA",
             "index": 0,
             "params": "OAI%3D",
@@ -92,14 +84,13 @@
             "watchEndpointSupportedOnesieConfig": {
                 "html5PlaybackOnesieConfig": {
                     "commonConfig": {
-                        "url": "https://rr2---sn-q4flrnel.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&beids=24350018&msp=1&odepv=1&id=50205f027f77b662&ip=104.179.42.180&initcwndbps=727500&mt=1697644154&oweuc="
+                        "url": "https://rr2---sn-q4fl6nd6.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&beids=24350018&msp=1&odepv=1&id=10c6fb9f6ab9a927&ip=104.179.42.180&initcwndbps=670000&mt=1698066545&oweuc="
                     }
                 }
             }
         }
     },
-    "lengthSeconds": "10242",
-    "trackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+    "trackingParams": "CLQDEMY0GAAiEwjDmpLrn4yCAxW5guUHHYYjCJ0=",
     "isPlayable": true,
     "menu": {
         "menuRenderer": {
@@ -117,7 +108,7 @@
                             "iconType": "ADD_TO_QUEUE_TAIL"
                         },
                         "serviceEndpoint": {
-                            "clickTrackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                            "clickTrackingParams": "CLcDEP6YBBgGIhMIw5qS65-MggMVuYLlBx2GIwid",
                             "commandMetadata": {
                                 "webCommandMetadata": {
                                     "sendPost": true
@@ -127,13 +118,13 @@
                                 "signal": "CLIENT_SIGNAL",
                                 "actions": [
                                     {
-                                        "clickTrackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                        "clickTrackingParams": "CLcDEP6YBBgGIhMIw5qS65-MggMVuYLlBx2GIwid",
                                         "addToPlaylistCommand": {
                                             "openMiniplayer": true,
-                                            "videoId": "UCBfAn93tmI",
+                                            "videoId": "EMb7n2q5qSc",
                                             "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
                                             "onCreateListCommand": {
-                                                "clickTrackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                                "clickTrackingParams": "CLcDEP6YBBgGIhMIw5qS65-MggMVuYLlBx2GIwid",
                                                 "commandMetadata": {
                                                     "webCommandMetadata": {
                                                         "sendPost": true,
@@ -142,38 +133,38 @@
                                                 },
                                                 "createPlaylistServiceEndpoint": {
                                                     "videoIds": [
-                                                        "UCBfAn93tmI"
+                                                        "EMb7n2q5qSc"
                                                     ],
                                                     "params": "CAQ%3D"
                                                 }
                                             },
                                             "videoIds": [
-                                                "UCBfAn93tmI"
+                                                "EMb7n2q5qSc"
                                             ]
                                         }
                                     }
                                 ]
                             }
                         },
-                        "trackingParams": "CLcDEP6YBBgGIhMIkLSUv_r_gQMVcI3lBx3JgwXw"
+                        "trackingParams": "CLcDEP6YBBgGIhMIw5qS65-MggMVuYLlBx2GIwid"
                     }
                 },
                 {
                     "menuServiceItemDownloadRenderer": {
                         "serviceEndpoint": {
-                            "clickTrackingParams": "CLYDENGqBRgHIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                            "clickTrackingParams": "CLYDENGqBRgHIhMIw5qS65-MggMVuYLlBx2GIwid",
                             "offlineVideoEndpoint": {
-                                "videoId": "UCBfAn93tmI",
+                                "videoId": "EMb7n2q5qSc",
                                 "onAddCommand": {
-                                    "clickTrackingParams": "CLYDENGqBRgHIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                    "clickTrackingParams": "CLYDENGqBRgHIhMIw5qS65-MggMVuYLlBx2GIwid",
                                     "getDownloadActionCommand": {
-                                        "videoId": "UCBfAn93tmI",
+                                        "videoId": "EMb7n2q5qSc",
                                         "params": "CAI%3D"
                                     }
                                 }
                             }
                         },
-                        "trackingParams": "CLYDENGqBRgHIhMIkLSUv_r_gQMVcI3lBx3JgwXw"
+                        "trackingParams": "CLYDENGqBRgHIhMIw5qS65-MggMVuYLlBx2GIwid"
                     }
                 },
                 {
@@ -189,7 +180,7 @@
                             "iconType": "SHARE"
                         },
                         "serviceEndpoint": {
-                            "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                            "clickTrackingParams": "CLQDEMY0GAAiEwjDmpLrn4yCAxW5guUHHYYjCJ0=",
                             "commandMetadata": {
                                 "webCommandMetadata": {
                                     "sendPost": true,
@@ -197,14 +188,14 @@
                                 }
                             },
                             "shareEntityServiceEndpoint": {
-                                "serializedShareEntity": "CgtVQ0JmQW45M3RtSQ%3D%3D",
+                                "serializedShareEntity": "CgtFTWI3bjJxNXFTYw%3D%3D",
                                 "commands": [
                                     {
-                                        "clickTrackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                                        "clickTrackingParams": "CLQDEMY0GAAiEwjDmpLrn4yCAxW5guUHHYYjCJ0=",
                                         "openPopupAction": {
                                             "popup": {
                                                 "unifiedSharePanelRenderer": {
-                                                    "trackingParams": "CLUDEI5iIhMIkLSUv_r_gQMVcI3lBx3JgwXw",
+                                                    "trackingParams": "CLUDEI5iIhMIw5qS65-MggMVuYLlBx2GIwid",
                                                     "showLoadingSpinner": true
                                                 }
                                             },
@@ -215,12 +206,12 @@
                                 ]
                             }
                         },
-                        "trackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+                        "trackingParams": "CLQDEMY0GAAiEwjDmpLrn4yCAxW5guUHHYYjCJ0=",
                         "hasSeparator": true
                     }
                 }
             ],
-            "trackingParams": "CLQDEMY0GAAiEwiQtJS_-v-BAxVwjeUHHcmDBfA=",
+            "trackingParams": "CLQDEMY0GAAiEwjDmpLrn4yCAxW5guUHHYYjCJ0=",
             "accessibility": {
                 "accessibilityData": {
                     "label": "Action menu"
@@ -232,14 +223,21 @@
         {
             "thumbnailOverlayTimeStatusRenderer": {
                 "text": {
+                    "runs": [
+                        {
+                            "text": "LIVE"
+                        }
+                    ],
                     "accessibility": {
                         "accessibilityData": {
-                            "label": "2 hours, 50 minutes, 42 seconds"
+                            "label": "LIVE"
                         }
-                    },
-                    "simpleText": "2:50:42"
+                    }
                 },
-                "style": "DEFAULT"
+                "style": "LIVE",
+                "icon": {
+                    "iconType": "LIVE"
+                }
             }
         },
         {
@@ -257,13 +255,10 @@
     "videoInfo": {
         "runs": [
             {
-                "text": "238K views"
+                "text": "10K"
             },
             {
-                "text": " \u2022 "
-            },
-            {
-                "text": "Streamed 8 minutes ago"
+                "text": " watching"
             }
         ]
     },

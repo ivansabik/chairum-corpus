@@ -1,0 +1,46 @@
+{
+    "text": " Buenas tardes. \u00bfQu\u00e9 est\u00e1 haciendo?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 20.0,
+            "text": " Buenas tardes.",
+            "tokens": [
+                50364,
+                4078,
+                11581,
+                21057,
+                279,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9277631640434265,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.4970022737979889
+        },
+        {
+            "id": 1,
+            "seek": 6000,
+            "start": 60.0,
+            "end": 61.0,
+            "text": " \u00bfQu\u00e9 est\u00e1 haciendo?",
+            "tokens": [
+                50364,
+                3841,
+                15137,
+                3192,
+                20509,
+                30,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7135723233222961,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.7074335217475891
+        }
+    ],
+    "language": "es"
+}
