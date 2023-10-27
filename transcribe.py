@@ -39,7 +39,10 @@ for video in videos:
     except exceptions.VideoPrivate:
         print(f"Failed obtaining audio for {video_id} (VideoPrivate)")
         continue
-
+    # EMb7n2q5qSc is streaming live and cannot be loaded
+    except exceptions.LiveStreamError:
+        print(f"Failed obtaining audio for {video_id} (LiveStreamError)")
+        continue
     print(f"Transcribing video {video_id}")
     whisper_model = whisper.load_model("medium")
     # TODO: Try tweaking the patience and bean_size, eg. patience=2, beam_size=5
@@ -77,6 +80,7 @@ for video in videos:
             video_length_seconds = int(video_metadata["lengthSeconds"])
         else:
             print(f"Length not found for video {video_id}")
+            video_length_seconds = None
 
     video = {
         "video_id": video_id,
