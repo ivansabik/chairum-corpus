@@ -7,7 +7,7 @@
 ![Mexico is fine](./thij_ij_fine.png)
 
 A corpus of publicly available speeches from Mexican president Andres Manuel Lopez Obrador. 
-Currently data is sourced exclusively from YouTube. For some videos it was not possible to get the automatically generated subtitles to source the transcriptions, in future iterations a mechanism will be added to translate them into text.
+Currently data is sourced exclusively from YouTube. For some videos it was not possible to get the automatically generated subtitles to source the transcriptions, for those cases a transcription is done using Open AI Whisper.
 
 *Image source: https://twitter.com/marianojuarez/status/1148739501604450304*
 
@@ -74,8 +74,6 @@ Individual files in JSON format are also provided under the `data` folder. Addit
 }
 ```
 
-Whenever it's not possible to retrieve the transcriptions from YouTube, metadata for the videos is stored under `failed` so that an alternative mechanism for retrieving or generating them can be used in future iterations.
-
 ## How to run?
 
 1. Install requirements:
@@ -103,5 +101,5 @@ python generate_csv.py
 - Add simple app to search and query the data
 - Add new field with transcribed text without stop words
 - Exclude videos from speeches where main speaker is not AMLO (or does not include him)
-- Exclude videos which are not from a speech or  conference
+- Exclude videos which are not from a speech or conference
 - Filter out or annotate parts of videos where speaker is not AMLO. Even better add a new field with the speaker, but this could be quite challenging and would require manual work and curation
