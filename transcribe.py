@@ -3,7 +3,7 @@ import json
 import os
 
 import whisper
-from pytube import YouTube, exceptions
+from pytubefix import YouTube, exceptions
 from timelength import TimeLength
 
 videos = [f for f in os.listdir("failed")]

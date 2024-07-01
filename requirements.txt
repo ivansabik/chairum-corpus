@@ -1,7 +1,7 @@
 ffmpeg-python==0.2.0
-openai-whisper==20230306
+openai-whisper==20231117
 pandas==1.3.5
-pytube==15.0.0
+pytubefix==5.7.0
 requests==2.31.0
 scrapetube==2.5.1
 timelength==1.1.7
