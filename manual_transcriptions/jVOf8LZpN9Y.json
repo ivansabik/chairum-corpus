@@ -1,0 +1,379 @@
+{
+    "text": " en ese terreno espacial. Muchas gracias. Gracias. Es algo extraordinario y excepcional. Este es el robo que lanz\u00f3 este. Este es una foto de M\u00e9xico de espacio. Y este es el espacio de Aztec, que es un sat\u00e9lite mexicano que fue lanzado desde la Estaci\u00f3n Internacional Espacial. Muchas gracias. Queremos que tengas eso. Muchas gracias. Muchas gracias. Muchas gracias. Muchas gracias. Muchas gracias. Muchas gracias. Gracias.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.0,
+            "text": " en ese terreno espacial.",
+            "tokens": [
+                50364,
+                465,
+                10167,
+                1796,
+                48207,
+                7089,
+                25980,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6338952382405599,
+            "compression_ratio": 1.2903225806451613,
+            "no_speech_prob": 0.15643315017223358
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.0,
+            "end": 7.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                50664,
+                35669,
+                16611,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6338952382405599,
+            "compression_ratio": 1.2903225806451613,
+            "no_speech_prob": 0.15643315017223358
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.0,
+            "end": 10.0,
+            "text": " Gracias.",
+            "tokens": [
+                50814,
+                26909,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6338952382405599,
+            "compression_ratio": 1.2903225806451613,
+            "no_speech_prob": 0.15643315017223358
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.0,
+            "end": 13.0,
+            "text": " Es algo extraordinario y excepcional.",
+            "tokens": [
+                50864,
+                2313,
+                8655,
+                27396,
+                4912,
+                288,
+                454,
+                27493,
+                42395,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6338952382405599,
+            "compression_ratio": 1.2903225806451613,
+            "no_speech_prob": 0.15643315017223358
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 15.0,
+            "end": 19.0,
+            "text": " Este es el robo que lanz\u00f3 este.",
+            "tokens": [
+                51114,
+                16105,
+                785,
+                806,
+                744,
+                1763,
+                631,
+                38363,
+                812,
+                4065,
+                13,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6338952382405599,
+            "compression_ratio": 1.2903225806451613,
+            "no_speech_prob": 0.15643315017223358
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 20.0,
+            "end": 24.0,
+            "text": " Este es una foto de M\u00e9xico de espacio.",
+            "tokens": [
+                51364,
+                16105,
+                785,
+                2002,
+                19176,
+                368,
+                28128,
+                368,
+                33845,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6338952382405599,
+            "compression_ratio": 1.2903225806451613,
+            "no_speech_prob": 0.15643315017223358
+        },
+        {
+            "id": 6,
+            "seek": 2400,
+            "start": 24.0,
+            "end": 29.0,
+            "text": " Y este es el espacio de Aztec,",
+            "tokens": [
+                50364,
+                398,
+                4065,
+                785,
+                806,
+                7089,
+                326,
+                1004,
+                368,
+                7607,
+                975,
+                66,
+                11,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 7,
+            "seek": 2400,
+            "start": 29.0,
+            "end": 33.0,
+            "text": " que es un sat\u00e9lite mexicano",
+            "tokens": [
+                50614,
+                631,
+                785,
+                517,
+                3227,
+                8025,
+                642,
+                28759,
+                38028,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 8,
+            "seek": 2400,
+            "start": 33.0,
+            "end": 41.0,
+            "text": " que fue lanzado desde la Estaci\u00f3n Internacional Espacial.",
+            "tokens": [
+                50814,
+                631,
+                9248,
+                38363,
+                1573,
+                10188,
+                635,
+                4410,
+                3482,
+                4844,
+                13608,
+                24978,
+                25980,
+                13,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 9,
+            "seek": 2400,
+            "start": 45.0,
+            "end": 46.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                51414,
+                35669,
+                16611,
+                13,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 10,
+            "seek": 2400,
+            "start": 46.0,
+            "end": 47.0,
+            "text": " Queremos que tengas eso.",
+            "tokens": [
+                51464,
+                2326,
+                19065,
+                631,
+                10370,
+                296,
+                7287,
+                13,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 11,
+            "seek": 2400,
+            "start": 47.0,
+            "end": 49.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                51514,
+                35669,
+                16611,
+                13,
+                51614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 12,
+            "seek": 2400,
+            "start": 49.0,
+            "end": 50.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                51614,
+                35669,
+                16611,
+                13,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 13,
+            "seek": 2400,
+            "start": 50.0,
+            "end": 51.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                51664,
+                35669,
+                16611,
+                13,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 14,
+            "seek": 2400,
+            "start": 52.0,
+            "end": 53.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                51764,
+                35669,
+                16611,
+                13,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.45027501424153643,
+            "compression_ratio": 1.651851851851852,
+            "no_speech_prob": 0.07118843495845795
+        },
+        {
+            "id": 15,
+            "seek": 5300,
+            "start": 53.0,
+            "end": 54.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                50364,
+                35669,
+                16611,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16350489312952216,
+            "compression_ratio": 1.1481481481481481,
+            "no_speech_prob": 0.42428168654441833
+        },
+        {
+            "id": 16,
+            "seek": 5300,
+            "start": 54.0,
+            "end": 55.0,
+            "text": " Muchas gracias.",
+            "tokens": [
+                50414,
+                35669,
+                16611,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16350489312952216,
+            "compression_ratio": 1.1481481481481481,
+            "no_speech_prob": 0.42428168654441833
+        },
+        {
+            "id": 17,
+            "seek": 8300,
+            "start": 83.0,
+            "end": 85.0,
+            "text": " Gracias.",
+            "tokens": [
+                50414,
+                26909,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9418533325195313,
+            "compression_ratio": 0.5,
+            "no_speech_prob": 0.9849478602409363
+        }
+    ],
+    "language": "es"
+}

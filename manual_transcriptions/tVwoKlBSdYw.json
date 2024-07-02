@@ -1,0 +1,510 @@
+{
+    "text": " GRAND? . No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. No es un problema. Mucho gusto. Muchas felicidades. Gracias. Gracias. Muchas gracias. Muchas gracias. \u00bfTanto tiempo sin verte? S\u00ed, gracias. Pero es messas\u2026 Me lumpro por ti...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 11.540000000000001,
+            "text": " GRAND?",
+            "tokens": [
+                50364,
+                10903,
+                8070,
+                30,
+                50941
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.38517815726144,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.4505527913570404
+        },
+        {
+            "id": 1,
+            "seek": 1154,
+            "start": 11.54,
+            "end": 39.1,
+            "text": " .",
+            "tokens": [
+                50364,
+                2411,
+                51742
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.7137811183929443,
+            "compression_ratio": 0.1111111111111111,
+            "no_speech_prob": 0.5710954666137695
+        },
+        {
+            "id": 2,
+            "seek": 4154,
+            "start": 41.54,
+            "end": 43.54,
+            "text": " No es un problema.",
+            "tokens": [
+                50364,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 3,
+            "seek": 4154,
+            "start": 43.54,
+            "end": 45.54,
+            "text": " No es un problema.",
+            "tokens": [
+                50464,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 4,
+            "seek": 4154,
+            "start": 45.54,
+            "end": 47.54,
+            "text": " No es un problema.",
+            "tokens": [
+                50564,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 5,
+            "seek": 4154,
+            "start": 47.54,
+            "end": 49.54,
+            "text": " No es un problema.",
+            "tokens": [
+                50664,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 6,
+            "seek": 4154,
+            "start": 49.54,
+            "end": 51.54,
+            "text": " No es un problema.",
+            "tokens": [
+                50764,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 7,
+            "seek": 4154,
+            "start": 51.54,
+            "end": 53.54,
+            "text": " No es un problema.",
+            "tokens": [
+                50864,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 8,
+            "seek": 4154,
+            "start": 53.54,
+            "end": 55.54,
+            "text": " No es un problema.",
+            "tokens": [
+                50964,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 9,
+            "seek": 4154,
+            "start": 55.54,
+            "end": 57.54,
+            "text": " No es un problema.",
+            "tokens": [
+                51064,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 10,
+            "seek": 4154,
+            "start": 57.54,
+            "end": 59.54,
+            "text": " No es un problema.",
+            "tokens": [
+                51164,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 11,
+            "seek": 4154,
+            "start": 59.54,
+            "end": 61.54,
+            "text": " No es un problema.",
+            "tokens": [
+                51264,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 12,
+            "seek": 4154,
+            "start": 61.54,
+            "end": 63.54,
+            "text": " No es un problema.",
+            "tokens": [
+                51364,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 13,
+            "seek": 4154,
+            "start": 63.54,
+            "end": 65.53999999999999,
+            "text": " No es un problema.",
+            "tokens": [
+                51464,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 14,
+            "seek": 4154,
+            "start": 65.53999999999999,
+            "end": 67.53999999999999,
+            "text": " No es un problema.",
+            "tokens": [
+                51564,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 15,
+            "seek": 4154,
+            "start": 67.53999999999999,
+            "end": 69.53999999999999,
+            "text": " No es un problema.",
+            "tokens": [
+                51664,
+                883,
+                785,
+                517,
+                12395,
+                13,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2999214935302734,
+            "compression_ratio": 8.833333333333334,
+            "no_speech_prob": 0.7405254244804382
+        },
+        {
+            "id": 16,
+            "seek": 6954,
+            "start": 69.54,
+            "end": 71.54,
+            "text": " Mucho gusto.",
+            "tokens": [
+                50364,
+                12313,
+                78,
+                38723,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38608774772057164,
+            "compression_ratio": 0.8421052631578947,
+            "no_speech_prob": 0.26262107491493225
+        },
+        {
+            "id": 17,
+            "seek": 6954,
+            "start": 83.54,
+            "end": 85.54,
+            "text": " Muchas felicidades.",
+            "tokens": [
+                51064,
+                35669,
+                49986,
+                10284,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38608774772057164,
+            "compression_ratio": 0.8421052631578947,
+            "no_speech_prob": 0.26262107491493225
+        },
+        {
+            "id": 18,
+            "seek": 9954,
+            "start": 99.54,
+            "end": 101.54,
+            "text": " Gracias.",
+            "tokens": [
+                50364,
+                26909,
+                13,
+                50464
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.5350804609410903,
+            "compression_ratio": 1.435483870967742,
+            "no_speech_prob": 0.10148004442453384
+        },
+        {
+            "id": 19,
+            "seek": 9954,
+            "start": 101.54,
+            "end": 103.54,
+            "text": " Gracias.",
+            "tokens": [
+                50464,
+                26909,
+                13,
+                50564
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.5350804609410903,
+            "compression_ratio": 1.435483870967742,
+            "no_speech_prob": 0.10148004442453384
+        },
+        {
+            "id": 20,
+            "seek": 9954,
+            "start": 113.54,
+            "end": 115.54,
+            "text": " Muchas gracias.",
+            "tokens": [
+                51064,
+                35669,
+                16611,
+                13,
+                51164
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.5350804609410903,
+            "compression_ratio": 1.435483870967742,
+            "no_speech_prob": 0.10148004442453384
+        },
+        {
+            "id": 21,
+            "seek": 9954,
+            "start": 115.54,
+            "end": 117.54,
+            "text": " Muchas gracias.",
+            "tokens": [
+                51164,
+                35669,
+                16611,
+                13,
+                51264
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.5350804609410903,
+            "compression_ratio": 1.435483870967742,
+            "no_speech_prob": 0.10148004442453384
+        },
+        {
+            "id": 22,
+            "seek": 9954,
+            "start": 117.54,
+            "end": 119.54,
+            "text": " \u00bfTanto tiempo sin verte?",
+            "tokens": [
+                51264,
+                3841,
+                51,
+                5857,
+                11772,
+                3343,
+                16167,
+                30,
+                51364
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.5350804609410903,
+            "compression_ratio": 1.435483870967742,
+            "no_speech_prob": 0.10148004442453384
+        },
+        {
+            "id": 23,
+            "seek": 9954,
+            "start": 119.54,
+            "end": 121.54,
+            "text": " S\u00ed, gracias.",
+            "tokens": [
+                51364,
+                12375,
+                11,
+                16611,
+                13,
+                51464
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.5350804609410903,
+            "compression_ratio": 1.435483870967742,
+            "no_speech_prob": 0.10148004442453384
+        },
+        {
+            "id": 24,
+            "seek": 12954,
+            "start": 129.54,
+            "end": 130.85999999999999,
+            "text": " Pero es messas\u2026",
+            "tokens": [
+                50364,
+                9377,
+                785,
+                2082,
+                296,
+                1260,
+                50430
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.705055236816406,
+            "compression_ratio": 0.8409090909090909,
+            "no_speech_prob": 0.4544496238231659
+        },
+        {
+            "id": 25,
+            "seek": 12954,
+            "start": 131.22,
+            "end": 132.85999999999999,
+            "text": " Me lumpro por ti...",
+            "tokens": [
+                50448,
+                1923,
+                25551,
+                340,
+                1515,
+                8757,
+                485,
+                50530
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.705055236816406,
+            "compression_ratio": 0.8409090909090909,
+            "no_speech_prob": 0.4544496238231659
+        }
+    ],
+    "language": "es"
+}
