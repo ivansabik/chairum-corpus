@@ -1,0 +1,26 @@
+{
+    "text": "NINGN Xuan Y\u00fc",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 9000,
+            "start": 90.0,
+            "end": 107.58,
+            "text": "NINGN Xuan Y\u00fc",
+            "tokens": [
+                50364,
+                28481,
+                45,
+                45292,
+                398,
+                774,
+                51243
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -5.483005046844482,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.3404744565486908
+        }
+    ],
+    "language": "es"
+}
