@@ -1,17 +1,23 @@
 import datetime
 import json
 import os
+import xml
 
 import requests
 import scrapetube
+from aws_lambda_powertools import Logger
 from timelength import TimeLength
 from youtube_transcript_api import YouTubeTranscriptApi, _errors
 
+AMLO_CHANNEL_ID = "UCxEgOKuI-n-WOJaNcisHvSg"
+SHEINBAUM_CHANNEL_ID = "UCvzHrtf9by1-UY67SfZse8w"
 
-def handler():
+logger = Logger()
+
+
+def handler(channel_id):
     # Get a list of all playlists in the channel
     api_key = os.environ["YOUTUBE_V3_API_KEY"]
-    channel_id = "UCxEgOKuI-n-WOJaNcisHvSg"
     playlists = requests.get(
         "https://www.googleapis.com/youtube/v3/playlists",
         params={
@@ -47,27 +53,32 @@ def _process_video(video_metadata):
     video_id = video_metadata["videoId"]
 
     # Check if video has already been processed
-    processed_local_path = f"data/{video_id}.json"
-    if os.path.isfile(processed_local_path):
-        return
-    failed_path = f"failed/{video_id}.json"
-    if os.path.isfile(failed_path):
-        return
+    for path in ["data", "failed"]:
+        local_path = f"{path}/{video_id}.json"
+        if os.path.isfile(local_path):
+            logger.info("File already exists", extra={"local_path": local_path})
+            return
 
     # Retrieve or generate transcriptions
+    failed_path = f"failed/{video_id}.json"
+    logger.info("Obtaining transcriptions", extra={"video_id": video_id})
     try:
         transcription_with_timestamps = YouTubeTranscriptApi.get_transcript(
             video_id, languages=["es"]
         )
     except _errors.TranscriptsDisabled:
-        print(f"Transcripts are disabled for video {video_id}")
+        logger.warning("Transcripts are disabled", extra={"video_id": video_id})
         with open(failed_path, "w") as _file:
             json.dump(video_metadata, _file, indent=4)
+        return
+    # See https://github.com/jdepoix/youtube-transcript-api/issues/320
+    except xml.etree.ElementTree.ParseError:
+        logger.warning("Retrieving transcript failed", extra={"video_id": video_id})
         return
     # Language for some videos is not Spanish - ES
     # Example: https://www.youtube.com/watch?v=k_rBgKb1y8U
     except _errors.NoTranscriptFound:
-        print(f"No transcript available for video {video_id}")
+        logger.warning("No transcript available", extra={"video_id": video_id})
         with open(failed_path, "w") as _file:
             json.dump(video_metadata, _file, indent=4)
         return
@@ -81,7 +92,9 @@ def _process_video(video_metadata):
     if not video_metadata.get("videoInfo"):
         published_time_text = video_metadata["publishedTimeText"]["simpleText"]
         video_length = video_metadata["lengthText"]["accessibility"]["accessibilityData"]["label"]
-        video_length_seconds = TimeLength(video_length).total_seconds
+        video_length_seconds = TimeLength(video_length)
+        assert video_length_seconds.result.success
+        video_length_seconds = video_length_seconds.result.seconds
         video_length_seconds = int(video_length_seconds)
     else:
         published_time_text = video_metadata["videoInfo"]["runs"][-1]["text"]
@@ -99,13 +112,17 @@ def _process_video(video_metadata):
         "playlist_id": video_metadata["playlist_id"],
         "playlist_title": video_metadata["playlist_title"],
         "published_time_text": published_time_text,
-        "retrieved_time": str(datetime.datetime.utcnow()),
+        "retrieved_time": str(datetime.datetime.now(datetime.timezone.utc)),
     }
-    with open(processed_local_path, "w") as _file:
+    with open(local_path, "w") as _file:
         json.dump(video, _file, indent=4)
 
     return video
 
 
 if __name__ == "__main__":
-    handler()
+    if os.getenv("AMLO"):
+        channel_id = AMLO_CHANNEL_ID
+    else:
+        channel_id = SHEINBAUM_CHANNEL_ID
+    handler(channel_id)

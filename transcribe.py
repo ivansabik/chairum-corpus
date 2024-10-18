@@ -3,9 +3,11 @@ import json
 import os
 
 import whisper
+from aws_lambda_powertools import Logger
 from pytubefix import YouTube, exceptions
 from timelength import TimeLength
 
+logger = Logger()
 videos = [f for f in os.listdir("failed")]
 
 all_data = []
@@ -18,7 +20,7 @@ for video in videos:
     if os.path.isfile(f"manual_transcriptions/{video}"):
         continue
 
-    print(f"Downloading video {video_id}")
+    logger.info("Downloading video", extra={"video_id": video_id})
     video_url = f"https://www.youtube.com/watch?v={video_id}"
     try:
         audio_file = (
@@ -29,21 +31,21 @@ for video in videos:
         )
     # KeyError: 'content-length'
     except KeyError:
-        print(f"Failed obtaining audio for {video_id} (KeyError)")
+        logger.error("Failed obtaining audio (KeyError)", extra={"video_id": video_id})
         continue
     # kZB-Up9HnT4 is age restricted, and can't be accessed without logging in.
     except exceptions.AgeRestrictedError:
-        print(f"Failed obtaining audio for {video_id} (AgeRestrictedError)")
+        logger.error("Failed obtaining audio (AgeRestrictedError)", extra={"video_id": video_id})
         continue
     # jys_9oreLA0 is a private video
     except exceptions.VideoPrivate:
-        print(f"Failed obtaining audio for {video_id} (VideoPrivate)")
+        logger.error("Failed obtaining audio(VideoPrivate)", extra={"video_id": video_id})
         continue
     # EMb7n2q5qSc is streaming live and cannot be loaded
     except exceptions.LiveStreamError:
-        print(f"Failed obtaining audio for {video_id} (LiveStreamError)")
+        logger.error("Failed obtaining audio (LiveStreamError)", extra={"video_id": video_id})
         continue
-    print(f"Transcribing video {video_id}")
+    logger.info("Transcribing video", extra={"video_id": video_id})
     whisper_model = whisper.load_model("medium")
     # TODO: Try tweaking the patience and bean_size, eg. patience=2, beam_size=5
     transcription = whisper_model.transcribe(audio_file, language="es")
@@ -79,7 +81,7 @@ for video in videos:
         if video_metadata.get("lengthSeconds"):
             video_length_seconds = int(video_metadata["lengthSeconds"])
         else:
-            print(f"Length not found for video {video_id}")
+            logger.error("Length not found", extra={"video_id": video_id})
             video_length_seconds = None
 
     video = {
@@ -102,4 +104,4 @@ for video in videos:
         json.dump(video, _file, indent=4)
 
     os.remove(_video_metadata_file)
-    print(f"Wrote {processed_local_path}")
+    logger.info("Wrote file", extra={"processed_local_path": processed_local_path})

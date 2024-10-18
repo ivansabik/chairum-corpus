@@ -1,3 +1,4 @@
+aws-lambda-powertools
 ffmpeg-python
 openai-whisper
 pandas
