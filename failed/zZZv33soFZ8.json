@@ -1,0 +1,272 @@
+{
+    "videoId": "zZZv33soFZ8",
+    "thumbnail": {
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/zZZv33soFZ8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3TJh3fG2xun7Ggv89QXnEi_TwQw",
+                "width": 168,
+                "height": 94
+            },
+            {
+                "url": "https://i.ytimg.com/vi/zZZv33soFZ8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhc4DeAH3dX9tbmHWoBNSgBV_rhw",
+                "width": 196,
+                "height": 110
+            },
+            {
+                "url": "https://i.ytimg.com/vi/zZZv33soFZ8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZyZg5DuH2p9TRjm9-sJrQRl2brQ",
+                "width": 246,
+                "height": 138
+            },
+            {
+                "url": "https://i.ytimg.com/vi/zZZv33soFZ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB64Jb8n4OVhJL2XML9tS3lPLxHCA",
+                "width": 336,
+                "height": 188
+            }
+        ]
+    },
+    "title": {
+        "runs": [
+            {
+                "text": "Toma de Protesta del Presidente Andr\u00e9s Manuel L\u00f3pez Obrador"
+            }
+        ],
+        "accessibility": {
+            "accessibilityData": {
+                "label": "Toma de Protesta del Presidente Andr\u00e9s Manuel L\u00f3pez Obrador by Gobierno de M\u00e9xico 78,434 views 5 years ago 6 minutes, 17 seconds"
+            }
+        }
+    },
+    "index": {
+        "simpleText": "1"
+    },
+    "shortBylineText": {
+        "runs": [
+            {
+                "text": "Gobierno de M\u00e9xico",
+                "navigationEndpoint": {
+                    "clickTrackingParams": "CHMQxjQYACITCLrO78CrmIkDFdbSFgkdULw43g==",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "url": "/@gobiernodemexico",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                        }
+                    },
+                    "browseEndpoint": {
+                        "browseId": "UCvzHrtf9by1-UY67SfZse8w",
+                        "canonicalBaseUrl": "/@gobiernodemexico"
+                    }
+                }
+            }
+        ]
+    },
+    "lengthText": {
+        "accessibility": {
+            "accessibilityData": {
+                "label": "6 minutes, 17 seconds"
+            }
+        },
+        "simpleText": "6:17"
+    },
+    "navigationEndpoint": {
+        "clickTrackingParams": "CHMQxjQYACITCLrO78CrmIkDFdbSFgkdULw43jIKcGxwcF92aWRlb1okVkxQTC13RUU4Vm1XYUozM1h0czZWamlDSk5hTW9kNmlSLUpQmgEHCAwQ-iwYAQ==",
+        "commandMetadata": {
+            "webCommandMetadata": {
+                "url": "/watch?v=zZZv33soFZ8&list=PL-wEE8VmWaJ33Xts6VjiCJNaMod6iR-JP&index=1&pp=iAQB",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+            }
+        },
+        "watchEndpoint": {
+            "videoId": "zZZv33soFZ8",
+            "playlistId": "PL-wEE8VmWaJ33Xts6VjiCJNaMod6iR-JP",
+            "index": 0,
+            "params": "OAI%3D",
+            "playerParams": "iAQB",
+            "loggingContext": {
+                "vssLoggingContext": {
+                    "serializedContextData": "GiJQTC13RUU4Vm1XYUozM1h0czZWamlDSk5hTW9kNmlSLUpQ"
+                }
+            },
+            "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                        "url": "https://rr3---sn-q4flrnek.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=cd966fdf7b28159f&ip=2600%3A1700%3A4940%3Aa790%3Acd7d%3A24e6%3A5e57%3A9c70&initcwndbps=547500&mt=1729268233&oweuc=&pxtags=Cg4KAnR4Egg1MTMwMzgyMA&rxtags=Cg4KAnR4Egg1MTMwMzgxOA%2CCg4KAnR4Egg1MTMwMzgxOQ%2CCg4KAnR4Egg1MTMwMzgyMA%2CCg4KAnR4Egg1MTMwMzgyMQ"
+                    }
+                }
+            }
+        }
+    },
+    "lengthSeconds": "377",
+    "trackingParams": "CHMQxjQYACITCLrO78CrmIkDFdbSFgkdULw43g==",
+    "isPlayable": true,
+    "menu": {
+        "menuRenderer": {
+            "items": [
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Add to queue"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CHYQ_pgEGAYiEwi6zu_Aq5iJAxXW0hYJHVC8ON4=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true
+                                }
+                            },
+                            "signalServiceEndpoint": {
+                                "signal": "CLIENT_SIGNAL",
+                                "actions": [
+                                    {
+                                        "clickTrackingParams": "CHYQ_pgEGAYiEwi6zu_Aq5iJAxXW0hYJHVC8ON4=",
+                                        "addToPlaylistCommand": {
+                                            "openMiniplayer": true,
+                                            "videoId": "zZZv33soFZ8",
+                                            "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                            "onCreateListCommand": {
+                                                "clickTrackingParams": "CHYQ_pgEGAYiEwi6zu_Aq5iJAxXW0hYJHVC8ON4=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "sendPost": true,
+                                                        "apiUrl": "/youtubei/v1/playlist/create"
+                                                    }
+                                                },
+                                                "createPlaylistServiceEndpoint": {
+                                                    "videoIds": [
+                                                        "zZZv33soFZ8"
+                                                    ],
+                                                    "params": "CAQ%3D"
+                                                }
+                                            },
+                                            "videoIds": [
+                                                "zZZv33soFZ8"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CHYQ_pgEGAYiEwi6zu_Aq5iJAxXW0hYJHVC8ON4="
+                    }
+                },
+                {
+                    "menuServiceItemDownloadRenderer": {
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CHUQ0aoFGAciEwi6zu_Aq5iJAxXW0hYJHVC8ON4=",
+                            "offlineVideoEndpoint": {
+                                "videoId": "zZZv33soFZ8",
+                                "onAddCommand": {
+                                    "clickTrackingParams": "CHUQ0aoFGAciEwi6zu_Aq5iJAxXW0hYJHVC8ON4=",
+                                    "getDownloadActionCommand": {
+                                        "videoId": "zZZv33soFZ8",
+                                        "params": "CAIQAA%3D%3D"
+                                    }
+                                }
+                            }
+                        },
+                        "trackingParams": "CHUQ0aoFGAciEwi6zu_Aq5iJAxXW0hYJHVC8ON4="
+                    }
+                },
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Share"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "SHARE"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CHMQxjQYACITCLrO78CrmIkDFdbSFgkdULw43g==",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/share/get_share_panel"
+                                }
+                            },
+                            "shareEntityServiceEndpoint": {
+                                "serializedShareEntity": "Cgt6Wlp2MzNzb0ZaOA%3D%3D",
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CHMQxjQYACITCLrO78CrmIkDFdbSFgkdULw43g==",
+                                        "openPopupAction": {
+                                            "popup": {
+                                                "unifiedSharePanelRenderer": {
+                                                    "trackingParams": "CHQQjmIiEwi6zu_Aq5iJAxXW0hYJHVC8ON4=",
+                                                    "showLoadingSpinner": true
+                                                }
+                                            },
+                                            "popupType": "DIALOG",
+                                            "beReused": true
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CHMQxjQYACITCLrO78CrmIkDFdbSFgkdULw43g==",
+                        "hasSeparator": true
+                    }
+                }
+            ],
+            "trackingParams": "CHMQxjQYACITCLrO78CrmIkDFdbSFgkdULw43g==",
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Action menu"
+                }
+            }
+        }
+    },
+    "thumbnailOverlays": [
+        {
+            "thumbnailOverlayTimeStatusRenderer": {
+                "text": {
+                    "accessibility": {
+                        "accessibilityData": {
+                            "label": "6 minutes, 17 seconds"
+                        }
+                    },
+                    "simpleText": "6:17"
+                },
+                "style": "DEFAULT"
+            }
+        },
+        {
+            "thumbnailOverlayNowPlayingRenderer": {
+                "text": {
+                    "runs": [
+                        {
+                            "text": "Now playing"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "videoInfo": {
+        "runs": [
+            {
+                "text": "78K views"
+            },
+            {
+                "text": " \u2022 "
+            },
+            {
+                "text": "5 years ago"
+            }
+        ]
+    },
+    "playlist_id": "PL-wEE8VmWaJ33Xts6VjiCJNaMod6iR-JP",
+    "playlist_title": "Toma de Protesta AMLO | 1 de diciembre de 2018"
+}

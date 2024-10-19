@@ -1,0 +1,272 @@
+{
+    "videoId": "P99zCWPEuu0",
+    "thumbnail": {
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/P99zCWPEuu0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaEYmXAu3VqrICevv4P4ZohTtseQ",
+                "width": 168,
+                "height": 94
+            },
+            {
+                "url": "https://i.ytimg.com/vi/P99zCWPEuu0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNm9s1vgYE7zgPG3GGXOe0mC3PNw",
+                "width": 196,
+                "height": 110
+            },
+            {
+                "url": "https://i.ytimg.com/vi/P99zCWPEuu0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKuTfiyrfNdDGk3hcxg8kpPhnwzw",
+                "width": 246,
+                "height": 138
+            },
+            {
+                "url": "https://i.ytimg.com/vi/P99zCWPEuu0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCHoftE4Wab7BGvQ3O-96t_Y0WPw",
+                "width": 336,
+                "height": 188
+            }
+        ]
+    },
+    "title": {
+        "runs": [
+            {
+                "text": "#IMSSBienestar | Di\u00e1logo con la comunidad del Hospital Rural Metepec, Hidalgo."
+            }
+        ],
+        "accessibility": {
+            "accessibilityData": {
+                "label": "#IMSSBienestar | Di\u00e1logo con la comunidad del Hospital Rural Metepec, Hidalgo. by Gobierno de M\u00e9xico 5,111 views Streamed 5 years ago 1 hour, 25 minutes"
+            }
+        }
+    },
+    "index": {
+        "simpleText": "48"
+    },
+    "shortBylineText": {
+        "runs": [
+            {
+                "text": "Gobierno de M\u00e9xico",
+                "navigationEndpoint": {
+                    "clickTrackingParams": "CJYBEMY0GC8iEwin7JvFqpiJAxU_yxYJHdV2MOo=",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "url": "/@gobiernodemexico",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                        }
+                    },
+                    "browseEndpoint": {
+                        "browseId": "UCvzHrtf9by1-UY67SfZse8w",
+                        "canonicalBaseUrl": "/@gobiernodemexico"
+                    }
+                }
+            }
+        ]
+    },
+    "lengthText": {
+        "accessibility": {
+            "accessibilityData": {
+                "label": "1 hour, 25 minutes, 23 seconds"
+            }
+        },
+        "simpleText": "1:25:23"
+    },
+    "navigationEndpoint": {
+        "clickTrackingParams": "CJYBEMY0GC8iEwin7JvFqpiJAxU_yxYJHdV2MOoyCnBscHBfdmlkZW9aJFZMUEwtd0VFOFZtV2FKMjk3RHZUWG9FeXl2YXM0dXZoZ3laTZoBBwgMEPosGAE=",
+        "commandMetadata": {
+            "webCommandMetadata": {
+                "url": "/watch?v=P99zCWPEuu0&list=PL-wEE8VmWaJ297DvTXoEyyvas4uvhgyZM&index=48&pp=iAQB",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+            }
+        },
+        "watchEndpoint": {
+            "videoId": "P99zCWPEuu0",
+            "playlistId": "PL-wEE8VmWaJ297DvTXoEyyvas4uvhgyZM",
+            "index": 47,
+            "params": "OAI%3D",
+            "playerParams": "iAQB",
+            "loggingContext": {
+                "vssLoggingContext": {
+                    "serializedContextData": "GiJQTC13RUU4Vm1XYUoyOTdEdlRYb0V5eXZhczR1dmhneVpN"
+                }
+            },
+            "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                        "url": "https://rr5---sn-q4fl6n6d.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=3fdf730963c4baed&ip=2600%3A1700%3A4940%3Aa790%3Acd7d%3A24e6%3A5e57%3A9c70&initcwndbps=556250&mt=1729267996&oweuc="
+                    }
+                }
+            }
+        }
+    },
+    "lengthSeconds": "5123",
+    "trackingParams": "CJYBEMY0GC8iEwin7JvFqpiJAxU_yxYJHdV2MOo=",
+    "isPlayable": true,
+    "menu": {
+        "menuRenderer": {
+            "items": [
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Add to queue"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CJkBEP6YBBgGIhMIp-ybxaqYiQMVP8sWCR3VdjDq",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true
+                                }
+                            },
+                            "signalServiceEndpoint": {
+                                "signal": "CLIENT_SIGNAL",
+                                "actions": [
+                                    {
+                                        "clickTrackingParams": "CJkBEP6YBBgGIhMIp-ybxaqYiQMVP8sWCR3VdjDq",
+                                        "addToPlaylistCommand": {
+                                            "openMiniplayer": true,
+                                            "videoId": "P99zCWPEuu0",
+                                            "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                            "onCreateListCommand": {
+                                                "clickTrackingParams": "CJkBEP6YBBgGIhMIp-ybxaqYiQMVP8sWCR3VdjDq",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "sendPost": true,
+                                                        "apiUrl": "/youtubei/v1/playlist/create"
+                                                    }
+                                                },
+                                                "createPlaylistServiceEndpoint": {
+                                                    "videoIds": [
+                                                        "P99zCWPEuu0"
+                                                    ],
+                                                    "params": "CAQ%3D"
+                                                }
+                                            },
+                                            "videoIds": [
+                                                "P99zCWPEuu0"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CJkBEP6YBBgGIhMIp-ybxaqYiQMVP8sWCR3VdjDq"
+                    }
+                },
+                {
+                    "menuServiceItemDownloadRenderer": {
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CJgBENGqBRgHIhMIp-ybxaqYiQMVP8sWCR3VdjDq",
+                            "offlineVideoEndpoint": {
+                                "videoId": "P99zCWPEuu0",
+                                "onAddCommand": {
+                                    "clickTrackingParams": "CJgBENGqBRgHIhMIp-ybxaqYiQMVP8sWCR3VdjDq",
+                                    "getDownloadActionCommand": {
+                                        "videoId": "P99zCWPEuu0",
+                                        "params": "CAIQAA%3D%3D"
+                                    }
+                                }
+                            }
+                        },
+                        "trackingParams": "CJgBENGqBRgHIhMIp-ybxaqYiQMVP8sWCR3VdjDq"
+                    }
+                },
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Share"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "SHARE"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CJYBEMY0GC8iEwin7JvFqpiJAxU_yxYJHdV2MOo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/share/get_share_panel"
+                                }
+                            },
+                            "shareEntityServiceEndpoint": {
+                                "serializedShareEntity": "CgtQOTl6Q1dQRXV1MA%3D%3D",
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CJYBEMY0GC8iEwin7JvFqpiJAxU_yxYJHdV2MOo=",
+                                        "openPopupAction": {
+                                            "popup": {
+                                                "unifiedSharePanelRenderer": {
+                                                    "trackingParams": "CJcBEI5iIhMIp-ybxaqYiQMVP8sWCR3VdjDq",
+                                                    "showLoadingSpinner": true
+                                                }
+                                            },
+                                            "popupType": "DIALOG",
+                                            "beReused": true
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CJYBEMY0GC8iEwin7JvFqpiJAxU_yxYJHdV2MOo=",
+                        "hasSeparator": true
+                    }
+                }
+            ],
+            "trackingParams": "CJYBEMY0GC8iEwin7JvFqpiJAxU_yxYJHdV2MOo=",
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Action menu"
+                }
+            }
+        }
+    },
+    "thumbnailOverlays": [
+        {
+            "thumbnailOverlayTimeStatusRenderer": {
+                "text": {
+                    "accessibility": {
+                        "accessibilityData": {
+                            "label": "1 hour, 25 minutes, 23 seconds"
+                        }
+                    },
+                    "simpleText": "1:25:23"
+                },
+                "style": "DEFAULT"
+            }
+        },
+        {
+            "thumbnailOverlayNowPlayingRenderer": {
+                "text": {
+                    "runs": [
+                        {
+                            "text": "Now playing"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "videoInfo": {
+        "runs": [
+            {
+                "text": "5.1K views"
+            },
+            {
+                "text": " \u2022 "
+            },
+            {
+                "text": "Streamed 5 years ago"
+            }
+        ]
+    },
+    "playlist_id": "PL-wEE8VmWaJ297DvTXoEyyvas4uvhgyZM",
+    "playlist_title": "IMSS Bienestar | Gira por los #HospitalesBienestar"
+}

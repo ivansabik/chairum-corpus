@@ -1,0 +1,272 @@
+{
+    "videoId": "s_5up7k8n_I",
+    "thumbnail": {
+        "thumbnails": [
+            {
+                "url": "https://i.ytimg.com/vi/s_5up7k8n_I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAYsD2eP5f1vkIROqXbxRJc0MIXWQ",
+                "width": 168,
+                "height": 94
+            },
+            {
+                "url": "https://i.ytimg.com/vi/s_5up7k8n_I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSUG08SKcBUYFOV56KASt3R4S8FQ",
+                "width": 196,
+                "height": 110
+            },
+            {
+                "url": "https://i.ytimg.com/vi/s_5up7k8n_I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTluaz326DVXaP0OEY4OXzZjnt5g",
+                "width": 246,
+                "height": 138
+            },
+            {
+                "url": "https://i.ytimg.com/vi/s_5up7k8n_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeE6wHPW6KcHmDrVz8Cuba15u2QQ",
+                "width": 336,
+                "height": 188
+            }
+        ]
+    },
+    "title": {
+        "runs": [
+            {
+                "text": "Visita oficial del presidente de la Rep\u00fablica de Panam\u00e1, Laurentino Cortizo Cohen"
+            }
+        ],
+        "accessibility": {
+            "accessibilityData": {
+                "label": "Visita oficial del presidente de la Rep\u00fablica de Panam\u00e1, Laurentino Cortizo Cohen by Gobierno de M\u00e9xico 10,624 views Streamed 4 years ago 7 minutes, 16 seconds"
+            }
+        }
+    },
+    "index": {
+        "simpleText": "61"
+    },
+    "shortBylineText": {
+        "runs": [
+            {
+                "text": "Gobierno de M\u00e9xico",
+                "navigationEndpoint": {
+                    "clickTrackingParams": "CEsQxjQYPCITCO-u7KCrmIkDFQjFFgkdxTINmQ==",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "url": "/@gobiernodemexico",
+                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                            "rootVe": 3611,
+                            "apiUrl": "/youtubei/v1/browse"
+                        }
+                    },
+                    "browseEndpoint": {
+                        "browseId": "UCvzHrtf9by1-UY67SfZse8w",
+                        "canonicalBaseUrl": "/@gobiernodemexico"
+                    }
+                }
+            }
+        ]
+    },
+    "lengthText": {
+        "accessibility": {
+            "accessibilityData": {
+                "label": "7 minutes, 16 seconds"
+            }
+        },
+        "simpleText": "7:16"
+    },
+    "navigationEndpoint": {
+        "clickTrackingParams": "CEsQxjQYPCITCO-u7KCrmIkDFQjFFgkdxTINmTIKcGxwcF92aWRlb1okVkxQTC13RUU4Vm1XYUozODYyalRIWnpNdGFvRDJERzlFdjRlmgEHCAwQ-iwYAQ==",
+        "commandMetadata": {
+            "webCommandMetadata": {
+                "url": "/watch?v=s_5up7k8n_I&list=PL-wEE8VmWaJ3862jTHZzMtaoD2DG9Ev4e&index=61&pp=iAQB",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+            }
+        },
+        "watchEndpoint": {
+            "videoId": "s_5up7k8n_I",
+            "playlistId": "PL-wEE8VmWaJ3862jTHZzMtaoD2DG9Ev4e",
+            "index": 60,
+            "params": "OAI%3D",
+            "playerParams": "iAQB",
+            "loggingContext": {
+                "vssLoggingContext": {
+                    "serializedContextData": "GiJQTC13RUU4Vm1XYUozODYyalRIWnpNdGFvRDJERzlFdjRl"
+                }
+            },
+            "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                        "url": "https://rr5---sn-q4fzen7l.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=b3fe6ea7b93c9ff2&ip=2600%3A1700%3A4940%3Aa790%3Acd7d%3A24e6%3A5e57%3A9c70&initcwndbps=556250&mt=1729267996&oweuc="
+                    }
+                }
+            }
+        }
+    },
+    "lengthSeconds": "436",
+    "trackingParams": "CEsQxjQYPCITCO-u7KCrmIkDFQjFFgkdxTINmQ==",
+    "isPlayable": true,
+    "menu": {
+        "menuRenderer": {
+            "items": [
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Add to queue"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "ADD_TO_QUEUE_TAIL"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CE4Q_pgEGAYiEwjvruygq5iJAxUIxRYJHcUyDZk=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true
+                                }
+                            },
+                            "signalServiceEndpoint": {
+                                "signal": "CLIENT_SIGNAL",
+                                "actions": [
+                                    {
+                                        "clickTrackingParams": "CE4Q_pgEGAYiEwjvruygq5iJAxUIxRYJHcUyDZk=",
+                                        "addToPlaylistCommand": {
+                                            "openMiniplayer": true,
+                                            "videoId": "s_5up7k8n_I",
+                                            "listType": "PLAYLIST_EDIT_LIST_TYPE_QUEUE",
+                                            "onCreateListCommand": {
+                                                "clickTrackingParams": "CE4Q_pgEGAYiEwjvruygq5iJAxUIxRYJHcUyDZk=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "sendPost": true,
+                                                        "apiUrl": "/youtubei/v1/playlist/create"
+                                                    }
+                                                },
+                                                "createPlaylistServiceEndpoint": {
+                                                    "videoIds": [
+                                                        "s_5up7k8n_I"
+                                                    ],
+                                                    "params": "CAQ%3D"
+                                                }
+                                            },
+                                            "videoIds": [
+                                                "s_5up7k8n_I"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CE4Q_pgEGAYiEwjvruygq5iJAxUIxRYJHcUyDZk="
+                    }
+                },
+                {
+                    "menuServiceItemDownloadRenderer": {
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CE0Q0aoFGAciEwjvruygq5iJAxUIxRYJHcUyDZk=",
+                            "offlineVideoEndpoint": {
+                                "videoId": "s_5up7k8n_I",
+                                "onAddCommand": {
+                                    "clickTrackingParams": "CE0Q0aoFGAciEwjvruygq5iJAxUIxRYJHcUyDZk=",
+                                    "getDownloadActionCommand": {
+                                        "videoId": "s_5up7k8n_I",
+                                        "params": "CAIQAA%3D%3D"
+                                    }
+                                }
+                            }
+                        },
+                        "trackingParams": "CE0Q0aoFGAciEwjvruygq5iJAxUIxRYJHcUyDZk="
+                    }
+                },
+                {
+                    "menuServiceItemRenderer": {
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Share"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "SHARE"
+                        },
+                        "serviceEndpoint": {
+                            "clickTrackingParams": "CEsQxjQYPCITCO-u7KCrmIkDFQjFFgkdxTINmQ==",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/share/get_share_panel"
+                                }
+                            },
+                            "shareEntityServiceEndpoint": {
+                                "serializedShareEntity": "CgtzXzV1cDdrOG5fSQ%3D%3D",
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CEsQxjQYPCITCO-u7KCrmIkDFQjFFgkdxTINmQ==",
+                                        "openPopupAction": {
+                                            "popup": {
+                                                "unifiedSharePanelRenderer": {
+                                                    "trackingParams": "CEwQjmIiEwjvruygq5iJAxUIxRYJHcUyDZk=",
+                                                    "showLoadingSpinner": true
+                                                }
+                                            },
+                                            "popupType": "DIALOG",
+                                            "beReused": true
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CEsQxjQYPCITCO-u7KCrmIkDFQjFFgkdxTINmQ==",
+                        "hasSeparator": true
+                    }
+                }
+            ],
+            "trackingParams": "CEsQxjQYPCITCO-u7KCrmIkDFQjFFgkdxTINmQ==",
+            "accessibility": {
+                "accessibilityData": {
+                    "label": "Action menu"
+                }
+            }
+        }
+    },
+    "thumbnailOverlays": [
+        {
+            "thumbnailOverlayTimeStatusRenderer": {
+                "text": {
+                    "accessibility": {
+                        "accessibilityData": {
+                            "label": "7 minutes, 16 seconds"
+                        }
+                    },
+                    "simpleText": "7:16"
+                },
+                "style": "DEFAULT"
+            }
+        },
+        {
+            "thumbnailOverlayNowPlayingRenderer": {
+                "text": {
+                    "runs": [
+                        {
+                            "text": "Now playing"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "videoInfo": {
+        "runs": [
+            {
+                "text": "10K views"
+            },
+            {
+                "text": " \u2022 "
+            },
+            {
+                "text": "Streamed 4 years ago"
+            }
+        ]
+    },
+    "playlist_id": "PL-wEE8VmWaJ3862jTHZzMtaoD2DG9Ev4e",
+    "playlist_title": "Colaboraci\u00f3n Presidencial"
+}
